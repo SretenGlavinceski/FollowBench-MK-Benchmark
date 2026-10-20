@@ -117,13 +117,3 @@ Settings: 4-bit NF4, greedy decoding, seed 42, up to 2,048 new tokens, one user 
 
 The English instructions come from [FollowBench](https://github.com/YJiangcm/FollowBench) (Jiang et al., ACL 2024), released under the Apache-2.0 license. The Macedonian prompts are our machine translations of those instructions.
 
-## Citation
-
-```bibtex
-@misc{spirovska2026followbenchmk,
-  title  = {From Rule Selection to Constraint Following: Evaluating Open-Weight LLMs on Macedonian and English Instructions},
-  author = {Spirovska, Martina and Glavincheski, Sreten},
-  year   = {2026},
-  note   = {Faculty of Computer Science and Engineering, Ss. Cyril and Methodius University in Skopje}
-}
-```
