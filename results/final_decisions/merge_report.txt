@@ -1,0 +1,6 @@
+FINAL DECISIONS
+criterion decisions: 1797 (YES 1097, NO 700)
+decided by both judges agreeing: 1625
+decided by adjudication: 172
+responses: 705 judged, 95 truncated (not judged)
+all checks passed
