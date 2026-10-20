@@ -1,0 +1,180 @@
+{
+ "packets": [
+  {
+   "packet_id": "J0126",
+   "criteria": [
+    "C1"
+   ]
+  },
+  {
+   "packet_id": "J0127",
+   "criteria": [
+    "C1"
+   ]
+  },
+  {
+   "packet_id": "J0128",
+   "criteria": [
+    "C1"
+   ]
+  },
+  {
+   "packet_id": "J0129",
+   "criteria": [
+    "C1",
+    "C2",
+    "C3",
+    "C4",
+    "C5"
+   ]
+  },
+  {
+   "packet_id": "J0130",
+   "criteria": [
+    "C1"
+   ]
+  },
+  {
+   "packet_id": "J0131",
+   "criteria": [
+    "C1",
+    "C2",
+    "C3",
+    "C4"
+   ]
+  },
+  {
+   "packet_id": "J0132",
+   "criteria": [
+    "C1"
+   ]
+  },
+  {
+   "packet_id": "J0133",
+   "criteria": [
+    "C1"
+   ]
+  },
+  {
+   "packet_id": "J0134",
+   "criteria": [
+    "C1",
+    "C2",
+    "C3",
+    "C4"
+   ]
+  },
+  {
+   "packet_id": "J0135",
+   "criteria": [
+    "C1"
+   ]
+  },
+  {
+   "packet_id": "J0136",
+   "criteria": [
+    "C1"
+   ]
+  },
+  {
+   "packet_id": "J0137",
+   "criteria": [
+    "C1",
+    "C2"
+   ]
+  },
+  {
+   "packet_id": "J0138",
+   "criteria": [
+    "C1"
+   ]
+  },
+  {
+   "packet_id": "J0139",
+   "criteria": [
+    "C1"
+   ]
+  },
+  {
+   "packet_id": "J0140",
+   "criteria": [
+    "C1",
+    "C2"
+   ]
+  },
+  {
+   "packet_id": "J0141",
+   "criteria": [
+    "C1",
+    "C2",
+    "C3",
+    "C4",
+    "C5"
+   ]
+  },
+  {
+   "packet_id": "J0142",
+   "criteria": [
+    "C1",
+    "C2",
+    "C3"
+   ]
+  },
+  {
+   "packet_id": "J0143",
+   "criteria": [
+    "C1",
+    "C2",
+    "C3",
+    "C4"
+   ]
+  },
+  {
+   "packet_id": "J0144",
+   "criteria": [
+    "C1",
+    "C2"
+   ]
+  },
+  {
+   "packet_id": "J0145",
+   "criteria": [
+    "C1"
+   ]
+  },
+  {
+   "packet_id": "J0146",
+   "criteria": [
+    "C1",
+    "C2",
+    "C3",
+    "C4",
+    "C5"
+   ]
+  },
+  {
+   "packet_id": "J0147",
+   "criteria": [
+    "C1"
+   ]
+  },
+  {
+   "packet_id": "J0148",
+   "criteria": [
+    "C1"
+   ]
+  },
+  {
+   "packet_id": "J0149",
+   "criteria": [
+    "C1"
+   ]
+  },
+  {
+   "packet_id": "J0150",
+   "criteria": [
+    "C1"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,187 @@
+{
+ "packets": [
+  {
+   "packet_id": "J0394",
+   "criteria": [
+    "C1"
+   ]
+  },
+  {
+   "packet_id": "J0395",
+   "criteria": [
+    "C1"
+   ]
+  },
+  {
+   "packet_id": "J0396",
+   "criteria": [
+    "C1",
+    "C2"
+   ]
+  },
+  {
+   "packet_id": "J0397",
+   "criteria": [
+    "C1",
+    "C2",
+    "C3",
+    "C4",
+    "C5"
+   ]
+  },
+  {
+   "packet_id": "J0398",
+   "criteria": [
+    "C1"
+   ]
+  },
+  {
+   "packet_id": "J0399",
+   "criteria": [
+    "C1",
+    "C2",
+    "C3"
+   ]
+  },
+  {
+   "packet_id": "J0400",
+   "criteria": [
+    "C1"
+   ]
+  },
+  {
+   "packet_id": "J0401",
+   "criteria": [
+    "C1"
+   ]
+  },
+  {
+   "packet_id": "J0402",
+   "criteria": [
+    "C1"
+   ]
+  },
+  {
+   "packet_id": "J0403",
+   "criteria": [
+    "C1",
+    "C2",
+    "C3",
+    "C4",
+    "C5"
+   ]
+  },
+  {
+   "packet_id": "J0404",
+   "criteria": [
+    "C1",
+    "C2",
+    "C3"
+   ]
+  },
+  {
+   "packet_id": "J0405",
+   "criteria": [
+    "C1",
+    "C2",
+    "C3",
+    "C4",
+    "C5"
+   ]
+  },
+  {
+   "packet_id": "J0406",
+   "criteria": [
+    "C1",
+    "C2",
+    "C3",
+    "C4"
+   ]
+  },
+  {
+   "packet_id": "J0407",
+   "criteria": [
+    "C1",
+    "C2",
+    "C3"
+   ]
+  },
+  {
+   "packet_id": "J0408",
+   "criteria": [
+    "C1",
+    "C2"
+   ]
+  },
+  {
+   "packet_id": "J0409",
+   "criteria": [
+    "C1",
+    "C2",
+    "C3",
+    "C4"
+   ]
+  },
+  {
+   "packet_id": "J0410",
+   "criteria": [
+    "C1",
+    "C2",
+    "C3",
+    "C4",
+    "C5"
+   ]
+  },
+  {
+   "packet_id": "J0411",
+   "criteria": [
+    "C1",
+    "C2",
+    "C3",
+    "C4"
+   ]
+  },
+  {
+   "packet_id": "J0412",
+   "criteria": [
+    "C1",
+    "C2"
+   ]
+  },
+  {
+   "packet_id": "J0413",
+   "criteria": [
+    "C1"
+   ]
+  },
+  {
+   "packet_id": "J0414",
+   "criteria": [
+    "C1"
+   ]
+  },
+  {
+   "packet_id": "J0415",
+   "criteria": [
+    "C1",
+    "C2",
+    "C3"
+   ]
+  },
+  {
+   "packet_id": "J0416",
+   "criteria": [
+    "C1",
+    "C2",
+    "C3"
+   ]
+  },
+  {
+   "packet_id": "J0417",
+   "criteria": [
+    "C1",
+    "C2"
+   ]
+  }
+ ]
+}

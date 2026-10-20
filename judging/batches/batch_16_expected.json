@@ -1,0 +1,180 @@
+{
+ "packets": [
+  {
+   "packet_id": "J0370",
+   "criteria": [
+    "C1",
+    "C2",
+    "C3"
+   ]
+  },
+  {
+   "packet_id": "J0371",
+   "criteria": [
+    "C1"
+   ]
+  },
+  {
+   "packet_id": "J0372",
+   "criteria": [
+    "C1",
+    "C2",
+    "C3"
+   ]
+  },
+  {
+   "packet_id": "J0373",
+   "criteria": [
+    "C1"
+   ]
+  },
+  {
+   "packet_id": "J0374",
+   "criteria": [
+    "C1",
+    "C2",
+    "C3"
+   ]
+  },
+  {
+   "packet_id": "J0375",
+   "criteria": [
+    "C1",
+    "C2",
+    "C3",
+    "C4",
+    "C5"
+   ]
+  },
+  {
+   "packet_id": "J0376",
+   "criteria": [
+    "C1",
+    "C2"
+   ]
+  },
+  {
+   "packet_id": "J0377",
+   "criteria": [
+    "C1",
+    "C2"
+   ]
+  },
+  {
+   "packet_id": "J0378",
+   "criteria": [
+    "C1"
+   ]
+  },
+  {
+   "packet_id": "J0379",
+   "criteria": [
+    "C1"
+   ]
+  },
+  {
+   "packet_id": "J0380",
+   "criteria": [
+    "C1"
+   ]
+  },
+  {
+   "packet_id": "J0381",
+   "criteria": [
+    "C1",
+    "C2",
+    "C3",
+    "C4",
+    "C5"
+   ]
+  },
+  {
+   "packet_id": "J0382",
+   "criteria": [
+    "C1",
+    "C2"
+   ]
+  },
+  {
+   "packet_id": "J0383",
+   "criteria": [
+    "C1",
+    "C2",
+    "C3"
+   ]
+  },
+  {
+   "packet_id": "J0384",
+   "criteria": [
+    "C1"
+   ]
+  },
+  {
+   "packet_id": "J0385",
+   "criteria": [
+    "C1",
+    "C2",
+    "C3"
+   ]
+  },
+  {
+   "packet_id": "J0386",
+   "criteria": [
+    "C1",
+    "C2"
+   ]
+  },
+  {
+   "packet_id": "J0387",
+   "criteria": [
+    "C1"
+   ]
+  },
+  {
+   "packet_id": "J0388",
+   "criteria": [
+    "C1"
+   ]
+  },
+  {
+   "packet_id": "J0389",
+   "criteria": [
+    "C1"
+   ]
+  },
+  {
+   "packet_id": "J0390",
+   "criteria": [
+    "C1",
+    "C2"
+   ]
+  },
+  {
+   "packet_id": "J0391",
+   "criteria": [
+    "C1",
+    "C2",
+    "C3",
+    "C4",
+    "C5"
+   ]
+  },
+  {
+   "packet_id": "J0392",
+   "criteria": [
+    "C1",
+    "C2",
+    "C3",
+    "C4",
+    "C5"
+   ]
+  },
+  {
+   "packet_id": "J0393",
+   "criteria": [
+    "C1",
+    "C2"
+   ]
+  }
+ ]
+}
