@@ -1,0 +1,180 @@
+{
+ "packets": [
+  {
+   "packet_id": "J0490",
+   "criteria": [
+    "C1",
+    "C2",
+    "C3"
+   ]
+  },
+  {
+   "packet_id": "J0491",
+   "criteria": [
+    "C1"
+   ]
+  },
+  {
+   "packet_id": "J0492",
+   "criteria": [
+    "C1"
+   ]
+  },
+  {
+   "packet_id": "J0493",
+   "criteria": [
+    "C1",
+    "C2",
+    "C3",
+    "C4"
+   ]
+  },
+  {
+   "packet_id": "J0494",
+   "criteria": [
+    "C1"
+   ]
+  },
+  {
+   "packet_id": "J0495",
+   "criteria": [
+    "C1",
+    "C2",
+    "C3",
+    "C4"
+   ]
+  },
+  {
+   "packet_id": "J0496",
+   "criteria": [
+    "C1"
+   ]
+  },
+  {
+   "packet_id": "J0497",
+   "criteria": [
+    "C1"
+   ]
+  },
+  {
+   "packet_id": "J0498",
+   "criteria": [
+    "C1"
+   ]
+  },
+  {
+   "packet_id": "J0499",
+   "criteria": [
+    "C1",
+    "C2",
+    "C3",
+    "C4",
+    "C5"
+   ]
+  },
+  {
+   "packet_id": "J0500",
+   "criteria": [
+    "C1",
+    "C2",
+    "C3"
+   ]
+  },
+  {
+   "packet_id": "J0501",
+   "criteria": [
+    "C1"
+   ]
+  },
+  {
+   "packet_id": "J0502",
+   "criteria": [
+    "C1"
+   ]
+  },
+  {
+   "packet_id": "J0503",
+   "criteria": [
+    "C1"
+   ]
+  },
+  {
+   "packet_id": "J0504",
+   "criteria": [
+    "C1",
+    "C2",
+    "C3",
+    "C4",
+    "C5"
+   ]
+  },
+  {
+   "packet_id": "J0505",
+   "criteria": [
+    "C1",
+    "C2"
+   ]
+  },
+  {
+   "packet_id": "J0506",
+   "criteria": [
+    "C1"
+   ]
+  },
+  {
+   "packet_id": "J0507",
+   "criteria": [
+    "C1"
+   ]
+  },
+  {
+   "packet_id": "J0508",
+   "criteria": [
+    "C1",
+    "C2"
+   ]
+  },
+  {
+   "packet_id": "J0509",
+   "criteria": [
+    "C1"
+   ]
+  },
+  {
+   "packet_id": "J0510",
+   "criteria": [
+    "C1",
+    "C2",
+    "C3",
+    "C4"
+   ]
+  },
+  {
+   "packet_id": "J0511",
+   "criteria": [
+    "C1",
+    "C2",
+    "C3",
+    "C4"
+   ]
+  },
+  {
+   "packet_id": "J0512",
+   "criteria": [
+    "C1",
+    "C2",
+    "C3",
+    "C4",
+    "C5"
+   ]
+  },
+  {
+   "packet_id": "J0513",
+   "criteria": [
+    "C1",
+    "C2",
+    "C3"
+   ]
+  }
+ ]
+}

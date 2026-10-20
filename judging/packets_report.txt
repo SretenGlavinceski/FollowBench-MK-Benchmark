@@ -1,0 +1,41 @@
+JUDGE PACKETS
+valid responses: 705   (truncated, not judged: 95)
+criterion decisions per judge: 1797   en 959   mk 838
+packets on partially equivalent levels: 95
+
+PACKETS PER MODEL x LANGUAGE
+  domestic-yak-8b   en  78   mk  64
+  gemma-4-12b       en  96   mk  90
+  llama-3.1-8b      en 100   mk  84
+  qwen3.5-9b        en  99   mk  94
+
+BATCHES: 29
+  batch_01: 25 responses,  51 criteria, en 14 / mk 11, 4 models
+  batch_02: 25 responses,  70 criteria, en 13 / mk 12, 4 models
+  batch_03: 25 responses,  52 criteria, en 17 / mk  8, 4 models
+  batch_04: 25 responses,  62 criteria, en 14 / mk 11, 4 models
+  batch_05: 25 responses,  64 criteria, en 15 / mk 10, 4 models
+  batch_06: 25 responses,  51 criteria, en 12 / mk 13, 4 models
+  batch_07: 25 responses,  55 criteria, en 12 / mk 13, 4 models
+  batch_08: 25 responses,  66 criteria, en 10 / mk 15, 4 models
+  batch_09: 25 responses,  56 criteria, en 13 / mk 12, 4 models
+  batch_10: 24 responses,  71 criteria, en 14 / mk 10, 4 models
+  batch_11: 24 responses,  64 criteria, en 12 / mk 12, 4 models
+  batch_12: 24 responses,  59 criteria, en 13 / mk 11, 4 models
+  batch_13: 24 responses,  58 criteria, en 12 / mk 12, 4 models
+  batch_14: 24 responses,  62 criteria, en 14 / mk 10, 4 models
+  batch_15: 24 responses,  65 criteria, en 16 / mk  8, 4 models
+  batch_16: 24 responses,  56 criteria, en 14 / mk 10, 3 models
+  batch_17: 24 responses,  63 criteria, en 13 / mk 11, 4 models
+  batch_18: 24 responses,  66 criteria, en 10 / mk 14, 4 models
+  batch_19: 24 responses,  67 criteria, en 12 / mk 12, 4 models
+  batch_20: 24 responses,  66 criteria, en 14 / mk 10, 4 models
+  batch_21: 24 responses,  56 criteria, en 14 / mk 10, 4 models
+  batch_22: 24 responses,  66 criteria, en 12 / mk 12, 4 models
+  batch_23: 24 responses,  64 criteria, en 16 / mk  8, 4 models
+  batch_24: 24 responses,  64 criteria, en 11 / mk 13, 4 models
+  batch_25: 24 responses,  68 criteria, en 15 / mk  9, 4 models
+  batch_26: 24 responses,  62 criteria, en 11 / mk 13, 4 models
+  batch_27: 24 responses,  66 criteria, en 10 / mk 14, 4 models
+  batch_28: 24 responses,  66 criteria, en  9 / mk 15, 4 models
+  batch_29: 24 responses,  61 criteria, en 11 / mk 13, 4 models

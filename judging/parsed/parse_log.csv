@@ -1,0 +1,129 @@
+file,code,message
+judgeA_batch_01.jsonl,R3,1 citation marker(s) removed
+judgeB_batch_01.jsonl,R1,756 curly double quotes converted
+judgeB_batch_02.jsonl,R1,986 curly double quotes converted
+judgeB_batch_03.jsonl,R1,772 curly double quotes converted
+judgeA_batch_04.jsonl,R1,28 curly double quotes converted
+judgeA_batch_04.jsonl,R6,J0078: read field by field (invalid JSON)
+judgeA_batch_04.jsonl,R6,J0086: read field by field (invalid JSON)
+judgeA_batch_04.jsonl,R6,J0097: read field by field (invalid JSON)
+judgeA_batch_04.jsonl,R6,J0099: read field by field (invalid JSON)
+judgeA_batch_04.jsonl,R6,J0100: read field by field (invalid JSON)
+judgeB_batch_04.jsonl,R1,894 curly double quotes converted
+judgeB_batch_05.jsonl,R1,916 curly double quotes converted
+judgeB_batch_06.jsonl,R1,769 curly double quotes converted
+judgeB_batch_06.jsonl,R6,J0128: read field by field (invalid JSON)
+judgeB_batch_06.jsonl,R6,J0131: read field by field (invalid JSON)
+judgeB_batch_06.jsonl,R6,J0143: read field by field (invalid JSON)
+judgeB_batch_06.jsonl,R6,J0146: read field by field (invalid JSON)
+judgeB_batch_06.jsonl,R6,J0147: read field by field (invalid JSON)
+judgeB_batch_06.jsonl,R6,J0150: read field by field (invalid JSON)
+judgeA_batch_07.jsonl,R1,54 curly double quotes converted
+judgeA_batch_07.jsonl,R6,J0151: read field by field (invalid JSON)
+judgeA_batch_07.jsonl,R6,J0153: read field by field (invalid JSON)
+judgeA_batch_07.jsonl,R6,J0155: read field by field (invalid JSON)
+judgeA_batch_07.jsonl,R6,J0157: read field by field (invalid JSON)
+judgeA_batch_07.jsonl,R6,J0158: read field by field (invalid JSON)
+judgeA_batch_07.jsonl,R6,J0162: read field by field (invalid JSON)
+judgeA_batch_07.jsonl,R6,J0164: read field by field (invalid JSON)
+judgeA_batch_07.jsonl,R6,J0166: read field by field (invalid JSON)
+judgeA_batch_07.jsonl,R6,J0167: read field by field (invalid JSON)
+judgeA_batch_07.jsonl,R6,J0172: read field by field (invalid JSON)
+judgeA_batch_07.jsonl,R6,J0174: read field by field (invalid JSON)
+judgeA_batch_07.jsonl,R6,J0175: read field by field (invalid JSON)
+judgeB_batch_07.jsonl,R1,810 curly double quotes converted
+judgeB_batch_08.jsonl,R1,1006 curly double quotes converted
+judgeB_batch_08.jsonl,R2,26 objects found on 27 non-empty lines
+judgeB_batch_08.jsonl,R4,"ignored non-JSON text: Correction to J0190 C5 above: the decision should be YES, with evidence ""Text is entirely Macedonian; no words ending in"
+judgeB_batch_08.jsonl,R5,J0190 answered twice; later answer used
+judgeB_batch_09.jsonl,R1,822 curly double quotes converted
+judgeB_batch_10.jsonl,R1,996 curly double quotes converted
+judgeA_batch_11.jsonl,R1,26 curly double quotes converted
+judgeA_batch_11.jsonl,R6,J0250: read field by field (invalid JSON)
+judgeA_batch_11.jsonl,R6,J0258: read field by field (invalid JSON)
+judgeA_batch_11.jsonl,R6,J0260: read field by field (invalid JSON)
+judgeA_batch_11.jsonl,R6,J0265: read field by field (invalid JSON)
+judgeB_batch_11.jsonl,R1,910 curly double quotes converted
+judgeB_batch_12.jsonl,R1,852 curly double quotes converted
+judgeA_batch_13.jsonl,R1,42 curly double quotes converted
+judgeA_batch_13.jsonl,R3,1 citation marker(s) removed
+judgeA_batch_13.jsonl,R6,J0298: read field by field (invalid JSON)
+judgeA_batch_13.jsonl,R6,J0305: read field by field (invalid JSON)
+judgeA_batch_13.jsonl,R6,J0310: read field by field (invalid JSON)
+judgeA_batch_13.jsonl,R6,J0315: read field by field (invalid JSON)
+judgeB_batch_13.jsonl,R1,836 curly double quotes converted
+judgeB_batch_14.jsonl,R1,886 curly double quotes converted
+judgeA_batch_15.jsonl,R1,24 curly double quotes converted
+judgeA_batch_15.jsonl,R3,1 citation marker(s) removed
+judgeA_batch_15.jsonl,R6,J0346: read field by field (invalid JSON)
+judgeA_batch_15.jsonl,R6,J0348: read field by field (invalid JSON)
+judgeA_batch_15.jsonl,R6,J0352: read field by field (invalid JSON)
+judgeA_batch_15.jsonl,R6,J0354: read field by field (invalid JSON)
+judgeA_batch_15.jsonl,R6,J0358: read field by field (invalid JSON)
+judgeA_batch_15.jsonl,R6,J0359: read field by field (invalid JSON)
+judgeA_batch_15.jsonl,R6,J0367: read field by field (invalid JSON)
+judgeB_batch_15.jsonl,R1,924 curly double quotes converted
+judgeA_batch_16.jsonl,R2,24 objects found on 1 non-empty lines
+judgeB_batch_16.jsonl,R1,816 curly double quotes converted
+judgeB_batch_16.jsonl,R6,J0372: read field by field (invalid JSON)
+judgeA_batch_17.jsonl,R2,24 objects found on 1 non-empty lines
+judgeB_batch_17.jsonl,R1,900 curly double quotes converted
+judgeA_batch_18.jsonl,R1,68 curly double quotes converted
+judgeA_batch_18.jsonl,R2,24 objects found on 1 non-empty lines
+judgeA_batch_18.jsonl,R6,J0418: read field by field (invalid JSON)
+judgeA_batch_18.jsonl,R6,J0421: read field by field (invalid JSON)
+judgeA_batch_18.jsonl,R6,J0422: read field by field (invalid JSON)
+judgeA_batch_18.jsonl,R6,J0423: read field by field (invalid JSON)
+judgeA_batch_18.jsonl,R6,J0426: read field by field (invalid JSON)
+judgeA_batch_18.jsonl,R6,J0428: read field by field (invalid JSON)
+judgeA_batch_18.jsonl,R6,J0429: read field by field (invalid JSON)
+judgeA_batch_18.jsonl,R6,J0430: read field by field (invalid JSON)
+judgeA_batch_18.jsonl,R6,J0431: read field by field (invalid JSON)
+judgeA_batch_18.jsonl,R6,J0432: read field by field (invalid JSON)
+judgeA_batch_18.jsonl,R6,J0437: read field by field (invalid JSON)
+judgeA_batch_18.jsonl,R6,J0439: read field by field (invalid JSON)
+judgeA_batch_18.jsonl,R6,J0440: read field by field (invalid JSON)
+judgeB_batch_18.jsonl,R1,932 curly double quotes converted
+judgeA_batch_19.jsonl,R2,24 objects found on 1 non-empty lines
+judgeA_batch_19.jsonl,R6,J0461: read field by field (invalid JSON)
+judgeB_batch_19.jsonl,R1,948 curly double quotes converted
+judgeA_batch_20.jsonl,R2,24 objects found on 1 non-empty lines
+judgeB_batch_20.jsonl,R1,936 curly double quotes converted
+judgeA_batch_21.jsonl,R2,24 objects found on 1 non-empty lines
+judgeB_batch_21.jsonl,R1,816 curly double quotes converted
+judgeA_batch_22.jsonl,R2,24 objects found on 1 non-empty lines
+judgeB_batch_22.jsonl,R1,930 curly double quotes converted
+judgeA_batch_23.jsonl,R2,24 objects found on 1 non-empty lines
+judgeB_batch_23.jsonl,R1,912 curly double quotes converted
+judgeA_batch_24.jsonl,R2,24 objects found on 1 non-empty lines
+judgeB_batch_24.jsonl,R1,912 curly double quotes converted
+judgeA_batch_25.jsonl,R2,24 objects found on 1 non-empty lines
+judgeB_batch_25.jsonl,R1,958 curly double quotes converted
+judgeA_batch_26.jsonl,R2,24 objects found on 1 non-empty lines
+judgeA_batch_26.jsonl,R6,J0613: read field by field (invalid JSON)
+judgeB_batch_26.jsonl,R1,902 curly double quotes converted
+judgeB_batch_26.jsonl,R6,J0610: read field by field (invalid JSON)
+judgeB_batch_26.jsonl,R6,J0625: read field by field (invalid JSON)
+judgeA_batch_27.jsonl,R3,1 citation marker(s) removed
+judgeB_batch_27.jsonl,R1,936 curly double quotes converted
+judgeA_batch_28.jsonl,R2,24 objects found on 1 non-empty lines
+judgeB_batch_28.jsonl,R1,936 curly double quotes converted
+judgeA_batch_29.jsonl,R1,50 curly double quotes converted
+judgeA_batch_29.jsonl,R2,24 objects found on 1 non-empty lines
+judgeA_batch_29.jsonl,R6,J0682: read field by field (invalid JSON)
+judgeA_batch_29.jsonl,R6,J0684: read field by field (invalid JSON)
+judgeA_batch_29.jsonl,R6,J0685: read field by field (invalid JSON)
+judgeA_batch_29.jsonl,R6,J0687: read field by field (invalid JSON)
+judgeA_batch_29.jsonl,R6,J0688: read field by field (invalid JSON)
+judgeA_batch_29.jsonl,R6,J0689: read field by field (invalid JSON)
+judgeA_batch_29.jsonl,R6,J0690: read field by field (invalid JSON)
+judgeA_batch_29.jsonl,R6,J0692: read field by field (invalid JSON)
+judgeA_batch_29.jsonl,R6,J0693: read field by field (invalid JSON)
+judgeA_batch_29.jsonl,R6,J0694: read field by field (invalid JSON)
+judgeA_batch_29.jsonl,R6,J0696: read field by field (invalid JSON)
+judgeA_batch_29.jsonl,R6,J0699: read field by field (invalid JSON)
+judgeA_batch_29.jsonl,R6,J0700: read field by field (invalid JSON)
+judgeA_batch_29.jsonl,R6,J0701: read field by field (invalid JSON)
+judgeA_batch_29.jsonl,R6,J0703: read field by field (invalid JSON)
+judgeA_batch_29.jsonl,R6,J0704: read field by field (invalid JSON)
+judgeB_batch_29.jsonl,R1,876 curly double quotes converted

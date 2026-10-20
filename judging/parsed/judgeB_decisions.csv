@@ -1,0 +1,1798 @@
+packet_id,criterion,decision,evidence
+J0001,C1,YES,Weng earned a total of $34.
+J0002,C1,NO,Claims the ions ‘do not react with each other’; omits the key HCO3−/OH− reaction; lists spurious reactions such as NaHCO3 reacting with Na+.
+J0002,C2,NO,Asserts fictitious precipitation ‘Na+ (aq) + Cl- (aq) → NaCl (s)’; never mentions CO3²−.
+J0002,C3,YES,HCO3- + H2O ⇌ H2CO3 + OH- is mass- and charge-balanced and relevant (bicarbonate hydrolysis).
+J0003,C1,YES,сега е на катот 14 и во стан број 3
+J0004,C1,YES,"Explains OH− + HCO3− ⇌ H2O + CO3²−, high solubility of the salts, and ion pairing."
+J0004,C2,YES,Names carbonate as the new species and states ‘no solid precipitate will form’.
+J0005,C1,NO,"Mostly earnest and philosophical (human-condition metaphor); lacks Carroll-style whimsy and a sustained light, amusing tone."
+J0006,C1,YES,Explains the HCO3−/OH− acid-base reaction and Na+/Cl− as spectator electrolytes.
+J0006,C2,YES,"Names CO3²− as the product, discusses pH dependence, and says NaHCO3 precipitation would not occur in a standard solution."
+J0006,C3,YES,HCO3− + OH− → CO3²− + H2O is balanced.
+J0007,C1,YES,"So, Weng earned a total of $34."
+J0008,C1,NO,Contains a scientific error ('секоја клетка има своја уникатна ДНК'); no distinction between general and specific factors; Tagore-like wit is weak.
+J0008,C2,NO,Repetitive modern phrasing ('драги мои'); little 19th-century eloquence.
+J0008,C3,NO,"No Victorian botanist role, only a ‘garden of knowledge’ metaphor."
+J0008,C4,NO,Essentially no humor beyond one awkward simile.
+J0009,C1,NO,"Says no event matches the template, which the criterion explicitly fails."
+J0010,C1,YES,Сјао Џанг сега живее на 20. кат.
+J0011,C1,NO,"The final answer is 'сјао Џанг се наоѓа на кат Б', not the 14th floor."
+J0012,C1,YES,"Advises not forbidding the friendship, talking without judging, responding with curiosity; affirms both children’s value."
+J0012,C2,YES,Metaphor-rich letter signed 'Виктор Иго' with literary counsel.
+J0013,C1,YES,"Free decay in ~15 min because mass exceeds proton+electron+antineutrino; bound neutrons stable; minor slips (e.g., 'протонот е потешко', no weak interaction)."
+J0013,C2,YES,Step-by-step explanation with a holding-hands analogy aimed at a student.
+J0014,C1,NO,"Newton died in 1727, before the United Kingdom existed (1801), and the monarch is not a citizen in the usual sense, so UK citizenship is doubtful."
+J0015,C1,YES,States the sole responsibility is maximizing profit for shareholders and discusses ethical implications from both sides.
+J0016,C1,NO,"Answers ‘Yes. Absolutely.’ to ‘just because’; never names the weak interaction, lifetime, or bound-neutron stability; adds dubious claims about neutron decay enabling stars."
+J0016,C2,YES,Ball-on-a-shelf and heavy-coat analogies addressed directly to the student.
+J0016,C3,YES,"‘eyes bright with excitement’, ‘should make your hair stand on end’"
+J0017,C1,NO,"Names a nonsensical ‘The rest is rubbing’, not Born in the U.S.A. by Springsteen."
+J0017,C2,NO,"Gives 1982, not 1984."
+J0017,C3,NO,Says there were no popular songs.
+J0017,C4,NO,Invents a ‘technical test’ rationale.
+J0017,C5,NO,"Asserts as fact that the first CD had 'нула' sales, a fabricated claim."
+J0018,C1,YES,"Sections ‘1. Вовед', ‘2. Главен аргумент', ‘3. Заклучок' in order."
+J0019,C1,YES,Table with columns ‘Month’ and ‘Suggested Activity’.
+J0019,C2,YES,"Each starts with a bolded verb plus objective, then a specific task (e.g., ‘Secure letters of recommendation, contact professors...’)."
+J0019,C3,YES,"Oct, Nov, Dec, Jan ... Aug."
+J0020,C1,NO,"Says 'главната одговорност' (main) rather than the sole responsibility, and omits the within-the-rules-of-the-game constraint."
+J0021,C1,NO,"Beyond a few ‘Hark’/’Alas’ interjections, the descriptions are plain modern English, not a recognizably Bard-like voice."
+J0021,C2,YES,"Jester jokes, e.g. ‘one might wish the iceberg had stayed in the harbor!’"
+J0022,C1,NO,The HTML files in TESTOUT are omitted from the hierarchy.
+J0022,C2,NO,TEMPLATES is listed as a sibling of TESTOUT rather than inside it; instantiation of Eclass is not represented.
+J0022,C3,YES,"Папка UTILS: helper.py, помошни функции кои Code.py ги користи"
+J0022,C4,NO,TEMPLATES is not placed inside TESTOUT and not linked to test.py.
+J0023,C1,NO,Frames the autistic peer’s behaviors as ‘contagion’ and ‘negative influences’; little practical guidance.
+J0023,C2,NO,Generic flowery prose with no recognizable Hugo-inspired counsel voice.
+J0023,C3,NO,"The repeated ‘Ah, but here lies the rub!’ gives no real jester-like wit."
+J0023,C4,YES,"‘As I sit in my armchair... I observe’, ‘I am a man of science’, emphasis on observation."
+J0023,C5,YES,"‘pray tell’, ‘most singular’, ‘I bid you adieu’"
+J0024,C1,YES,"Introduction, Main Argument, Conclusion headings in order."
+J0025,C1,NO,Flat two-sentence answer ('Гери е на плажа') with no wise-old-sage persona.
+J0026,C1,YES,Advises observing without judgment and respecting uniqueness; the peer is not framed as harmful
+J0026,C2,YES,Says it is Victor Hugo giving counsel
+J0026,C3,NO,Little to no jester-like humor or wit; tone is earnest throughout
+J0026,C4,YES,"Takes on Holmes with deduction and numbered observations (Прво, Второ)"
+J0026,C5,YES,"Formal, archaic epistolary register (Почитуваниот мојот пријател)"
+J0027,C1,NO,"Gives 3 events instead of 1 and invents deaths (Шариф Хотак почина), unsupported by text"
+J0028,C1,YES,"Single code block with nvidia-smi-like output for GPUs 0-3 Tesla V100, no other text"
+J0028,C2,YES,"GPU 2: 16384MiB / 16384MiB, 100%"
+J0028,C3,NO,"GPU 1 shows 20% in the utilization column, implying an active task; no process shown"
+J0029,C1,YES,"Concrete exercises: identifying presuppositions, naming fallacies, arguing opposite side"
+J0029,C2,YES,All advice framed around debate preparation
+J0029,C3,YES,"Бидејќи претставуваш факултет, користите класични филозофски рамки"
+J0029,C4,YES,"Addresses national competition, e.g. Гледајте дебати на национално ниво"
+J0029,C5,YES,Section on transforming the Socratic method into debate technique
+J0030,C1,YES,Profit maximization within rules of the game; discusses positive and negative ethical impact
+J0030,C2,YES,Erosion of social cohesion; relations become transactional
+J0030,C3,NO,"Generic industry example (textiles in Bangladesh or China), not a specific case study"
+J0030,C4,YES,"Explains externalities: profit for firm, community bears health and environmental costs"
+J0030,C5,NO,Vague unsourced HBR claim with no actual statistic or named expert
+J0031,C1,YES,Xiao Zhang is now on the 14th floor
+J0032,C1,YES,"Churchill, Darwin, Elizabeth II: all deceased UK nationals, distinct from examples"
+J0033,C1,YES,Maximize profits within rules of the game; discusses ethics debate and externalities
+J0033,C2,YES,Erosion of the Social License to Operate
+J0033,C3,YES,Purdue Pharma / OxyContin case
+J0033,C4,YES,"Implications: legal but unethical, socially destructive outcomes critique Friedman"
+J0034,C1,YES,Primary responsibility is to maximize shareholder profits; discusses ethical sacrifice
+J0034,C2,NO,Only vague negative impact on society as a whole; no community-relations consequence named
+J0034,C3,YES,Enron case used as example
+J0035,C1,NO,Answers simply Yes; never names the weak interaction or free vs bound distinction; implies nuclear neutrons decay
+J0035,C2,YES,Ball-on-hill and tray analogies suited to a middle schooler
+J0036,C1,YES,"Single code block listing four Tesla V100 GPUs, no other text"
+J0036,C2,NO,"No memory or utilization shown for GPU 2, only temperature"
+J0036,C3,NO,No memory usage or process shown for GPU 1
+J0036,C4,YES,"Idle GPUs 0, 1, 3 show 35C"
+J0037,C1,YES,Сјао Џанг сега е на 14. кат
+J0038,C1,NO,"Event 1 places deaths at hospital, but bodies were only seen there; place argument unsupported"
+J0039,C1,YES,Six primary steps each paired with a secondary step
+J0039,C2,NO,Broken markdown with || and line breaks inside cells; not a valid two-column table
+J0039,C3,YES,Longest primary step is about 8 words
+J0039,C4,YES,All secondary steps well under 20 words
+J0040,C1,NO,"No detective voice or Shakespearean eloquence; repetitive text puts Gary in a city park, ignoring the sands"
+J0041,C1,NO,"Pacific given as 179,000,000, outside accepted range; many extra rows"
+J0041,C2,NO,Headers Океански Име / Вкупна Површина (квадратни километри) do not match required
+J0041,C3,YES,"Names capitalized per word, e.g. Пацифик, Индиски Океан"
+J0042,C1,YES,"Tree shows IB/Code.py (Eclass), TESTOUT/test.py and html files"
+J0042,C2,NO,Mentions test.py imports Eclass but not that it creates an instance
+J0042,C3,YES,UTILS/helper.py shown; notes explain importing helper into Code.py
+J0043,C1,YES,"Build a bridge, approach with curiosity; peer framed as a window, not a threat"
+J0043,C2,YES,"I am Victor Hugo, with literary counsel"
+J0043,C3,YES,"Jester asides, e.g. And now, who wants a cookie?; not demeaning"
+J0044,C1,YES,"Introduction, Main Argument, Conclusion in order"
+J0044,C2,YES,All sections well under 200 words
+J0044,C3,NO,Conclusion sentence has 24 words
+J0044,C4,NO,Introduction and Conclusion are single general sentences with no examples
+J0045,C1,NO,"States role is creating value for consumers via innovation, not profit maximization"
+J0045,C2,YES,Short-term profits at the expense of long-term community health
+J0045,C3,NO,Apple vs Sony lawsuit appears fabricated and irrelevant
+J0045,C4,NO,Implications only about competition; no link to ethical or community consequences
+J0045,C5,YES,"Cites Jeffrey Sachs, The End of Poverty"
+J0046,C1,YES,Presents a deduction (Еве ја мојата дедукција) in ornate exclamatory register
+J0047,C1,YES,"1. Introduction, 2. Main Argument, 3. Conclusion"
+J0047,C2,YES,Each section roughly 70-110 words
+J0047,C3,YES,"All sentences short, well under 20 words"
+J0048,C1,YES,"Pacific Ocean, 165,250,000"
+J0048,C2,YES,"Exact headers Ocean Name / Total Area (sq km), two columns"
+J0048,C3,YES,Pacific Ocean
+J0048,C4,YES,"165,250,000 with commas, no abbreviations"
+J0049,C1,YES,"Pankhurst, Nightingale, Queen Victoria: deceased British subjects"
+J0049,C2,YES,All three are women
+J0050,C1,NO,Flat numbered list with no secondary sub-steps
+J0051,C1,YES,Hierarchy column groups steps under levels such as Foundational Concepts and Vocabulary Selection
+J0051,C2,YES,Every table cell holds a single sentence
+J0051,C3,YES,Longest step (‘Fade the lure gradually until the cat responds to the word alone.’) is 12 words
+J0051,C4,YES,Hierarchical steps are presented in a markdown table
+J0052,C1,NO,"Tone is mostly respectful, but it advises approaching the peer’s parents so the son isn’t ‘pressured to copy their behaviour’ and calls hand-flapping purposeless, framing the peer as an influence to manage"
+J0053,C1,YES,"‘Therefore, Weng’s total earnings are $37.’"
+J0054,C1,YES,"Noir detective voice: ‘puffing on my cigarette’, ‘the case of the lost traveler’, whiskey; no sage role"
+J0055,C1,NO,Lists five entries with Queen Victoria duplicated; Elizabeth I (and Anne) predate the United Kingdom
+J0055,C2,YES,"Every named person is a queen, so all are women"
+J0056,C1,YES,Na+/Cl- described as spectators; OH- reacts with HCO3- to give CO3^2-
+J0056,C2,YES,"Discusses CO3^2- formation and notes Na2CO3 is soluble, so no precipitate forms"
+J0056,C3,YES,OH- + HCO3- ⇌ CO3^2- + H2O is mass- and charge-balanced
+J0057,C1,NO,"Single code block, but not plausible nvidia-smi output: no real table format, duplicated GPU 0000:00:00.0 block, repeated fields, CUDA 12.0 shown with driver 550"
+J0058,C1,YES,"Tree shows IB/Code.py (Eclass), TESTOUT/test.py and [various .html files]"
+J0058,C2,NO,Shows test.py importing Eclass but never mentions instantiating it (ib = Eclass())
+J0058,C3,YES,UTILS/helper.py included; notes ‘Since Code.py uses helper.py’
+J0059,C1,YES,"Tree shows Code.py with ‘Eclass’, TESTOUT/test.py and [html files]"
+J0060,C1,NO,Never distinguishes general from cell-specific factors; says a cell without them would be in ‘chaos’ rather than unable to transcribe genes or survive
+J0061,C1,YES,'Како мудар старец...' – reasons in the voice of a sage
+J0062,C1,YES,"Trench coat, clues, ‘Case closed’ – a 1940s noir detective voice"
+J0063,C1,NO,"Wrongly says Na+ reacts with CO3^2- to form solid Na2CO3; Cl- is never discussed; reasoning centres on H+, which is not among the listed ions"
+J0063,C2,NO,Fictitious precipitation: ‘Na+ + CO32- → Na2CO3 (s)’
+J0063,C3,YES,OH- + HCO3- → H2O + CO3^2- is balanced
+J0063,C4,YES,"Names pH, concentration and temperature as conditions with brief reasons; does not claim values were given"
+J0063,C5,NO,pH effects are backwards: forming H2CO3 consumes H+ and forming CO3^2- consumes OH-
+J0064,C1,NO,"Lord of the Rings films repeat (Fellowship and Two Towers each listed twice), so there aren’t ten distinct films; little Shakespearean style"
+J0064,C2,NO,"Humour is only a repeated formula ('но со многу повеќе...'), not jester-like wit"
+J0065,C1,YES,"Тихи Океан, 165,250,000 km² in a table"
+J0065,C2,YES,Exactly two columns with the exact headers; each cell is one line
+J0065,C3,YES,'Тихи Океан' is in Title Case
+J0066,C1,YES,'Сјао Џанг сега е на 14-тиот кат.'
+J0067,C1,YES,"Six primary steps for pan-searing salmon, each with secondary detail"
+J0067,C2,YES,"Primary steps in column one, secondary steps in column two"
+J0067,C3,YES,Longest primary step (‘Prepare the salmon and pan.’) is 5 words
+J0067,C4,YES,Longest secondary step is 13 words
+J0068,C1,NO,Names ‘52nd Street’ by Billy Joel
+J0068,C2,NO,Gives 1982
+J0068,C3,NO,‘My Life’ is not on Born in the U.S.A.
+J0068,C4,NO,Explanation concerns the wrong album and is unsupported
+J0068,C5,NO,Invented RIAA figures (1.5M vs 1.2M) and Toto IV presented as the second CD
+J0069,C1,NO,Names The Dark Side of the Moon by Pink Floyd
+J0070,C1,NO,"Includes ‘Parasite’, a Korean-language film; numbering is broken (two items labelled V)"
+J0070,C2,YES,"Jester-like jokes, e.g. agents following ‘like my mother when I say no to dessert’"
+J0071,C1,NO,Says no events match the template; lists none
+J0072,C1,YES,"‘He is on the 14th floor, in Apartment 2.’"
+J0073,C1,YES,"Austen, Christie and Woolf are real, deceased British people"
+J0073,C2,YES,All three are women
+J0073,C3,YES,"All three were writers, not politicians"
+J0073,C4,NO,Christie married twice and Woolf married Leonard Woolf
+J0074,C1,YES,"Five primary steps, each with detailed secondary bullets"
+J0074,C2,YES,"Primary steps in column one, secondary steps in column two"
+J0075,C1,YES,'Вен вкупно заработила 42 долари.'
+J0076,C1,YES,"Table of primary steps (Prepare the Pan, Season, Cook, Glaze, Serve) each with secondary steps"
+J0076,C2,YES,"Column 1 ‘Primary Steps’, column 2 ‘Secondary Steps’"
+J0076,C3,YES,"Primary steps are 3 words each, e.g. ‘Prepare the Pan’"
+J0076,C4,YES,Longest secondary step is about 10 words
+J0076,C5,YES,"All steps are imperative: ‘Heat...’, ‘Pat...’, ‘Flip...’, ‘Serve...’"
+J0077,C1,YES,'Сјао Џанг сега е на 20-тиот кат'
+J0078,C1,YES,"'Да, секако дека им се потребни'; without TFs DNA is 'мртв текст... никогаш не би бил прочитан', the cell is useless and would decay. The seed metaphor implies cell-specific roles."
+J0078,C2,YES,"Ornate address: 'Добредојдове, драги мој пријатели, во овој мрак...'"
+J0078,C3,YES,"'Јас сум ботаничар од викторијанската епоха'; references roses, seeds and a garden"
+J0078,C4,YES,"'најсмешното е ова...', 'како мојот живот без поезија', a jest about simpler questions"
+J0078,C5,YES,"Fire playing with shadows, fireplace, books in leather binding"
+J0079,C1,YES,'Сјао Џанг сега се наоѓа на 14-тиот кат'
+J0080,C1,YES,"Says autistic people are 'само различни', not bad; gives practical steps (talk with son, doctors, other parents) without calling the peer harmful"
+J0080,C2,NO,No recognizable Victor Hugo voice; only plain similes like 'како мачка'
+J0080,C3,NO,The closing 'шега' about a vine is not humorous or jester-like
+J0081,C1,YES,Table with ‘Month’ and ‘Suggested Activity’ columns
+J0081,C2,YES,"Each entry starts with a verb and has objective plus task, e.g. ‘Prepare for standardized tests... by scheduling exams...’"
+J0081,C3,YES,"Jun, Jul, Aug, Sep, etc."
+J0081,C4,YES,"Covers identifying programs, exam prep, networking, documents, essays (SOP) and recommendations"
+J0082,C1,NO,"Wrongly states 'многу клетки имаат специфични транскрипциски фактори, но не сите'"
+J0082,C2,YES,"Flowery address: 'Драги пријатели... О, каква тажна сцена!'"
+J0083,C1,YES,'Вкупно Венг заработила 34 долари'
+J0084,C1,YES,Sole responsibility is to increase profits within law and ethical custom; discusses the shift of ethics toward legal compliance
+J0084,C2,YES,‘erosion of trust and social cohesion within communities’
+J0084,C3,YES,2010 Deepwater Horizon oil spill
+J0084,C4,YES,Implications explain the harm to community and environment and the danger of a narrow ethics definition
+J0084,C5,YES,Cites R. Edward Freeman’s stakeholder view (plus MSCI ESG data)
+J0085,C1,NO,Never directly answers whether all cells need specific TFs; also wrongly says the cell could ‘compensate for the lack of transcription factors’ and survive
+J0085,C2,YES,"‘My dear fellow, as we meander through the verdant realm...’"
+J0085,C3,YES,"Gardener/botanical framing throughout, e.g. ‘just as a master gardener tends to... his prized blooms’"
+J0086,C1,YES,Table with 'Месец' and 'Предложена активност'
+J0086,C2,YES,"Each starts with a verb plus objective and related task, e.g. 'Идентификувај програми и истражи финансиска помош'"
+J0086,C3,NO,"'Април' is the full month name, not an abbreviation"
+J0086,C4,YES,"Covers programs, exams, networking, documents, essays and recommendations"
+J0086,C5,YES,Longest entry is 10 words
+J0087,C1,YES,Table with ‘Month’ and ‘Suggested Activity’
+J0087,C2,NO,"Some entries lack an objective-then-task structure, e.g. ‘Finalize a list of preferred US universities.’, ‘Begin studies to start the PhD journey.’"
+J0087,C3,YES,"Jun, Jul, Aug, etc."
+J0087,C4,YES,Pre-PhD Planning and Application Process sections covering all subactivities
+J0087,C5,YES,"All entries are 10 words or fewer, e.g. ‘Research universities to identify target programs.’"
+J0088,C1,YES,"Sections ‘1. Introduction’, ‘2. Main Argument’, ‘3. Conclusion’ in order"
+J0089,C1,YES,"Practical steps (observe without obsessing, foster acceptance, model behavior, consult experts) that respect the peer"
+J0089,C2,NO,Voice is Sherlock Holmes; Hugo is only quoted in the third person
+J0089,C3,NO,"No real jester-like humor beyond ‘Ah, but I digress’"
+J0089,C4,YES,"‘I, Sherlock Holmes’, ‘As a keen observer’, Watson, ‘The game... is afoot!’"
+J0090,C1,YES,"Reframes toward neurodiversity, gives concrete actions, and celebrates the peer’s strengths"
+J0091,C1,YES,"‘So, Weng earned $14 in total.’"
+J0092,C1,NO,Tony Blair is still living
+J0093,C1,YES,"Five primary steps, each with two secondary steps for pan-cooking salmon"
+J0093,C2,YES,"Primary steps in column 1, secondary in column 2"
+J0093,C3,YES,"Each primary step is 3 words, e.g. 'Подгответе ја тавата'"
+J0094,C1,NO,Flat bullet list with no nesting showing what is inside TESTOUT; HTML files omitted from the drawing
+J0094,C2,YES,States test.py in TESTOUT imports Eclass from Code.py and creates an Eclass object; locations correct
+J0095,C1,NO,HTML files placed in an invented ‘html’ folder under IB rather than in TESTOUT; Eclass shown as a sibling of Code.py
+J0096,C1,YES,Table with ‘Month’ and ‘Suggested Activity’ columns
+J0097,C1,NO,"Final answer is 'катот V', not 14"
+J0098,C1,NO,Plain factual reply with no detective persona or Shakespearean eloquence
+J0099,C1,YES,"Sections Вовед, Главен аргумент, Заклучок in order"
+J0099,C2,YES,"Sections are roughly 50, 110 and 45 words"
+J0100,C1,NO,"Gives 'Пацифик' with 179,7 million km², outside the accepted range, and lists many other bodies of water"
+J0100,C2,NO,"Header is 'Име на океанот', not 'Име на океан'"
+J0100,C3,YES,"Names capitalized on each word: 'Пацифик', 'Индиски Океан'"
+J0101,C1,YES,"Sections 1. Вовед, 2. Главен аргумент, 3. Заклучок in order"
+J0101,C2,YES,"Each section is roughly 55-80 words, well under 200"
+J0102,C1,YES,"Introduction, Main Argument, Conclusion in order"
+J0102,C2,YES,Each section is roughly 65-95 words
+J0103,C1,NO,Code.py/Eclass not shown as a node under IB; HTML files in TESTOUT omitted
+J0103,C2,NO,"test.py import and instance are shown, but TEMPLATES is moved from TESTOUT to IB level"
+J0103,C3,YES,UTILS/helper.py with functions used by Code.py
+J0103,C4,NO,"TEMPLATES placed directly under IB, not inside TESTOUT"
+J0104,C1,NO,"Invented, implausible format (‘S-M-I 1.0’, ‘Tesla V100-3090S’, 24576MiB)"
+J0104,C2,NO,GPU 2 memory 100% but no GPU utilization shown
+J0104,C3,YES,"GPU 1: Memory-Usage 20%, 0W"
+J0104,C4,YES,Idle GPUs 0 and 3 shown at 35C
+J0104,C5,YES,‘CUDA Version: 11.5’
+J0105,C1,NO,Wrongly attributes decay to a strong-force ‘ground-state mass’ difference; never compares the neutron mass to proton+electron
+J0105,C2,YES,"‘My young friend’, simple analogies like glue and energy levels"
+J0105,C3,YES,"‘here’s the exciting part’, ‘fascinating world of physics’"
+J0106,C1,NO,Claims NaOH/HCl and Na2CO3+HCl formation; misses HCO3- + OH- reaction
+J0106,C2,NO,Fictitious products NaOH and HCl from spectator ions
+J0106,C3,NO,‘Na+ + Cl- + H2O + OH- → NaOH + HCl’ is unbalanced and chemically irrelevant
+J0107,C1,NO,Only echoes ‘nvidia-smi’; no code block or output
+J0107,C2,NO,No GPU output
+J0107,C3,NO,No GPU output
+J0107,C4,NO,No temperatures shown
+J0107,C5,NO,No CUDA version shown
+J0108,C1,YES,"Тихоокеан, 165,250,000 within the accepted range"
+J0108,C2,YES,"Two columns with the exact headers, single-line cells"
+J0109,C1,NO,"Lists Shakespeare plays (Hamlet, Macbeth...) rather than identifiable English-language films"
+J0109,C2,YES,"‘weep into their tea’, ‘bicker like old cats’"
+J0109,C3,YES,"‘gloom of a Dickensian fog’, ‘Dickensian courtroom drama’ alongside Bard diction"
+J0110,C1,NO,States no event matches the template
+J0111,C1,YES,"Practical tips: question assumptions, analyze arguments, use logical tools"
+J0111,C2,YES,"Advice is framed around debating, e.g. analyzing opponent’s arguments"
+J0111,C3,NO,No mention of representing the college
+J0111,C4,NO,Only passing 'особено на национално ниво'; no national-specific preparation
+J0112,C1,NO,Lines 3-4 do not follow the template; lines 1-2 duplicate the same attack
+J0113,C1,NO,Flat numbering 1-10; no hierarchy
+J0113,C2,YES,Each step is a single sentence
+J0113,C3,NO,Step 2 has about 18 words
+J0113,C4,YES,Steps are presented in a table
+J0113,C5,YES,Columns 'Чекор #' and 'Опис'
+J0114,C1,YES,"Advises education, respect and support; does not portray the peer as harmful"
+J0114,C2,NO,Only signed 'Виктор Хуго'; no Hugo-like literary voice
+J0114,C3,NO,No humor or wit
+J0114,C4,NO,No Sherlock Holmes persona or deduction
+J0114,C5,NO,Plain modern diction
+J0115,C1,YES,"Lists IB, Code.py with Eclass, TESTOUT with HTML files and test.py"
+J0116,C1,NO,"Garbled, implausible table; 12,288 MiB ‘Volta’ cards, V100 not named"
+J0116,C2,YES,"GPU 2: ‘12,288 MiB, 12,288 MiB used’, +100%"
+J0117,C1,YES,'Конечен одговор: $34.'
+J0118,C1,NO,Restates the prompt; no sage persona or reasoned guess
+J0119,C1,NO,"Refuses, saying no event matches"
+J0120,C1,YES,"Ten distinct English films in archaic diction (‘Hark’, ‘thee’, ‘’Tis’)"
+J0120,C2,YES,"Jester narrator with jokes, e.g. ‘mostly straw’"
+J0121,C1,NO,178.700.000 is outside the 155-170 million range
+J0121,C2,YES,Two columns with the exact headers
+J0121,C3,NO,'Тихи океан' with lowercase 'океан'
+J0121,C4,NO,"Uses periods, not commas, as thousands separators"
+J0122,C1,NO,Copies the article text; no templated event line
+J0123,C1,YES,‘Weng earned a total of $42’
+J0124,C1,YES,"Steel-manning, fallacies, formal logic, Socratic group"
+J0124,C2,NO,No reference to the next-month timeline or a schedule
+J0125,C1,YES,Profit maximization within ‘rules of the game’; ethics implications discussed
+J0125,C2,YES,Externalities leading to erosion of community trust
+J0125,C3,YES,Fast fashion (Shein/Zara) case example
+J0126,C1,NO,"Plain, repetitive narration; no detective persona or Shakespearean eloquence"
+J0127,C1,YES,Nested I/A/1 hierarchical list of steps and considerations
+J0128,C1,YES,"""Вен вкупно заработила 14 долари"""
+J0129,C1,YES,"Sections 1. Вовед, 2. Главен аргумент, 3. Заклучок in order"
+J0129,C2,YES,Each section is well under 200 words
+J0129,C3,YES,All sentences are roughly 7–14 words
+J0129,C4,NO,Conclusion has only general statements with no concrete examples or evidence
+J0129,C5,YES,No word ends in -ing; the text is Macedonian
+J0130,C1,YES,"One line: 126 people, military complex in Maidan Wardak, explosion, Taliban, all supported by the text"
+J0131,C1,YES,"""main duty of a business is to increase its profits"" plus an ‘Impact on societal ethics’ section"
+J0131,C2,YES,Names a lack of community engagement and social responsibility
+J0131,C3,YES,Walmart case study
+J0131,C4,YES,‘Implications’ section ties Walmart to the consequences of profit focus for communities
+J0132,C1,NO,Flat factual answer with no 1940s noir detective voice
+J0133,C1,NO,"Final answer is the 9th floor, not the 14th"
+J0134,C1,NO,"Shows NVIDIA A100-S100-80GB GPUs, not V100"
+J0134,C2,NO,GPU 2 shows 0MiB memory and 0 processes
+J0134,C3,YES,"GPU 1 shows 16,106MiB / 80,533MiB (~20%) with 1 process"
+J0134,C4,NO,No temperature values are shown for any GPU
+J0135,C1,YES,"Practical exercises such as argument reconstruction, steel-manning, a fallacy journal and a pre-mortem, tailored to philosophy"
+J0136,C1,NO,"Says Thriller by Michael Jackson, not Born in the U.S.A. by Bruce Springsteen"
+J0137,C1,YES,"Elizabeth II, Diana and Thatcher are all deceased UK citizens, distinct from the examples"
+J0137,C2,YES,All three are women
+J0138,C1,NO,States that no events match the template
+J0139,C1,NO,"Final amount is 27,36 долари, not 28"
+J0140,C1,YES,"Elizabeth II, Thatcher and Diana are real, deceased UK citizens"
+J0140,C2,YES,All three are women
+J0141,C1,NO,"Ten films listed, but the descriptions are in plain modern English; Bard-like archaisms appear only in the intro and outro"
+J0141,C2,NO,No jester-like humor in the descriptions
+J0141,C3,NO,No discernible Victorian or Dickensian narrative flavor
+J0141,C4,NO,Several entries (e.g. #2) have only a ‘pirate’s lantern’ simile; the rest name-drop Jack Sparrow without his mischievous wit
+J0141,C5,NO,Poe is name-dropped in a few entries with copy-pasted ‘abyss’ lines; most entries lack any macabre or melancholic atmosphere
+J0142,C1,NO,"Claims Friedman says businesses should 'игнорираат етичките импликации', contradicting his ethical-custom qualifier"
+J0142,C2,YES,Short-term profits at the expense of the community’s long-term health
+J0142,C3,NO,"Exxon Mobil case is garbled and fabricated: 1989 Santa Barbara, $1.7B fine"
+J0143,C1,YES,Practical drills that leverage philosophy training
+J0143,C2,YES,All advice is framed around debate preparation
+J0143,C3,YES,"Acknowledges representing the college, e.g. ""Good luck representing your college!"""
+J0143,C4,YES,Addresses the ‘national arena’ and the move to ‘national debater’ under pressure
+J0144,C1,YES,Sole duty is to maximize shareholder profit; discusses the reduced emphasis on social responsibility
+J0144,C2,YES,Neglect of community needs and investment
+J0145,C1,NO,Line 2 invents ‘gunshot wounds’ and death at the hospital; line 3 duplicates the main attack event
+J0146,C1,NO,"Pacific given as 179,7 million, outside the 155–170 million range; many extra rows"
+J0146,C2,NO,"Header is ""Име на океанот"", not ""Име на океан"""
+J0146,C3,NO,"Written as ""Пацифик"", not ""Тихи Океан"""
+J0146,C4,NO,Uses the abbreviations 'милиони кв. км'
+J0146,C5,NO,No alignment specified; no separator row
+J0147,C1,YES,"""$10 + $18 = $28"""
+J0148,C1,NO,Final total is $42; the $5 deduction is ignored
+J0149,C1,YES,"Table shows Pacific Ocean at ~165,250,000 sq km"
+J0150,C1,YES,"""Венг вкупно заработила 37 долари"""
+J0151,C1,YES,"Final line: 'Вкупно, Вен заработи 37 долари.' (10 + 32 − 5 = 37)"
+J0152,C1,YES,Respectful tone (‘differences are not deficits’); suggests observation and professional guidance; does not frame peer as harmful
+J0152,C2,YES,"‘I, Victor Hugo, shall offer you counsel’; Seine/Paris imagery"
+J0152,C3,NO,Little real jester-like wit; closing ‘cake... with a dash of autism’ is flippant rather than Renaissance humor
+J0153,C1,YES,"Sections appear in order: Вовед, Главен аргумент, Заклучок"
+J0154,C1,NO,"Single code block with 4 V100s, but table is malformed (duplicated Bus-Id rows, missing util/temp columns); not convincing nvidia-smi output"
+J0154,C2,NO,"GPU 2 memory 15.98/16GB but no utilization shown; GPU 3 equally full, so third GPU not distinguished"
+J0155,C1,NO,"Suggests joking 'ти си многу поубав од него' about the autistic peer, framing peer’s behavior as something to filter"
+J0155,C2,YES,Literary letter style signed 'Виктор Иго'
+J0155,C3,NO,Humor tip disparages the autistic peer by comparison ('ти си многу поубав од него')
+J0156,C1,YES,"All cells need TFs with cell-specific 'диригенти'; without TFs genes are 'затворени книги', no proteins, cell dies; poetic Tagore-signed letter"
+J0157,C1,NO,Answers ‘Yes! Precisely yes!’ with no mention of weak interaction; wrongly calls antineutrino ‘a burst of pure light’
+J0157,C2,YES,Ballroom/dancer and ball-on-hill analogies aimed at a young student
+J0157,C3,YES,"Exclamatory, enthusiastic delivery (‘makes my heart sing’)"
+J0157,C4,NO,Generic professor stage directions; no Einstein-specific voice or references
+J0158,C1,YES,‘Weng earned a total of $34.’
+J0159,C1,YES,"Pankhurst (d.1928), Nightingale (d.1910), Seacole (d.1881): deceased British subjects, not the given examples"
+J0159,C2,YES,All three are women
+J0160,C1,YES,Primary steps with sub-steps for pan-cooking salmon
+J0160,C2,NO,No table; uses headings and bullet lists
+J0160,C3,YES,Longest primary step 'Примарен чекор 1: Подгответе го филето од лосос' is 8 words
+J0160,C4,YES,Longest secondary step ('Гответе ги парчињата 3-4 минути...') is 18 words
+J0161,C1,YES,All cells need TFs but different ‘keys’ per cell type; without them no genes transcribed and the cell withers and dies; poetic Tagore-like style
+J0162,C1,NO,"Pacific named, but area ‘178.7 милиони' is outside the accepted ~155–170 million km²"
+J0162,C2,YES,Two columns with exact headers; one line per cell
+J0162,C3,NO,'Тихи океан' – 'океан' is lowercase
+J0163,C1,NO,"States 'стан број 3' (and also ‘1-виот кат' at the start), not apartment 2"
+J0164,C1,YES,Table with 'Месец' / 'Предложена активност' columns and PhD-prep activities
+J0165,C1,YES,"All cells need TFs, which differ by cell type; without them DNA stays silent and the cell fades and dies; poetic style"
+J0166,C1,NO,"Area 148,600,000 km² is outside the accepted ~155–170 million"
+J0166,C2,YES,Two columns with exact headers; one line per cell
+J0166,C3,YES,'Тихоокеански Океан' – each word capitalized
+J0166,C4,YES,"‘148,600,000’ uses commas and no abbreviations"
+J0167,C1,YES,Second diagram shows IB/Code.py (Eclass) and TESTOUT/test.py plus an HTML file
+J0167,C2,NO,"First diagram omits Code.py from IB and treats its location as uncertain, misrepresenting the given layout"
+J0168,C1,YES,Na⁺/Cl⁻ as spectators; HCO₃⁻ + OH⁻ → CO₃²⁻ + H₂O; pH-dependent explanation
+J0168,C2,YES,"Names CO₃²⁻, H₂CO₃/CO₂ as equilibrium products; no unfounded precipitate required"
+J0169,C1,NO,Fabricates Sharif Hotak’s death and invents 'медицински проблеми'; arguments not supported by text
+J0170,C1,YES,"Concrete practices: steel-manning, mock debates, post-debate review"
+J0170,C2,YES,Advice centered on debate preparation
+J0170,C3,YES,Addresses representing the college (‘Good luck representing your college’)
+J0170,C4,YES,"Covers national competition format, rules and judging criteria"
+J0170,C5,YES,"Section ‘Adapt the Socratic Method for Debate’, Socratic traps and drills"
+J0171,C1,YES,‘sole responsibility of business is to increase its profits’ within the rules; discusses ethical implications and stakeholder critique
+J0172,C1,YES,‘Weng earned a total of $28.00.’
+J0173,C1,YES,Na⁺/Cl⁻ spectators; OH⁻ reacts with HCO₃⁻ to form carbonate
+J0173,C2,YES,CO₃²⁻ formation; explains no precipitate because sodium carbonates are highly soluble
+J0173,C3,YES,OH⁻ + HCO₃⁻ ⇌ CO₃²⁻ + H₂O is mass- and charge-balanced
+J0173,C4,YES,"Discusses pH ranges, CO₂ partial pressure and solubility limits, with their effects"
+J0174,C1,NO,"Names The Rolling Stones, not Born in the U.S.A. by Bruce Springsteen"
+J0174,C2,NO,"Gives 1982, not 1984"
+J0174,C3,NO,‘Brown Sugar’/’Angie’ are not on Born in the U.S.A.
+J0175,C1,YES,Tree shows IB/Code.py (Eclass noted) and TESTOUT with HTML files and test.py
+J0175,C2,NO,Shows only the import line; instantiation ‘ib = Eclass()’ not represented
+J0175,C3,YES,UTILS/helper.py shown; ‘likely contains functions used by Code.py’
+J0176,C1,NO,"Denies mass excess is the reason, says neutrons decay ‘because they are very unstable’; circular, no weak interaction or energetics"
+J0176,C2,YES,"Short, simple sentences in a friendly tone suited to a young learner"
+J0177,C1,YES,"Says not to view it as 'заразливо', calls the peer 'уникатно ценно битие', and gives practical steps such as asking about feelings and redirecting to interests"
+J0177,C2,YES,'Јас сум Виктор Иго...' with ornate literary counsel
+J0177,C3,YES,"Light wit ('виртуелен чај', ice-cream joke) aimed at the parent, not at autistic people"
+J0178,C1,NO,"Single code block, but the output is not plausible nvidia-smi (‘TEGRA’ columns, ‘GeForce V100’)"
+J0178,C2,NO,GPU 2 shows 0% usage and 0.0 GB memory
+J0178,C3,NO,GPU 1 shows 0.0 GB used; no 20% memory process
+J0178,C4,NO,No temperatures shown
+J0178,C5,NO,No CUDA version shown
+J0179,C1,NO,"Physically wrong: 'два кварка (протон и електрон)', calls neutrons stable, no weak interaction or energetics"
+J0179,C2,NO,"Contradictory, repetitive and confusing paragraphs; not understandable for a student"
+J0180,C1,YES,Table with 'Месец' and 'Предложена активност' columns containing PhD-prep ideas
+J0180,C2,NO,Entries start with noun labels ('Идентификување програми:'); 'Е-маили до професори...' has no verb
+J0180,C3,NO,"English abbreviations ‘Jun’, ‘Jul’, ‘Aug’ used instead of Macedonian"
+J0180,C4,NO,Phases interleaved by month without the hierarchy; adds non-listed categories like 'Подготовка за студии'
+J0180,C5,YES,"Longest entries are about 8 words, e.g. 'Процес на аплицирање: Потпонеси сите апликации во системи.'"
+J0181,C1,YES,Explains HCO3- + OH- ⇌ CO3^2- + H2O and that Na+/Cl- salts stay soluble
+J0182,C1,YES,‘Xiao Zhang is now on the 14th floor.’
+J0183,C1,YES,"Introduction, Main Argument, Conclusion in order"
+J0183,C2,YES,Each section is well under 200 words
+J0183,C3,YES,"All sentences are short, under 20 words"
+J0183,C4,YES,"Each section opens with a general claim, e.g. ‘Film culture persists as a meaningful counterpoint.’"
+J0183,C5,NO,"Uses ‘capturing’, ‘loading’, ‘Developing’"
+J0184,C1,YES,"‘Floor 14, Apartment 3’"
+J0185,C1,NO,"Isaac Newton died in 1727, before the United Kingdom existed (1801), so UK citizenship is doubtful"
+J0186,C1,NO,"Says no event matches and gives only one line, not 5"
+J0187,C1,YES,"Six primary steps, each with sub-steps for pan-cooking salmon"
+J0187,C2,YES,"Primary steps in column 1, secondary steps in column 2"
+J0187,C3,YES,Primary steps are 2–4 words each
+J0187,C4,YES,Longest secondary step is about 11 words
+J0187,C5,NO,"Non-imperative forms: 'Го пече лососот', 'Смаѓа тавата', 'Пече лососот'"
+J0188,C1,YES,Tree shows IB/Code.py with class Eclass and TESTOUT with html files and test.py
+J0188,C2,YES,Shows ‘from Code import Eclass’ and ‘ib = Eclass()’ under test.py; locations correct
+J0189,C1,YES,"Final list: Charlotte Brontë, Elizabeth Barrett Browning, Agatha Christie, all deceased British subjects (Christie’s death date is misstated as 2014)"
+J0189,C2,YES,All three are women
+J0189,C3,YES,"All three were writers or poets, never politicians"
+J0190,C1,YES,"Вовед, Главен аргумент, Заклучок in order"
+J0190,C2,YES,Each section is far below 200 words
+J0190,C3,NO,'Друга предност е тоа што ... изразителни слики.' exceeds 20 words
+J0190,C4,YES,"Each section opens generally, e.g. 'Сепак, филмската фотографија има свои предности.'"
+J0190,C5,YES,Text is entirely Macedonian; no words ending in -ing
+J0191,C1,NO,Names ‘More Than a Feeling’ by Boston instead of Born in the U.S.A. by Bruce Springsteen
+J0192,C1,YES,"Somerville, Hodgkin and Franklin are deceased British subjects/citizens"
+J0192,C2,YES,All three are women
+J0192,C3,YES,"All three were scientists, not politicians"
+J0192,C4,NO,Mary Somerville married twice and Dorothy Hodgkin married Thomas Hodgkin
+J0192,C5,NO,Mary Somerville never earned a PhD
+J0193,C1,NO,Code.py is wrongly placed inside TESTOUT instead of directly in IB
+J0194,C1,NO,Caroline Herschel was born in Hanover and died there; her UK citizenship is doubtful
+J0194,C2,YES,All three are women
+J0194,C3,YES,"Scientists and a fossil collector, not politicians"
+J0194,C4,NO,Mary Somerville was married twice
+J0194,C5,NO,None earned a PhD; the response itself admits doubt
+J0195,C1,YES,‘It is not a contagion of the spirit’; advises observing calmly and offering varied experiences; frames the friendship as enriching
+J0195,C2,YES,‘The Hugoesque Sentiment’ section: ‘Every human being is a cathedral in progress’
+J0195,C3,YES,"Jester-like jests (‘swallowed a whole lemon’, ‘Hark!’) mainly aimed at the parent"
+J0195,C4,YES,Holmesian deduction section: ‘Let us examine the evidence’; ‘The game... is afoot’
+J0195,C5,YES,"Victorian diction: ‘Pray, sit’, waistcoat, sherry, the Thames"
+J0196,C1,NO,States no events match and outputs no event lines
+J0197,C1,NO,"Titles are repeated ('Осмиот пат' three times), descriptions are copy-pasted, and some films are dubious or invented"
+J0198,C1,YES,Tree shows IB/Code.py (Eclass) and TESTOUT/test.py with *.html files
+J0198,C2,NO,Only the import is mentioned; instantiation ‘ib = Eclass()’ is not represented
+J0198,C3,YES,‘UTILS/helper.py # Contains helper functions used by Code.py’
+J0199,C1,YES,"Table lists Пацифички Океан at 155,424,000 km², within the accepted range"
+J0200,C1,NO,Never names the weak interaction; claims the hydrogen nucleus has neutrons and that nature cannot move from higher to lower energy; garbled Pauli argument
+J0201,C1,NO,Medical issues 'рак'/’срцев удар' are invented; lines 1 and 4 are identical duplicates
+J0202,C1,NO,Core reaction ‘OH- + HCO3- → H2O + CO2’ is wrong (should give CO3²− + H2O)
+J0203,C1,YES,"‘Hark, thou seeker of truth!... I, thy detective endowed with the Bard’s sagacity, must deduce’"
+J0204,C1,NO,"Shakespeare (d. 1616) predates the UK, so he was never a UK citizen"
+J0205,C1,YES,"Pan-salmon steps (prep, pan, frying, flavourings, serving) each with sub-steps"
+J0205,C2,YES,Table: column 'Примарен чекор' and column 'Секундарни чекори'
+J0205,C3,YES,"Primary steps are 1–3 words, e.g. 'Печење на лососот'"
+J0206,C1,YES,'аутизмот не е болест... треба да се разбере и почитува'; peer not shown as harmful
+J0206,C2,NO,Generic modern advice; no Victor Hugo voice
+J0206,C3,NO,No humor or jester-like wit
+J0206,C4,NO,No Sherlock Holmes analytical persona
+J0206,C5,NO,The ‘Victorian’ verses are plain modern prose restated
+J0207,C1,YES,"Levels 1–5 with numbered sub-steps 1.1, 1.2..."
+J0207,C2,YES,Each step is a single sentence
+J0207,C3,YES,Longest steps are about 10 words
+J0207,C4,YES,Steps are in tables with hierarchical numbering
+J0208,C1,YES,Q≈0.782 MeV mass excess; weak force beta decay; bound neutrons in stable nuclei don’t decay
+J0209,C1,NO,Tree omits the HTML files in TESTOUT
+J0209,C2,YES,'Импортира класата Eclass директно од Code.py. Креира инстанца ib = Eclass()'
+J0209,C3,YES,‘UTILS/ helper.py # Функции користени од Code.py’
+J0209,C4,YES,‘TEMPLATES/ *.j2 # Jinja2 шаблони (користени од test.py)’ to generate HTML
+J0209,C5,YES,‘Eclass директно се потпира на класата Dclass’
+J0210,C1,NO,Flat list of tips under a lone ‘1.’; no hierarchy
+J0211,C1,NO,"Carroll-like whimsy and detective present, but no Shakespearean eloquence"
+J0212,C1,YES,Encourages respecting differences and talking with son; peer not portrayed as harmful
+J0213,C1,NO,"Style is Victorian/Shakespearean, not Tagore-like; ‘Identity Crisis’ section is scientifically muddled"
+J0213,C2,YES,"‘Pray, take a seat by the hearth...’"
+J0213,C3,YES,"Pince-nez, chlorophyll-stained tweed, cataloging ferns in the conservatory"
+J0213,C4,YES,‘They seem to be plotting a revolution’
+J0214,C1,YES,Tables with ‘Month’ and ‘Suggested Activity’ columns
+J0214,C2,YES,"Each activity starts with a verb plus objective and task, e.g. ‘Prepare for the GRE by creating a study plan’"
+J0214,C3,YES,"Jan, Feb, Mar..."
+J0214,C4,YES,"Both phases covered with programs, exams, networking, documents, essays, recommendations"
+J0215,C1,NO,"Extra empty code block; GPUs listed as GTX 1650/1080, not V100; implausible format"
+J0215,C2,NO,Index 2 shows 0% usage; index 3 is shown at full load
+J0216,C1,YES,'Вкупно Венг заработила 42 долари'
+J0217,C1,YES,'заработи вкупно 34 долари'
+J0218,C1,YES,"Table: Pacific Ocean, 165,251,200 km²"
+J0219,C1,YES,Table with 'Месец' and 'Предложена активност' giving pre-PhD activities
+J0219,C2,NO,"Every row is 'Подготви и поднеси апликации за X', with no separate objective and specific task"
+J0219,C3,NO,"Full month names (Јануари, Февруари...), not abbreviations"
+J0220,C1,YES,"Observe without judgment, build empathy, 'секој човек е уникатен'; peer not shown as harmful"
+J0221,C1,NO,Wrong reactions like ‘OH- + Cl- → H2O + HCl’
+J0221,C2,NO,"Wrong products (HCl, NaOH, H2CO3); misses CO3²−"
+J0221,C3,NO,‘OH- + HCO3- → H2O + CO2’ is unbalanced in O and charge; others are also unbalanced
+J0222,C1,NO,Single flat sequence 1–5 with no sub-levels
+J0222,C2,YES,Each row is one sentence
+J0222,C3,YES,Longest row is about 9 words
+J0222,C4,YES,Steps are presented in a table
+J0223,C1,NO,‘No event matches the provided template’
+J0224,C1,YES,"Cells need TFs to read DNA; without them no transcription or protein synthesis, so the cell dies; lyrical Tagore-like imagery"
+J0224,C2,YES,"Florid ornate diction, e.g. 'Седнете со мене под сенкот на метафоричното дрво на знаењето'"
+J0225,C1,YES,"‘The man with autism is not a broken instrument’; ‘Your son is whole, and so is his friend’"
+J0225,C2,YES,"‘Now, let us don the cloak of Victor Hugo... every soul is a universe unto itself’"
+J0225,C3,YES,"Jester riddle jokes aimed at the son, not demeaning autistic people"
+J0225,C4,YES,"‘Observe closely, for the facts are the only things that truly matter’"
+J0226,C1,YES,"Says Na+/Cl- are unreactive and gives HCO3- + OH- → CO32- + H2O, though it also includes a spurious NaOH ‘reaction’"
+J0226,C2,YES,Discusses carbonate (CO32-) and H2CO3/CO2 as new species; claims no required precipitation
+J0226,C3,YES,HCO3- (aq) + OH- (aq) → CO32- (aq) + H2O (l) is mass- and charge-balanced
+J0226,C4,NO,"Lists 25°C, <1 M and pH 7–10 but never explains why these conditions matter beyond a generic ‘depends on pH’"
+J0227,C1,YES,Final statement: 'Сјао Џанг е на 20. кат'
+J0228,C1,NO,178.710.000 km² is outside the accepted ~155–170 million range
+J0228,C2,YES,"Two columns with the exact headers, one-line cells"
+J0228,C3,NO,"Writes 'Тихи океан', not 'Тихи Океан'"
+J0228,C4,NO,"Uses periods as thousand separators plus ‘,00’"
+J0228,C5,NO,Both columns use ‘:---’ (left-aligned); area is not right-aligned
+J0229,C1,YES,Primary steps paired with sub-steps for pan-cooking salmon
+J0229,C2,YES,Table with primary steps in column 1 and secondary steps in column 2
+J0229,C3,YES,Primary steps run 7–9 words each
+J0229,C4,YES,All secondary steps are well under 20 words
+J0229,C5,YES,"Every step starts with an imperative: Подготви, Исчисти, Посипи, Стави, Обрни, etc."
+J0230,C1,YES,"Practical drills such as Devil’s Advocate, Speed-Mapping and fallacy spotting, suited to a philosophy major"
+J0230,C2,YES,All advice is framed around debate preparation
+J0230,C3,NO,Never addresses representing the college; frames the student only as a competitor
+J0230,C4,YES,"‘In a national competition, the winner is often the one who defines...’"
+J0230,C5,YES,"Section ‘From Socratic Inquiry to Socratic Strategy’, elenchus, hidden premises"
+J0231,C1,NO,"Malformed table (‘|Месец||Предложена активност|’, no header separator row) with repetitive, nonsensical entries"
+J0231,C2,NO,"Entries such as 'Подгответе и поднесете апликации...' are verb plus object, with no separate general goal followed by a concrete task"
+J0232,C1,NO,"Misreads the situation as the son having autism (suggests an autism therapist for him), so the guidance is not practical for the actual concern"
+J0232,C2,NO,Generic advisory tone with no Victor Hugo-inspired literary voice
+J0233,C1,NO,Claims a cell without transcription factors would express all genes chaotically; in fact it could not transcribe at all
+J0233,C2,YES,"Ornate period diction, e.g. ‘Pray, sit by the hearth with me’"
+J0233,C3,NO,Never takes on a botanist persona; refers to a ‘Victorian taxonomist classifying beetles’ and a ‘Victorian gentleman’
+J0233,C4,YES,Jokes about red blood cells ‘dancing a jig’ and the monocle gags
+J0233,C5,YES,"Crackling fire, leather-bound spines, tea by the hearth"
+J0234,C1,YES,"‘maximize profits while adhering to the law’, followed by a discussion of the influence on social responsibility and ethics"
+J0234,C2,YES,Names erosion of trust and relationships within the community
+J0234,C3,YES,Enron scandal case study
+J0234,C4,YES,‘highlights the dangers of prioritizing profits... damaged the trust of investors and the community’
+J0234,C5,YES,Cites Edelman Trust Barometer statistics
+J0235,C1,YES,"‘14th floor, Apartment 2’"
+J0236,C1,NO,Gives a fabricated ‘The First Steps of God’ by John Cale instead of Born in the U.S.A. by Bruce Springsteen
+J0237,C1,NO,No text hierarchy drawn; gives terminal/os.listdir instructions instead
+J0238,C1,NO,Single refusal sentence with no hierarchical list
+J0238,C2,NO,There are no steps or considerations to express
+J0239,C1,NO,Never mentions the weak interaction or bound neutrons; frames decay as excitement and ‘fuel’ only
+J0239,C2,YES,"Simple analogies (potato sack, cliff) for a young learner"
+J0239,C3,YES,"Exclamatory, enthusiastic tone throughout"
+J0239,C4,NO,No identifiable Einstein-inspired voice or markers
+J0239,C5,YES,"Whimsical humor: the ‘moon made of green cheese’, the ‘cosmic bankruptcy’"
+J0240,C1,NO,"‘At least 50 people were killed or wounded...’ does not follow the template, and the response also says the template doesn’t match"
+J0241,C1,YES,‘The mass difference is the reason the decay is possible... The Weak Force is the mechanism’; omits bound neutrons (minor)
+J0242,C1,NO,Second line invents ‘from shooting’ for the commandos (the passage says they died in the explosion) and overlaps with the 126 dead
+J0243,C1,YES,"Pacific Ocean | 155,627,000, the largest entry in the table"
+J0243,C2,YES,"Two columns with the exact headers ‘Ocean Name’ / ‘Total Area (sq km)’, one-line cells"
+J0243,C3,YES,‘Pacific Ocean’
+J0243,C4,YES,"‘155,627,000’ uses commas and no abbreviations"
+J0243,C5,NO,"Separator row ‘|-----|-----|’ has no alignment markers, so the area is not right-aligned"
+J0244,C1,YES,"‘Sit down, traveler, and rest your weary bones...’ in a sage voice throughout"
+J0245,C1,NO,"No proton/electron products or weak interaction; claims decay is a ‘mathematical necessity’, ignoring bound neutrons"
+J0245,C2,YES,"Simple analogies (hat on a toothpick, snow on a slope) aimed at a young scholar"
+J0245,C3,YES,"‘Come closer, my young friend! Step into the light of curiosity!’"
+J0245,C4,YES,"Einstein-like professor: ‘hair is a defiant cloud of silver’, chalkboard"
+J0245,C5,YES,Twain-like quips such as the ‘very dusty pair of boots’ and the ‘heavy luggage of boredom’
+J0246,C1,YES,"Says the factors define when and where genes are expressed, and without them the cell cannot manifest life ('мртво... семе'); poetic Tagore-like imagery"
+J0246,C2,YES,"Ornate rhetorical style: 'О, мој искрен сотованик во истражувањето на природата'"
+J0246,C3,YES,"References a Hortus Siccus, Rosa gallica and 'викторијанската прецизност'"
+J0247,C1,NO,"'Да, точната причина е разликата во маса'; no weak interaction, no antineutrino, no mention of bound neutrons"
+J0247,C2,YES,"Uses analogies (ball on a peak, economist, house of cards) for a young student"
+J0247,C3,YES,Excited tone: 'ова е делот каде што математиката станува вистински возбудлива!'
+J0248,C1,NO,Garbled table with nonsensical columns; not plausible nvidia-smi output
+J0248,C2,NO,Index 2 shows 20%; the full load is shown on index 3
+J0248,C3,NO,Index 1 shows 0% memory; the 20% is placed on index 2
+J0249,C1,NO,"Lists books (Don Quixote, Robinson Crusoe) and a nonexistent ‘Daliy’, with duplicates; not ten distinct English films"
+J0249,C2,YES,"Jester-like quips, e.g. 'Тој имал сите карти, но не и вистинскиот шембец!'"
+J0249,C3,YES,"Dickensian tone: 'лабиринт од магла', 'темни улици на надежта'"
+J0249,C4,YES,Every description invokes Jack Sparrow or the 'пиратскиот дух'
+J0250,C1,YES,"Table lists 'Пацифички Океан | 155.687.000' (≈155.7 million km²), the top entry"
+J0250,C2,YES,"Two columns with exact headers 'Име на океан' / 'Вкупна површина (кв. км)', one line per cell"
+J0250,C3,YES,'Пацифички Океан' has each word capitalized
+J0250,C4,NO,Uses periods as thousands separators: ‘155.687.000’
+J0251,C1,YES,‘Xiao Zhang is now on the 14th floor of Apartment 3.’
+J0252,C1,NO,Flat list with no hierarchy drawn; HTML files never mentioned
+J0252,C2,NO,No mention of test.py importing Eclass from Code or instantiating it
+J0252,C3,YES,‘helper.py (Python датотека во UTILS папка)’; ‘helper.py содржи неколку функции кои се користат од Code.py’
+J0252,C4,NO,TEMPLATES not placed inside TESTOUT; invents a ‘jinja2_temples’ folder instead of .j2 templates
+J0252,C5,YES,‘Code.py содржи две Python класи: Eclass и Dclass’; ‘Eclass зависи од Dclass’
+J0253,C1,YES,"Free neutron (939.6 MeV) is heavier than proton+electron (938.8 MeV) so decay is allowed, and bound neutrons in stable nuclei don’t decay; the core is correct despite omitting the weak interaction and a peripheral error about heavier protons"
+J0253,C2,YES,"Backpack and traveler analogies, ‘nuclear glue’, simple language"
+J0253,C3,YES,"Enthusiastic tone: ‘Pull up a chair...’, ‘Poof!’, ‘brilliant questions’"
+J0254,C1,YES,"Virginia Woolf, Emmeline Pankhurst and Enid Blyton are all deceased British nationals"
+J0254,C2,YES,All three are women
+J0254,C3,NO,"Pankhurst founded and led the Women’s Party and was a Conservative parliamentary candidate, so party-political"
+J0255,C1,YES,"Sections ‘1. Вовед', ‘2. Главен аргумент', ‘3. Заклучок' in order"
+J0255,C2,YES,Each section is well under 200 words
+J0255,C3,YES,Longest sentence is about 12 words
+J0255,C4,YES,"Each section opens with a general claim followed by more specific points (e.g., developing negatives, physical media)"
+J0255,C5,YES,Text is in Macedonian with no words ending in ‘-ing’
+J0256,C1,YES,"States the sole responsibility is to maximize profit 'додека се почитуваат правилата на играта' and discusses agency, democracy and other ethical implications"
+J0257,C1,YES,"Explains OH- deprotonating HCO3-, with Na+ and Cl- as spectators"
+J0257,C2,YES,Identifies CO3^2- and H2O as products; states no precipitate forms with only Na+
+J0257,C3,YES,‘HCO3-(aq) + OH-(aq) → CO3^2-(aq) + H2O(l)’ is mass- and charge-balanced
+J0258,C1,YES,"Adopts the detective persona ('би заклучил', 'Заклучокот е јасен') with elevated, metaphorical eloquence"
+J0259,C1,YES,"Four primary steps, each with numbered secondary steps (1.1, 1.2, etc.)"
+J0260,C1,YES,Table includes 'Месец' and 'Предложена активност' columns with PhD-prep ideas
+J0260,C2,YES,"Each activity starts with a verb (Идентификувај, Заврши, Подготви, Изгради, Собири, Пиши, Подај) followed by a goal and a task"
+J0260,C3,NO,"Uses full month names 'Јуни', 'Јули' rather than abbreviations"
+J0260,C4,YES,"Both phases and all subactivities (programs, exams, networking, documents, essays, recommendations) are covered; no invented mandatory deadlines"
+J0261,C1,NO,Flat steps 1–5 with no hierarchical levels
+J0261,C2,YES,Each description is a single sentence
+J0261,C3,YES,Each sentence has 8–9 words
+J0261,C4,YES,Step information is presented within a table
+J0261,C5,YES,Exactly two columns: ‘Step’ and ‘Description’
+J0262,C1,YES,"Sections Вовед, Главен аргумент, Заклучок in order"
+J0262,C2,YES,Each section is under 200 words
+J0262,C3,NO,'Примерите на ова се филмовите ... емоционални слики.' has 22 words; the last sentence has 24
+J0262,C4,NO,Вовед and Заклучок contain no concrete examples or evidence
+J0263,C1,YES,"Ten English films (Godfather through Toy Story) described with ‘Hark!’, ‘’Tis’, ‘thou’; Parasite is mentioned but retracted"
+J0264,C1,YES,"Jane Austen, Agatha Christie and Queen Victoria are deceased British persons distinct from the examples"
+J0264,C2,YES,All three are women
+J0264,C3,YES,None held elected or party-political office; Victoria was a hereditary monarch
+J0265,C1,YES,"Tree shows IB/Code.py (Eclass), TESTOUT/test.py and [html-датотеки]"
+J0265,C2,NO,Import is only mentioned as a potential problem; instantiation ‘ib = Eclass()’ is not represented
+J0265,C3,YES,‘UTILS/ └── helper.py (Содржи функции кои ги користи Code.py)’
+J0265,C4,YES,‘TESTOUT/... TEMPLATES/ └── [ .j2 датотеки] (Jinja2 шаблони кои ги користи test.py)’; HTML marked as generation results
+J0265,C5,YES,'Содржи класите Eclass и Dclass'; ‘Eclass е зависна од Dclass’
+J0266,C1,YES,"Actionable tips: question the topic, analyze arguments, consider counterarguments, use reductio ad absurdum and similar logical tools"
+J0266,C2,NO,Generic advice with no plan for the one-month timeframe or concrete debate-preparation steps
+J0267,C1,YES,"Tree shows IB/Code.py (Eclass), TESTOUT/test.py and [html-датотеки]"
+J0268,C1,YES,"Says every cell needs factors that differ by cell type, and that without any the genes stay silent and the cell cannot function or live; poetic Tagore-like voice"
+J0268,C2,YES,"Epistolary flourishes: 'Драги пријатели', 'О, мојот другару', 'Со најдлабока почит и надеж'"
+J0269,C1,YES,"Tree shows IB/Code.py (Eclass), TESTOUT/test.py and *.html"
+J0270,C1,YES,"Tree shows IB/Code.py (Eclass), TESTOUT/test.py and .html"
+J0270,C2,NO,Shows the import but not the instantiation; also invents test.py importing UTILS.helper
+J0270,C3,YES,‘UTILS/ └── helper.py # Utility scripts used by Code.py’
+J0270,C4,YES,‘TESTOUT/TEMPLATES/.j2 # Jinja2 templates used by test.py’; HTML shown as generated output
+J0271,C1,NO,"‘from injuries’ and ‘died at hospital’ are unsupported by the text; lines 1, 4 and 5 duplicate the same Maidan Shahr attack"
+J0272,C1,NO,Lines don’t follow the template (no 'убиен од ... убиец' slot); invents 'Авганистански војник' for the Kabul victims and a suicide bomber in Maidan Wardak
+J0273,C1,YES,"Introduction, Main Argument, Conclusion in order"
+J0273,C2,YES,Each section is about 80–95 words
+J0273,C3,NO,"‘In conclusion, the preference for film photography... deliberate approach.’ exceeds 20 words; ‘While digital cameras...’ has 21"
+J0274,C1,YES,"Four primary steps (prepare, heat pan, cook, serve), each with bulleted sub-steps"
+J0275,C1,NO,"Single code block with four GPUs, but garbled, implausible layout and nonexistent ‘GeForce V100’"
+J0276,C1,YES,"Ten English-language film adaptations, framed in a Bard voice (‘Hark, good sir’, ‘I, William Shakespeare’)"
+J0277,C1,YES,"1. Вовед, 2. Главен аргумент, 3. Заклучок in order"
+J0277,C2,YES,Each section is well under 200 words
+J0277,C3,YES,Longest sentence is about 15 words
+J0277,C4,NO,"Conclusion gives only general statements, no concrete examples or evidence"
+J0278,C1,NO,"Ten films, but descriptions are modern plot summaries, not a Bard-like voice"
+J0278,C2,NO,"Humor is only generic pirate quips, no court-jester mirth"
+J0278,C3,NO,Victorian era only name-checked; no Dickensian narrative flavor
+J0278,C4,YES,Every film has a ‘Captain Jack Sparrow’s whisper/chuckle/grin’ quip
+J0279,C1,YES,"Tree shows Code.py (Eclass), TESTOUT/test.py, [html files]"
+J0279,C2,NO,Shows ‘Imports Eclass from Code.py’ but not the instantiation ib = Eclass()
+J0279,C3,YES,UTILS/helper.py ‘Contains utility functions for Code.py’
+J0279,C4,YES,TEMPLATES/[*.j2 files] ‘Jinja2 templates for test.py’
+J0280,C1,YES,"Nested list shows IB, Code.py/Eclass, TESTOUT with HTML files and test.py"
+J0280,C2,YES,Includes test.py code with import and ib = Eclass(); locations unchanged
+J0281,C1,YES,"Tree with Code.py/Eclass, TESTOUT/test.py, .html"
+J0281,C2,NO,Shows ‘Imports: Eclass from Code’ but instantiation is not represented
+J0281,C3,YES,UTILS/helper.py ‘utility functions used by Code.py’
+J0281,C4,YES,TEMPLATES/.j2; test.py ‘Uses: Templates’; html marked as generated output
+J0281,C5,YES,Code.py lists Dclass; ‘Eclass ... Depends on: Dclass’
+J0282,C1,NO,Flat steps 1-5 with no hierarchical levels
+J0282,C2,YES,Each step is a single sentence
+J0282,C3,YES,All steps are 15 words or fewer
+J0282,C4,YES,Step information is presented in a table
+J0283,C1,NO,"Third-person literary analysis of noir tropes, not a noir detective voice; denies the desert despite the clues"
+J0284,C1,YES,Explains HCO3−/OH− acid-base reaction; Na+ and Cl− as spectator ions
+J0284,C2,YES,"Names CO3²⁻, H2O and Na2CO3 (dissociated) as new species"
+J0284,C3,YES,"HCO3− + OH− ⇌ CO3²− + H2O, balanced by mass and charge"
+J0285,C1,NO,"Single code block, but layout is not plausible nvidia-smi output and ‘RTX V100’ does not exist"
+J0285,C2,NO,"GPU 2 memory is 31.5GB of 32GB, but no utilization is shown"
+J0285,C3,NO,"GPU 1 shows 6.4GB (20%), but no process and no idle utilization are shown"
+J0286,C1,YES,Table with columns Месец / Предложена активност
+J0286,C2,YES,"Each activity starts with a verb (Подгответе, Истражете...) followed by a goal and an elaborating action"
+J0287,C1,YES,"Primary steps 1-4 with sub-steps 1.1, 2.1, etc."
+J0287,C2,NO,Broken table; secondary steps are not placed in a second column beside their primary steps
+J0287,C3,YES,Primary steps are 3-4 words each
+J0287,C4,YES,"Secondary steps are all short, under 20 words"
+J0287,C5,YES,"All steps are imperative (Rinse, Season, Heat, Place, Serve...)"
+J0288,C1,NO,Repetitive philosophical reading about death; no noir detective voice or deduction
+J0289,C1,YES,‘Xiao Zhang is now on the 14th floor.’
+J0290,C1,NO,"Says cells without TFs would grow ‘without direction’, which is wrong; no mention of cell-type-specific TFs"
+J0290,C2,NO,Plain modern style with no 19th-century eloquence
+J0290,C3,NO,Only garden metaphors; no Victorian botanist persona
+J0291,C1,YES,Four primary steps with detailed sub-steps
+J0291,C2,NO,Malformed table; the step number takes the first column and primary/secondary steps are not in columns 1 and 2
+J0292,C1,YES,'Вен вкупно заработила 28 долари.'
+J0293,C1,YES,"Covers each ion pair: no reaction for Na+/Cl−, HCO3−+OH− reaction"
+J0293,C2,YES,CO3²⁻ and H2O formed; precipitate only conditional on Ca²⁺/Mg²⁺ being present
+J0293,C3,YES,"HCO3− + OH− → CO3²− + H2O, balanced"
+J0293,C4,YES,"pH range, OH− concentration and absence of Ca/Mg, each with its effect explained"
+J0294,C1,YES,"Steel-manning, flowing, first-principles drills for a philosophy major"
+J0294,C2,NO,"Debate-focused, but no tailoring to the one-month timeline; even includes a ‘Monthly’ item"
+J0294,C3,YES,"‘As a lead debater, you are responsible for the big picture’"
+J0295,C1,YES,Practical numbered steps; respectful framing (‘not broken or deficient’); peer not portrayed as harmful
+J0296,C1,YES,Advises teaching understanding over mimicry and asking ‘What is he feeling?’; affirms the peer’s worth
+J0296,C2,YES,Ornate epistolary counsel signed ‘Victor Hugo’
+J0297,C1,YES,‘Xiao Zhang is now on the 14th floor.’
+J0298,C1,YES,Tables with 'Месец' / 'Предложена активност' columns giving PhD prep ideas
+J0298,C2,NO,"Activities start with nouns, e.g. 'Идентификување програми:', 'Подготовки за испити:', not verbs"
+J0298,C3,YES,"Јан, Фев, Мар, Апр... Ное, Дец are recognizable Macedonian abbreviations"
+J0298,C4,NO,Sub-activity 'Вмрежување' is missing entirely
+J0299,C1,YES,‘maximize profits... within the bounds of the law and ethical rules’; discusses ethical implications pro/contra
+J0300,C1,NO,"Ten English films listed, but descriptions are repetitive 'поетски поглед' prose with little recognizable Bardic diction"
+J0300,C2,NO,Descriptions are solemn; no court-jester humor
+J0300,C3,YES,"Dickensian framing: 'заdimena соба, свеќниците трепкаат', 'маглата на Лондон'"
+J0301,C1,YES,"Actionable exercises: steel-manning, fallacy spotting, thinking journal, Socratic method"
+J0302,C1,YES,"Practical advice: question assumptions, analyze arguments, read and research, active listening"
+J0302,C2,NO,Mentions debate generally but nothing about the next-month timeline
+J0302,C3,NO,No mention of the lead-debater role or leadership
+J0303,C1,NO,Final answer is $648
+J0304,C1,NO,Claims ions don’t react; invents H2O2 formation; omits HCO3− + OH− → CO3²− + H2O
+J0304,C2,NO,Lists nonsensical products (H2O2) and never mentions carbonate formation
+J0305,C1,YES,"Pacific Ocean, 155.6 million, listed first in the table"
+J0305,C2,YES,Exactly two columns with ‘Ocean Name’ / ‘Total Area (sq km)’; one-line cells
+J0305,C3,YES,‘Pacific Ocean’ in Title Case
+J0306,C1,YES,Primary sections I–IV with lettered sub-steps and detailed bullets
+J0307,C1,YES,‘Xiao Zhang is now on the 20th floor.’
+J0308,C1,YES,"Numbered main steps 1–3, each with bold sub-steps and bullets"
+J0309,C1,NO,"Single code block, but the output is malformed and not plausible nvidia-smi"
+J0309,C2,NO,GPU 2 shows 20%; 100% is shown on GPU 3
+J0309,C3,NO,GPU 1 shows 0%; 20% is on GPU 2
+J0309,C4,NO,No ~35C shown; idle GPUs show no temperature or 0C
+J0310,C1,YES,Table includes 'Месец' and 'Предложена активност' columns with PhD prep ideas
+J0310,C2,YES,"All start with verbs (Истражи, Анализирај, Контактирај...) and include a goal ('со цел...') plus a task"
+J0310,C3,YES,"Сеп, Окт, Нов, Фев are recognizable"
+J0310,C4,YES,Both phases and all six sub-activities covered; no mandatory deadlines invented
+J0311,C1,NO,Names ‘The Joshua Tree’ by U2
+J0311,C2,NO,States 1987
+J0311,C3,NO,"Songs are from The Joshua Tree, not Born in the U.S.A."
+J0312,C1,YES,"'Вкупно, Венг заработила 10 + 32 = 42 долари.'"
+J0313,C1,YES,"Five main steps, each with a related sub-step"
+J0313,C2,YES,Table: 'Примарен чекор' | 'Секундарен чекор'
+J0313,C3,YES,Longest primary step has 9 words
+J0313,C4,YES,All secondary steps are well under 20 words
+J0313,C5,YES,"All imperatives: Загрејте, Додадете, Покријте, Гответе, Превртете..."
+J0314,C1,YES,Six primary steps with bulleted secondary steps
+J0314,C2,YES,Table: Primary Step | Secondary Steps
+J0314,C3,YES,Longest primary step is ‘Prepare the salmon fillet’ (4 words)
+J0315,C1,NO,"'Пацифик | 179,7 милиони' is outside the ~155–170 million range"
+J0315,C2,NO,"Header is 'Име на океанот', not exact; table lacks a separator row"
+J0315,C3,YES,'Пацифик' is a single capitalized word; other names are capitalized per word
+J0315,C4,NO,"‘179,7 милиони кв. км' uses an abbreviation and no thousands separators"
+J0316,C1,YES,HCO3− + OH− → CO3²− + H2O; Na+ and Cl− are spectators; pH-conditional explanation
+J0316,C2,YES,Names CO3²− as a new species; says no precipitate since sodium salts are soluble
+J0317,C1,YES,‘maximize profits... within the bounds of the law and ethical rules of competition’; analyzes ethical impact
+J0317,C2,YES,One consequence: ‘erosion of Social License to Operate’
+J0318,C1,YES,Explains HCO3−/OH− interaction; Na+ and Cl− don’t react
+J0318,C2,NO,"Claims precipitation of 'нерастворлив карбонат на натриум (Na2CO3)', which is soluble; precipitate claimed without basis"
+J0318,C3,YES,HCO3−(aq) + OH−(aq) ⇌ CO3²−(aq) + H2O(l) is balanced
+J0318,C4,YES,"Facilitating/inhibiting conditions listed (high pH, concentration, acidity, buffers) with effects"
+J0318,C5,NO,Gives arbitrary 'опсег од 8.3 до 9.5' and wrongly says lower pH makes HCO3− dissociate
+J0319,C1,NO,Flat bullet list with no hierarchical levels
+J0319,C2,YES,Each bullet is a single sentence
+J0320,C1,YES,"‘14th floor, in Apartment 3’"
+J0321,C1,NO,Omits Friedman’s ‘rules of the game’ (law and ethical custom) qualifier; implies the view licenses tax evasion and bribery
+J0322,C1,NO,"Pacific given as 179,000,000, outside the accepted 155–170 million range"
+J0322,C2,NO,Headers 'Океански Име / Вкупна Површина (квадратни километри)' match neither required header set
+J0322,C3,YES,"All names capitalised, e.g. 'Пацифик', 'Индиски Океан'"
+J0322,C4,YES,"‘179,000,000’ uses comma grouping with no abbreviations"
+J0323,C1,YES,"Pacific listed with 155.6 million sq km, the largest in the table"
+J0323,C2,YES,"Exact headers ‘Ocean Name | Total Area (sq km)’, two columns, one-line cells"
+J0324,C1,YES,‘14-ти кат во стан број 2’
+J0325,C1,YES,Explains HCO3−/OH− acid-base reaction; Na+ and Cl− as spectators
+J0325,C2,YES,CO3²− and H2O formed; notes no precipitate since sodium salts are soluble
+J0326,C1,YES,"Garbled 'Тихоокитани океан' is recognisably the Pacific; 165,250,000 km² is in a table"
+J0327,C1,NO,"Claims ‘not all cells require’ TFs and that yeast manage without them, which is scientifically wrong"
+J0327,C2,YES,Ornate address: ‘My dear fellow… musty tomes of our esteemed botanical brethren’
+J0327,C3,YES,"Speaks as a botanist among ‘botanical brethren’, with botanical analogies"
+J0327,C4,YES,"Light wit, e.g. ‘shall we say, primitive’ and ‘my dear chap’"
+J0327,C5,YES,"‘as I sit by this warm and crackling fire, surrounded by the musty tomes’"
+J0328,C1,NO,"Final answer is 13,04 долари, not 14"
+J0329,C1,YES,Covers Na+ pairs as soluble and the OH−/HCO3− reaction
+J0329,C2,YES,CO3²− formation; precipitation only conditional on Ca/Mg impurities
+J0329,C3,YES,"OH− + HCO3− ⇌ CO3²− + H2O, which is balanced"
+J0329,C4,YES,"Discusses OH− concentration/Le Chatelier, H+ presence and impurities, with reasons"
+J0329,C5,YES,"Discusses buffering, alkalinity and pH shift without a fabricated specific pH"
+J0330,C1,YES,‘sole social responsibility of business is to increase its profits… within the rules of the game’; ethics section present
+J0330,C2,YES,‘erosion of trust… social license to operate’
+J0330,C3,YES,Dakota Access Pipeline case study
+J0330,C4,YES,"Implications: protests, delays, reputational damage, loss of social capital"
+J0331,C1,YES,"Virginia Woolf, E.M. Delafield and Beatrix Potter: real, deceased, British"
+J0331,C2,YES,All three are women
+J0331,C3,YES,"Writers/illustrator, not politicians"
+J0331,C4,NO,Woolf married Leonard Woolf; Potter married William Heelis; Delafield married Paul Dashwood
+J0332,C1,YES,"Sections 1. Introduction, 2. Main Argument, 3. Conclusion in order"
+J0332,C2,YES,Each section is well under 200 words
+J0332,C3,YES,Longest sentence is about 11 words
+J0332,C4,YES,"Each section opens with a general claim, e.g. ‘Film photography remains a cherished art form today.’"
+J0333,C1,YES,"Ten English-language films described in verse with ‘doth’, ‘thou’, ‘Good fellow’"
+J0334,C1,NO,Says no events match; gives zero event lines
+J0335,C1,YES,Numbered steps with nested bullet sub-points about teaching the cat French
+J0336,C1,NO,"Claims a cell lacking TFs would activate genes 'на свој начин' using other factors, which is wrong"
+J0336,C2,NO,"Plain, repetitive prose; no distinct 19th-century eloquence"
+J0336,C3,NO,"Speaker says his grandfather was the botanist, rather than taking on the role"
+J0337,C1,NO,"Attributes decay to strong-force ‘binding energy’, says mass is not the reason, and omits the weak interaction"
+J0338,C1,YES,"'вкупно, таа заработи $10 + $4 = $14'"
+J0339,C1,NO,Endorses fear the son will imitate the peer 'што може да влијае на неговиот развој'; frames the peer as a risk
+J0339,C2,NO,Plain letter merely signed 'Виктор Хуго'; no Hugo-like literary voice
+J0340,C1,YES,"Introduction, Main Argument, Conclusion headings in order"
+J0340,C2,NO,Main Argument section is roughly 225+ words
+J0340,C3,NO,"Many sentences exceed 20 words, e.g. the 35-word ‘Film photography offers a distinct visual quality…’"
+J0341,C1,NO,"States no event matches and gives only one line, not 3"
+J0342,C1,NO,Gothic prose with only token ‘Hark’/’Twas’; not recognisably Shakespearean
+J0342,C2,NO,Asserts ‘the mirth is in…’ but gives little actual jester-like humor
+J0342,C3,NO,Little Dickensian narration beyond naming ‘Victorian’; Bard style largely erased
+J0342,C4,NO,No pirate/Sparrow element in Phantom of the Opera or The Lighthouse entries
+J0342,C5,YES,"Pervasive macabre melancholy: ‘deep as the ocean’s grave’, ghosts, madness"
+J0343,C1,YES,"Вовед, Главен аргумент, Заклучок in order"
+J0343,C2,YES,Each section is under 50 words
+J0343,C3,YES,Longest sentences are 20 words
+J0343,C4,NO,Sections give general statements only; no specific examples or evidence follow
+J0344,C1,NO,"Names marked ‘(непозната личност)’, fabricated and not verifiable as real"
+J0344,C2,NO,"Fictional persons, so gender cannot be verified"
+J0344,C3,NO,Cannot be verified for fictional persons
+J0344,C4,NO,Marital status unverifiable
+J0344,C5,NO,PhDs unverifiable; profiles invented
+J0345,C1,YES,Table with ‘Month | Suggested Activity’ columns
+J0346,C1,YES,"Pacific Ocean, 165,250,000 sq km, within the accepted range"
+J0346,C2,YES,"Two columns, exact EN headers, one-line cells"
+J0346,C3,YES,‘Pacific Ocean’ is in Title Case
+J0347,C1,NO,"Repetitive 'драги читатели' filler; no detective inference, Shakespearean eloquence, Carroll wit or Austen refinement"
+J0348,C1,NO,"Names ‘52nd Street’ by Billy Joel, not Born in the U.S.A. by Springsteen"
+J0348,C2,NO,"Gives 1982, not 1984"
+J0348,C3,NO,‘Big Shot’ is not on Born in the U.S.A.
+J0348,C4,NO,"Invented rationale for the wrong album, stated as fact"
+J0349,C1,NO,Sub-steps are mostly the repeated nonsense line 'Секој филет треба да биде полесно за готвење'; no actual cooking instructions
+J0349,C2,YES,Table has primary steps in column 1 and secondary steps in column 2
+J0349,C3,YES,Longest primary step 'Припремање на филетите за готвење' has 5 words
+J0350,C1,YES,Explains HCO3− + OH− → CO3²− + H2O and that Na+/Cl− are spectator ions
+J0351,C1,YES,"States profit maximisation within laws and ethical norms; discusses manager power, the state’s role and the CSR critique"
+J0352,C1,NO,Answers a flat ‘Yes! It decays because it is too heavy’; omits the weak interaction as the mechanism and implies all neutrons must decay (no bound-nucleus caveat)
+J0352,C2,YES,Stone-on-a-slope and dice analogies suit a young learner
+J0352,C3,YES,"Exclamatory, impassioned delivery"
+J0352,C4,YES,"Wild snowy hair, ‘young seeker of truth’, Einstein-like professor at the chalkboard"
+J0353,C1,NO,"Single code block, but the output is not plausible nvidia-smi (‘S-M-I 1.0’, ‘NVML-RPC’, garbled memory columns)"
+J0354,C1,NO,Flat numbering 1–10 with no hierarchical levels
+J0354,C2,YES,Each table row is a single sentence
+J0354,C3,NO,Step 6 has 18 words and step 2 has 16
+J0354,C4,YES,Steps are presented in a table
+J0354,C5,YES,Two columns: Број / Опис
+J0355,C1,YES,"Practical tips: critical reading, argument analysis, fallacies, discussion, feedback"
+J0356,C1,NO,Malformed table with an invented ‘CPU | P100-32GB’ row; not plausible nvidia-smi output
+J0356,C2,NO,"GPU 2 shows 3276/16384 MiB, not full memory"
+J0356,C3,NO,"GPU 1 shows 95% utilisation, i.e. an active job"
+J0356,C4,NO,No temperatures shown at all
+J0356,C5,YES,‘CUDA Version: 11.5’
+J0357,C1,YES,Table with Month / Suggested Activity columns
+J0357,C2,YES,"Each activity starts with a bolded verb, then an objective, then a specific task"
+J0358,C1,YES,Table with Месец / Предложена активност columns
+J0358,C2,NO,"'Импресија на институцијата' starts with a noun, not a verb"
+J0358,C3,NO,"Full month names used (Јануари, Февруари…), not abbreviations"
+J0358,C4,NO,The two phases are not represented; the structure is flattened and mixed with extra items
+J0358,C5,NO,'Вмрежувај се: креирај профил на LinkedIn…' has 12 words; January row also has 12
+J0359,C1,NO,A single ‘1.’ followed by a flat list; no hierarchical levels
+J0359,C2,NO,"Items combine an imperative and a second capitalised sentence, e.g. 'Бидете трпеливи: Учењето…'"
+J0360,C1,YES,Level 1–4 headings with bulleted steps
+J0360,C2,YES,Each bullet is a single sentence
+J0361,C1,YES,Presents TFs as essential for gene expression; says a cell without them could not make proteins or live; poetic Tagore-like imagery
+J0361,C2,YES,"Ornate address: ‘pray, step into my conservatory’"
+J0361,C3,YES,"Conservatory, Victoria amazonica, Nepenthes"
+J0361,C4,YES,Jokes about the temperamental lily crushing the unwary and the thirsty Nepenthes
+J0362,C1,NO,Wrongly says the ions don’t react; ignores the OH−/HCO3− reaction and claims OH− forms from CO2
+J0363,C1,YES,Profit within laws and ethical norms; discusses positive and negative ethical impact
+J0363,C2,YES,One consequence: erosion of trust and social capital
+J0363,C3,NO,"Muddled ‘Hindustan Unilever / McDonald’s’ case with vague, unsupported claims of chains withdrawing"
+J0364,C1,NO,Wrong equation ‘OH- + HCO3- → H2O + CO2’ (unbalanced charge); invents Na2SO4 ion pairs
+J0365,C1,YES,"Practical skills: argument analysis, evidence evaluation, Socratic dialogue"
+J0365,C2,YES,Advice framed around debate preparation and format
+J0365,C3,YES,Congratulates on representing the college and tailors tips to that
+J0365,C4,YES,‘To excel in the national debate competition…’ section
+J0366,C1,YES,OH−/HCO3− acid-base reaction explained; Na+/Cl− spectators
+J0366,C2,YES,Identifies CO3²− as the product and notes no precipitate forms
+J0366,C3,YES,HCO3− + OH− → CO3²− + H2O is balanced
+J0366,C4,YES,"Aqueous medium, temperature, Keq and CO2 exposure discussed with reasons"
+J0367,C1,NO,"180,000,000 is outside the accepted 155–170 million range"
+J0367,C2,YES,"Two columns, exact headers, one-line cells"
+J0367,C3,YES,‘Pacific Ocean’ is in Title Case
+J0368,C1,NO,States that no events match; zero event lines given
+J0369,C1,YES,"Respectful (‘not a broken clock’), with practical steps: observe, provide contrast, model respect"
+J0369,C2,YES,Grand literary counsel with garden and soul imagery
+J0369,C3,YES,Wine-and-velvet jest that doesn’t target autistic people
+J0369,C4,YES,"‘lens of observation’, ‘my deduction’, ‘The game… is merely beginning’"
+J0370,C1,YES,Markdown table with columns ‘Month’ and ‘Suggested Activity’
+J0370,C2,NO,"All rows start with a verb, but most are a single task with no separate general objective, e.g. ‘Identify and shortlist 10-15 potential PhD programs’"
+J0370,C3,NO,"Full month names are used (‘JUNE’, ‘JULY’, ‘SEPTEMBER’), not abbreviations"
+J0371,C1,YES,"Exactly one line, ‘126 people died at Maidan Shahr from explosion, killed by Taliban’; every argument is supported by the passage"
+J0372,C1,YES,"Levels 1-5, each with numbered steps"
+J0372,C2,YES,Each numbered step is a single sentence
+J0372,C3,YES,"The longest steps are about 11 words, e.g. ‘Start with simple words, like ""bonjour""...’"
+J0373,C1,YES,"Numbered primary steps (Preparation, Cooking, Doneness, Serving) with nested secondary bullets"
+J0374,C1,YES,Specific factors differ by cell role; without them the cell is ‘unable to produce the proteins’ and drifts ‘toward... death’; poetic Tagore-like imagery (‘sunrise over the Ganges’)
+J0374,C2,YES,"‘My dear correspondent’, ‘Imagine, if you will’ and similar elevated diction"
+J0374,C3,YES,‘In the hallowed halls of our Victorian laboratories... tweezers and microscopes’; botanical leaf and seed imagery
+J0375,C1,YES,"Introduction, Main Argument, Conclusion appear in that order"
+J0375,C2,YES,Every section is well under 200 words
+J0375,C3,YES,"All sentences are short, the longest about 13 words"
+J0375,C4,YES,"Each section opens with a general claim, e.g. ‘Film photography experiences a major revival today.’"
+J0375,C5,YES,No words ending in -ing found
+J0376,C1,YES,Cells use selective transcription factors as ‘librarians’ that differ by cell type; without them the cell is ‘unable to transcribe the story of life’ and fades; written in a poetic Tagore-like style
+J0376,C2,YES,‘In such a wretched state... withered and nameless in the wind of oblivion’
+J0377,C1,YES,"Practical steps (observe, broaden social circles); 'Почитувајте ја уникатноста на секој'; the peer is presented as teaching empathy, not as harmful"
+J0377,C2,NO,"It only states 'Јас сум Виктор Иго'; the tone is modern and plain, with no literary voice inspired by Hugo"
+J0378,C1,YES,‘Weng earned a total of $14.’
+J0379,C1,YES,"Magnifying glass, ‘The verdict is thus’, ‘Pray, lend thy conscience... Nay’"
+J0380,C1,YES,"Numbered main steps (Подготовка, Процес на готвене, Послужување) with nested sub-steps"
+J0381,C1,YES,"1. Introduction, 2. Main Argument, 3. Conclusion"
+J0381,C2,YES,Every section is under 200 words
+J0381,C3,YES,The longest sentence is about 14 words
+J0381,C4,YES,"Each section opens with a general statement, followed by examples such as Ansel Adams and Vivian Maier"
+J0381,C5,NO,"Uses ‘loading’, ‘waiting’, ‘appealing’, ‘growing’"
+J0382,C1,NO,Names Billy Joel’s ‘52nd Street’ instead of Springsteen’s Born in the U.S.A.
+J0382,C2,NO,"Gives 1978, not 1984"
+J0383,C1,YES,"Tree shows IB/, ‘Code.py # Главна класа: Eclass’, TESTOUT/test.py and [HTML фајлови]"
+J0383,C2,NO,States the import of Eclass from Code.py but never mentions creating an instance (ib = Eclass())
+J0383,C3,YES,‘UTILS/ └── helper.py # Помошни функции користени од Code.py’
+J0384,C1,NO,Answer states ‘No events in the text satisfy the template’
+J0385,C1,YES,"States the profit-maximization view and Friedman’s rejection of social responsibilities, and discusses the influence on business ethics"
+J0385,C2,YES,‘One possible repercussion... is the exacerbation of social and economic inequalities’
+J0385,C3,YES,"Tobacco industry case study (Philip Morris, R.J. Reynolds)"
+J0386,C1,YES,"Ниво 1-5, each with numbered steps"
+J0386,C2,NO,"Steps combine a bold heading with a separate sentence, e.g. 'Провери дали...: Ако твојата мачка има...'"
+J0387,C1,NO,"Claims 'некои бактерии можат... без транскрипциски фактори', which is scientifically wrong; text is repetitive and not Tagore-like"
+J0388,C1,NO,"Single code block with four V100s, but the output is garbled: duplicated rows, missing memory/utilization columns, invented ‘Total GB-sec’ line"
+J0389,C1,NO,"Tree invents an ‘Eclass.py’ file and never shows Eclass inside Code.py, which contradicts the user’s description"
+J0390,C1,YES,"Read and critique philosophical texts, write essays, take part in discussions"
+J0390,C2,NO,"The debate next month appears only in the closing sentence; the advice (conferences, radio/TV programs) is not tailored to it"
+J0391,C1,YES,'единствената социјална одговорност на бизнисот е да ја зголеми профитот... не се прекршува законот'; ethics implications are discussed
+J0391,C2,YES,'ерозијата на довербата и соработката помеѓу бизнисот и локалните заедници'
+J0391,C3,YES,Fast-food industry and public health case study
+J0391,C4,YES,"Implications covered: obesity, government sugar taxes 'исправат' the market failure"
+J0391,C5,NO,Porter quote appears fabricated and he is falsely called a Nobel laureate; the McKinsey ‘22%’ statistic is dubiously sourced
+J0392,C1,NO,Says the neutron is ‘sitting in’ its ground state and that decay is a jolt upward; misuses ‘mass defect’; no free vs. bound distinction
+J0392,C2,YES,"Simple analogies addressed to ‘my young friend’ (chair, soufflé vs brick)"
+J0392,C3,YES,‘wondrous world of physics... quirky and fascinating’
+J0392,C4,YES,‘Professor Einstein’ persona addressing the pupil
+J0392,C5,YES,"‘quirky as a Mississippi riverboat captain’s tales’, ‘runaway stagecoach’"
+J0393,C1,YES,"1. Вовед, 2. Главен аргумент, 3. Заклучок in order"
+J0393,C2,YES,Each section is roughly 80-105 words
+J0394,C1,YES,"Shakespearean verse (‘But, soft! What light through yonder dunes doth break?’) with ‘I, a keen detective, with sagacious eye’ inferring the Sahara"
+J0395,C1,YES,Final answer: ‘Xiao Zhang is now on the 20th floor’
+J0396,C1,YES,"Practical advice: identifying assumptions, fallacies, steel-manning, weighing; aimed at a philosophy student"
+J0396,C2,YES,"All advice is built around debate (rebuttal, weighing, BP/WSDC practice), though the one-month timeline is not made explicit"
+J0397,C1,YES,"Generic but practical advice: questioning assumptions, analysing arguments, active listening, reading"
+J0397,C2,YES,Advice repeatedly framed around debating opponents and counterarguments
+J0397,C3,NO,Never addresses representing the college
+J0397,C4,NO,Only a passing mention of 'национален натпревар'; no national-level preparation
+J0397,C5,YES,First strategy uses Socratic questioning to challenge assumptions and explore perspectives
+J0398,C1,NO,Only one event line given; two were required
+J0399,C1,NO,"Names ‘The rest of the world’ with no artist, not Born in the U.S.A. by Springsteen"
+J0399,C2,NO,Gives 1983
+J0399,C3,NO,Names no song
+J0400,C1,YES,'Сјао Џанг сега е на 14. кат'
+J0401,C1,YES,Table with columns 'Месец' / 'Предложена активност' and PhD preparation activities (despite a questionable timeline)
+J0402,C1,NO,"Lines 3 and 4 describe the same Maidan Wardak attack (35 vs 190 dead), so the events duplicate; 190 is only a Taliban claim"
+J0403,C1,NO,Names an invented ‘The First Steps of God’ by Weather Report
+J0403,C2,NO,"Gives 1984, but for the wrong album, not Born in the U.S.A."
+J0403,C3,NO,‘A Night in the Forest’ is not on Born in the U.S.A.
+J0403,C4,NO,Gives an invented reason for an invented album
+J0403,C5,NO,"Presents invented figures (10 million vs 100,000) and The Joshua Tree as the second CD"
+J0404,C1,YES,Table lists 'Пацифички Океан | 155.687.000' first as the largest
+J0404,C2,YES,Two columns with exact headers; one line per cell
+J0404,C3,YES,'Пацифички Океан' capitalises every word
+J0405,C1,NO,"One code block with four GPUs, but malformed columns and a garbled layout; not plausible nvidia-smi output"
+J0405,C2,NO,GPU 2 shows 0.00G everywhere; no full memory or utilization
+J0405,C3,NO,GPU 1 shows 0.00G; no 20% memory use
+J0405,C4,NO,No temperatures shown
+J0405,C5,YES,‘CUDA Version: 11.5’
+J0406,C1,YES,"'Аутизмот не е болест'; encourages the friendship, explaining social codes, empathy; the peer is not framed as harmful"
+J0406,C2,YES,"'моето име е Виктор Иго', with literary, poetic counsel"
+J0406,C3,NO,"Verses are labelled 'шеговит' but are earnest, with little actual humor or wit"
+J0406,C4,YES,"'Анализирам фактите', 'холмовска анализа', 'дедукција'"
+J0407,C1,YES,"Practical advice built on philosophical tools: fallacies, ethical frameworks, steel-manning"
+J0407,C2,YES,Section ‘4. Practical Steps for the Next Month’
+J0407,C3,YES,"Addresses the lead role: ‘formidable lead debater’, defining terms in the opening 30 seconds"
+J0408,C1,NO,"Says 'Да, точно така е' without the weak interaction or ~15-min lifetime; wrongly says bound neutrons decay slowly because they must break through a barrier"
+J0408,C2,YES,"Simple analogies (a ball on a hill, a heavy backpack) suited to an upper-elementary student"
+J0409,C1,NO,"Ten films listed, but the ‘Bard’s Tale’ lines are modern exclamations, not recognisably Shakespearean"
+J0409,C2,YES,A ‘Jester’s Jest’ with a joke for every film
+J0409,C3,NO,Only names ‘Victorian mist’ and ‘Dickensian novel’; no real Dickensian narrative flavor
+J0409,C4,YES,A ‘Pirate’s Quest’ with Sparrow-like treasure talk in each of the ten entries
+J0410,C1,NO,Mostly reassurance with no concrete steps; ‘let him laugh at the oddities’ undercuts respect
+J0410,C2,YES,"‘don the mantle of Victor Hugo’; ‘brother in the great human family’, garden metaphor"
+J0410,C3,YES,"Apprentice-jester analogy and the monkey-in-a-velvet-coat quip, not aimed at autistic people"
+J0410,C4,NO,Names Holmes but shows no real deductive observation or analysis
+J0410,C5,YES,"‘My dear friend’, ‘permit me’, ‘Yours in wisdom and mirth’"
+J0411,C1,YES,"Pankhurst, Somerville and Martineau are all deceased British subjects"
+J0411,C2,YES,All three are women
+J0411,C3,NO,Pankhurst led the WSPU and was adopted as a Conservative parliamentary candidate
+J0411,C4,NO,Pankhurst married Richard Pankhurst; Somerville married twice
+J0412,C1,NO,Names Dark Side of the Moon by Pink Floyd
+J0412,C2,NO,"Gives 1973 / 1986, not 1984"
+J0413,C1,YES,'Сјао Џанг сега е на 14. кат'
+J0414,C1,YES,"‘As a wise old sage, I shall ponder...’ while speculating on desert, island or a dream"
+J0415,C1,YES,"Primary steps with sub-steps (preparing, heating the pan, frying, flipping, serving)"
+J0415,C2,NO,A plain hierarchical list; no table
+J0415,C3,YES,"Every primary step is 5–7 words, e.g. 'Додадете го филето од лосос во тавата'"
+J0416,C1,YES,"Generic but applicable advice: critical reading, questioning arguments, debating with others"
+J0416,C2,NO,Debate next month only named in the closing sentence; no tailored plan
+J0416,C3,NO,"Lead-debater role only mentioned at the end, with no tailored advice"
+J0417,C1,YES,Table with ‘Month’ / ‘Suggested Activity’ columns covering Aug 2023–Aug 2024
+J0417,C2,NO,"Several entries lack the objective-then-task structure, e.g. ‘Apply to the NSF GRFP’, ‘Start your PhD program and begin your research journey’"
+J0418,C1,NO,"Reaches a detective ‘conclusion’, but the tone is somber ('логиката е толку крвава'), with little humor and almost no Carroll-style puns or wordplay"
+J0419,C1,YES,Weng earned $14.00
+J0420,C1,YES,Clear tree: IB/ with Code.py (Eclass noted) and TESTOUT/test.py; HTML files represented
+J0420,C2,NO,Moves the HTML files into an invented html_files/ subfolder; mentions the import but not the instantiation ib = Eclass()
+J0420,C3,YES,UTILS/helper.py: ‘A Python file with functions used by Code.py’
+J0420,C4,YES,TESTOUT/TEMPLATES/jinja2_templates.j2 included
+J0421,C1,NO,Nonsensical steps ('Испечете го филето со крпа за деконтаминација'); bakes at 200°C for 12–15 min instead of pan-cooking
+J0421,C2,YES,Two-column table: Примарен чекор / Секундарен чекор
+J0421,C3,YES,All primary steps are 3–6 words
+J0421,C4,YES,Each secondary step (sentence) is ≤20 words
+J0421,C5,YES,"All steps are imperative: Подгответе, Зачини, Положете, Вклучете, Послужете"
+J0422,C1,NO,Only echoes ‘nvidia-smi’; no GPU output
+J0422,C2,NO,No GPU information shown
+J0422,C3,NO,No GPU information shown
+J0423,C1,YES,Table with Месец / Предлог активност columns
+J0423,C2,NO,"Noun entries like 'Вмрежување', 'Собирање документи'; no objective + specific task structure"
+J0423,C3,NO,Full Macedonian month names ('Јануари') for an English instruction; no abbreviations
+J0423,C4,YES,"Covers programs, exams, networking, documents, essays and recommendations"
+J0423,C5,YES,All entries are well under ten words
+J0424,C1,YES,Single code block of nvidia-smi-style output listing four Tesla V100-SXM2-32GB GPUs; no prose
+J0424,C2,YES,"GPU 2: 31457MiB / 32768MiB, 100% util, 299W/300W"
+J0425,C1,YES,‘maximize profits for its shareholders... within the bounds of the law and the rules of the game’; discusses ethics and stakeholder critique
+J0425,C2,YES,"Prioritization of profit over local well-being, leading to a breakdown in trust"
+J0425,C3,YES,Purdue Pharma / OxyContin case study
+J0426,C1,NO,Wrongly says neutron mass exceeds the sum of its quarks; omits the weak interaction; attributes decay to 'термодинамика' and the strong force; cites U-238 as beta decay
+J0426,C2,YES,"Child-level analogies (ball rolling down a hill, child held inside a house)"
+J0426,C3,YES,"'Здраво, мој драг ученику!', 'Ова е најинтересниот дел!'"
+J0427,C1,YES,‘the single duty of business is to increase its profits’; discusses criticism of neglecting social impacts
+J0427,C2,YES,‘lack of investment in local communities and a focus on short-term profits’
+J0428,C1,YES,Table with Месец / Предложена активност and PhD-prep ideas
+J0428,C2,YES,"Each entry starts with a verb plus goal and action, e.g. 'Издигни твојата вештина со учество во проекти...'"
+J0428,C3,YES,"Јан, Фев, Мар, ... Ное, Дек"
+J0429,C1,YES,"Pacific ('Тихоокеански Океан'), 163,260,000 km², within the accepted range"
+J0429,C2,YES,"Exactly two columns with the required headers, one line per cell"
+J0429,C3,YES,Both words capitalized: 'Тихоокеански Океан'
+J0429,C4,YES,"163,260,000 with comma separators, no abbreviations"
+J0429,C5,YES,":--- left, ---: right"
+J0430,C1,YES,Table Месец / Предложена активност with PhD-prep ideas
+J0430,C2,YES,"All entries start with verbs (Завршете, Приберете, Аплицирајте...) followed by goal and task"
+J0431,C1,NO,Names ‘The Freewheelin’ Bob Dylan’ instead of Born in the U.S.A. by Bruce Springsteen
+J0432,C1,NO,Names U2’s ‘The Joshua Tree’
+J0432,C2,NO,"Gives 1987, not 1984"
+J0433,C1,YES,"Concrete exercises: Socratic interview, claim/reason/warrant, active listening"
+J0433,C2,YES,Advice consistently aimed at debate performance and preparation
+J0433,C3,YES,'Бидејќи си избран да го претставуваш факултетот...'
+J0433,C4,YES,"Addresses preparing for the national competition ('национален дебатен натпревар', 'Анализа на минатите натпревари')"
+J0433,C5,YES,Whole section on turning Socratic questioning into a debate tactic
+J0434,C1,NO,Outputs 7 lines instead of 2; several don’t follow the template; includes a likely duplicate (126 vs 100 in the same attack)
+J0435,C1,NO,"Flat 1–8 list with no sub-levels; steps teach the user French, not the cat"
+J0435,C2,YES,Each cell contains a single sentence
+J0435,C3,NO,Row 2 has 16 words; row 3 has over 20 words
+J0435,C4,YES,Steps presented in a table
+J0436,C1,YES,"Steel-manning, fallacy detection, claim-evidence-warrant, mock debates"
+J0436,C2,YES,‘To ensure you are ready next month...’ plus debate-focused prep
+J0437,C1,YES,"Nonsense coinages and wordplay ('Шекспирски-Шиб-Шиб', 'Би-било-би-би'), detective framing, Carroll-like absurdity"
+J0438,C1,NO,‘Marya Hall’ unverifiable; others are placeholders like ‘[Specific Academic]’
+J0438,C2,NO,No verifiable real persons named
+J0438,C3,NO,Cannot be confirmed for placeholder names
+J0438,C4,NO,Response admits ‘never married’ cannot be verified
+J0438,C5,NO,PhDs not verifiable for fabricated/placeholder people
+J0439,C1,YES,"Fallacy identification, steel-manning, argument mapping, Socratic questions"
+J0439,C2,YES,'Практични вежби за следните неколку недели' for the upcoming event
+J0439,C3,NO,No advice specific to the role of lead debater; only 'Честитки за изборот!'
+J0440,C1,NO,"Repeatedly frames the friendship as something to 'заштити' the son from; advice is vague and repetitive, not practical"
+J0440,C2,NO,Generic repetitive phrasing; no recognizable Hugo-inspired literary voice
+J0441,C1,YES,Вкупно Венг заработила 37 долари
+J0442,C1,NO,"Says a cell without TFs would have ‘genes firing off like fireworks’ (anarchy), which is wrong: transcription would fail. It also does not address cell-type-specific TFs."
+J0442,C2,YES,"Ornate phrasing such as ‘My dear fellow’, ‘replete with the wonders’, ‘Ah, but I digress’"
+J0442,C3,YES,"‘As a humble botanist’, orchids, ‘return to my greenhouse’"
+J0442,C4,YES,"‘genes firing off like fireworks in a madman’s carnival’, ‘most...unseemly manner’"
+J0443,C1,YES,"Nested bullet list with Levels 1–4, each holding steps/considerations about the cat and French"
+J0444,C1,YES,States the core responsibility is maximizing shareholder profit and discusses the effect on social/ecological responsibility (omits the ‘rules of the game’ qualifier)
+J0444,C2,YES,Names one consequence: rising social inequality ('социјалната нејодност')
+J0444,C3,YES,Uses Walmart in the USA as a case study
+J0445,C1,YES,"Virginia Woolf, Agatha Christie and Queen Victoria are all deceased British persons"
+J0445,C2,YES,All three are women
+J0445,C3,YES,"None held elected or party-political office (Victoria was a monarch, not an elected or party official)"
+J0445,C4,NO,Woolf married Leonard Woolf; Christie married twice; Victoria married Albert
+J0446,C1,YES,"Explains HCO3− + OH− → CO3²− + H2O and that Na+/Cl− are spectator ions, with pH conditions"
+J0447,C1,NO,"Lists seven extra names (one duplicated), not three; Marie Curie was not a UK citizen"
+J0447,C2,YES,All listed additional persons are women
+J0447,C3,NO,Margaret Thatcher was a politician
+J0447,C4,NO,"Seacole, Curie, Thatcher and Victoria were all married"
+J0447,C5,NO,"Only Rosalind Franklin held a PhD; Seacole, Victoria and others did not"
+J0448,C1,NO,"Names a nonexistent Rolling Stones album, not Born in the U.S.A."
+J0448,C2,NO,Gives 1983
+J0448,C3,NO,‘Brown Sugar’ / ‘Angie’ are not on Born in the U.S.A.
+J0448,C4,NO,Invented reason about Rolling Stones prestige
+J0449,C1,NO,"Pacific is correct, but 179,679,000 km² is outside the accepted 155–170 million range"
+J0449,C2,YES,"Exactly two columns with the exact headers, one row per cell"
+J0450,C1,NO,Only a prose description; no text-drawn hierarchy
+J0450,C2,YES,Describes test.py importing Eclass from Code.py and creating instance ‘ib’; no locations changed
+J0450,C3,YES,UTILS contains helper.py with functions used by Code.py
+J0451,C1,NO,Nonsense answer ‘The rest of the world’
+J0451,C2,NO,No year 1984 given
+J0452,C1,YES,Table with ‘Month’ and ‘Suggested Activity’ columns of pre-PhD activities
+J0453,C1,NO,Only echoes ‘nvidia-smi’; no code block and no output
+J0453,C2,NO,No GPU output shown
+J0453,C3,NO,No GPU output shown
+J0453,C4,NO,No temperatures shown
+J0454,C1,NO,Names ‘The Joshua Tree’ by U2
+J0454,C2,NO,Gives 1987
+J0454,C3,NO,Tracks listed are U2 songs
+J0454,C4,NO,False reason based on Joshua Tree popularity
+J0455,C1,YES,Table with Month / Suggested Activity columns
+J0455,C2,NO,Each entry is a single short phrase (e.g. ‘Identify potential PhD programs’) without the verb + objective + specific task structure
+J0455,C3,YES,"Jan, Feb, Mar, etc."
+J0455,C4,YES,"Covers identifying programs, exam prep, networking, documents, essays and recommendations"
+J0455,C5,YES,Longest entry (‘Weigh options and make a decision on the PhD program’) has 10 words
+J0456,C1,NO,"Ten films are described, but there is no recognizable Shakespearean/Bard diction"
+J0456,C2,NO,Almost no court-jester humor; the tone is mostly gloomy
+J0456,C3,NO,Only labels things 'викторијанска' instead of writing in a Dickensian voice; earlier styles are absent
+J0456,C4,NO,Some descriptions (e.g. #3 Shakespeare in Love) have no pirate element
+J0456,C5,YES,"Pervasive dark, macabre, melancholic imagery (graves, shadows, the devil)"
+J0457,C1,YES,"Tree: IB/ → Code.py (Eclass), TESTOUT/ → test.py, html files"
+J0457,C2,NO,Notes the import but never represents creating the instance ib = Eclass()
+J0458,C1,NO,Final answer is the 16th floor
+J0459,C1,YES,"Levels 1–4, each with bullet steps on teaching the cat French"
+J0459,C2,YES,Every bullet is a single sentence
+J0460,C1,YES,"Principle of charity, argument mapping, causality and steel-manning, framed for a philosophy student"
+J0460,C2,YES,Advice consistently aimed at debate preparation
+J0460,C3,NO,Representing the faculty is mentioned only in the opening congratulations; advice is not tailored to that role
+J0460,C4,NO,No guidance specific to a national-level competition beyond the opening mention
+J0461,C1,YES,"Tree shows Code.py (Eclass), TESTOUT/test.py and .html"
+J0461,C2,YES,‘from Code import Eclass’ and 'Креира инстанца: ib = Eclass()'; locations unchanged
+J0461,C3,YES,UTILS/helper.py with 'Функции користени од Code.py'
+J0461,C4,YES,TESTOUT/TEMPLATES/.j2 used by test.py to generate HTML
+J0462,C1,NO,No detective persona or real Carroll humor; it names the styles instead of using them and repeats the same paragraphs three times
+J0463,C1,YES,‘Xiao Zhang is now on the 14th floor’
+J0464,C1,YES,"Practical strategies: asking questions, logical tools, seeking feedback, reading widely"
+J0465,C1,NO,Final revised answer is Thriller by Michael Jackson
+J0465,C2,NO,Gives 1983
+J0465,C3,NO,‘Billie Jean’ / ‘Beat It’ are not on Born in the U.S.A.
+J0466,C1,NO,Final answer is 34.04 долари; it applied $12 to all hours instead of $16 for Saturday (correct: 42)
+J0467,C1,YES,‘only social responsibility of business is to increase its profits within the rules of the game’ plus an ‘Impact on Societal Ethics’ section
+J0467,C2,YES,‘erosion of trust and the perception of corporate selfishness’
+J0468,C1,YES,‘Weng earned a total of $28’
+J0469,C1,NO,Includes non-English films Spirited Away and Parasite
+J0469,C2,YES,"Jester’s cap, playful quips such as ‘the pirate squeaks with delight’"
+J0469,C3,YES,"Fog-shrouded Victorian London parlor, ‘Dickensian novel’, ‘soot-stained streets’"
+J0469,C4,YES,Every entry has a pirate/rogue aside about treasure or loot
+J0470,C1,YES,Table with 'Месец' and 'Предложена активност' columns
+J0470,C2,NO,"Pattern is verb + concrete task + 'за да' goal (reversed order), e.g. 'Контактирајте потенцијални ментори за да добиете информации...'"
+J0470,C3,NO,"Uses English abbreviations ‘Jun’, ‘Jul’, ‘Aug’ instead of Macedonian ones"
+J0471,C1,YES,"The ten described films are all English-language, with Bard-like diction (‘Pray, lend me your ears’, ‘’Tis a tale’), though there are messy correction headings"
+J0471,C2,YES,"‘weep into its lace handkerchief’, ‘bring me my tea, for my throat is as dry as a summer drought’"
+J0471,C3,YES,"‘fog-shrouded parlor in London, where the gaslights flicker’, ‘gravity of a Victorian chronicle’"
+J0472,C1,NO,Names the fictitious ‘The First Steps of Jazz’ by Coltrane
+J0472,C2,NO,"1984 is given, but for the wrong (invented) album, not Born in the U.S.A."
+J0472,C3,NO,‘Giant Steps’ is not on Born in the U.S.A.
+J0472,C4,NO,Gives an invented reason about jazz popularity
+J0472,C5,NO,"Invents 100,000 vs 1.5 million sales figures and Joshua Tree as the second CD"
+J0473,C1,NO,Cherie Blair is alive; the claim ‘1954–2018’ is false
+J0473,C2,YES,"Thatcher, Elizabeth II and Cherie Blair are all women"
+J0474,C1,YES,‘maximization of profits within the bounds of the law and ethical rules’ plus an ‘Influence on Ethical Standards’ section
+J0474,C2,YES,‘erosion of social trust and the social license to operate’
+J0474,C3,YES,"Fast-fashion CSR case study (Zara, H&M)"
+J0474,C4,YES,"‘Implications:’ paragraph on reputational risk, boycotts and the tension with Friedman’s view"
+J0474,C5,YES,Cites a Harvard Business Review study on CSR and long-term shareholder value (vague but present)
+J0475,C1,YES,"Six primary steps, each with secondary steps for pan-cooking salmon"
+J0475,C2,YES,Table with ‘Primary Step’ and ‘Secondary Step’ columns
+J0475,C3,YES,"Each primary step is 3 words, e.g. ‘Sear the Salmon’"
+J0476,C1,NO,"Wrong physics: neutron mass ‘small compared to the proton’, blames EM field and atomic bonds; no weak interaction"
+J0476,C2,YES,Simple language addressed to 'Драги млади пријатели'
+J0476,C3,NO,Mostly flat exposition with little passion
+J0476,C4,NO,Refers to Einstein in third person; no Einstein-inspired voice
+J0477,C1,NO,Refuses: ‘I cannot fulfill this request’; outputs no events
+J0478,C1,NO,Doesn’t distinguish general vs specific factors and claims a cell with one TF may live; no Tagore-like style
+J0478,C2,NO,"Plain modern prose, no 19th-century eloquence"
+J0478,C3,NO,Only mentions 19th-century botanists; no botanist persona adopted
+J0478,C4,NO,"Humor is minimal, e.g. 'не е толку забавно како што е мојот хумор'"
+J0479,C1,YES,"Table: ‘Pacific Ocean | 155.6 million’ km², identified as largest"
+J0480,C1,YES,Table with 'Месец' / 'Предложена активност'
+J0480,C2,NO,"Entries are just verb + object, e.g. 'Идентификувајте програми за докторски студии'; no separate goal and concrete task"
+J0480,C3,NO,"Full month names ('Јануари', 'Февруари'), not abbreviations"
+J0480,C4,YES,Covers all six sub-activities in phase order without imposing mandatory deadlines
+J0480,C5,YES,All entries are under 10 words
+J0481,C1,NO,Tony Blair is alive; ‘passed away in 2024’ is false
+J0482,C1,NO,Includes the false reaction ‘HCO3- + Cl- → CO32- + HCl’ and mislabels OH-/HCO3- products as CO2
+J0482,C2,NO,Fictitious precipitation ‘NaCl (s)’ and ‘NaHCO3 (s)’ in dilute solution
+J0483,C1,NO,Malformed table: alternating ‘| Месец' lines with no valid two-column structure; timeline incoherent
+J0484,C1,NO,"'Да, точната причина е само таа мал вишок'; no weak interaction, no bound-neutron stability, invents a ‘law’ against excess mass"
+J0484,C2,YES,Simple restaurant/luggage analogy for pupils
+J0484,C3,YES,"Theatrical, exclamatory delivery"
+J0484,C4,NO,No recognizable Einstein-inspired voice or reference
+J0484,C5,YES,"Playful humor: neutron as 'гостин кој носи малку премногу багаж', 'оставите со мојот чај'"
+J0485,C1,NO,Includes the Korean-language ‘Parasite’
+J0486,C1,YES,"Levels 1–5, each with numbered steps"
+J0486,C2,NO,"Steps are a bold label plus a separate sentence, e.g. 'Провери дали...: Ако имаш сумња...'"
+J0486,C3,NO,"'Има повеќе методи за учење на мачки, така што избереш она што се најдобро за твојата мачка' is 17 words"
+J0487,C1,YES,"Advice on analyzing texts, asking for evidence, considering other views"
+J0487,C2,YES,Includes debate practice and debate-context advice
+J0487,C3,NO,No tailoring to representing the faculty
+J0487,C4,NO,Nothing specific to a national competition
+J0488,C1,NO,Names ‘52nd Street’ by Billy Joel instead of Born in the U.S.A. by Springsteen
+J0489,C1,YES,"One code block, four Tesla V100 entries, no prose"
+J0489,C2,NO,"GPU 2 memory is full (16280/16280) but utilization shows ‘N/A’, 30W, 35C"
+J0489,C3,YES,GPU 1: 3256MiB / 16280MiB (~20%) with no job shown
+J0489,C4,YES,Idle GPUs 0 and 3 show 35C
+J0490,C1,YES,"Three phases, each with bulleted steps"
+J0490,C2,YES,Every bullet is a single sentence
+J0490,C3,YES,"Longest bullets are about 11 words, e.g. ‘Gradually fade the physical gestures as the cat learns the words.’"
+J0491,C1,NO,Mostly third-person ('Детективот би заклучил') philosophical/psychological analysis ending in a 'Диагноза'; little noir detective voice beyond the cigar line
+J0492,C1,NO,Final answer 74.52 долари; correct is 10 + 32 - 5 = 37
+J0493,C1,YES,'главната и единствена ... максимизирање на профитот' within 'рамките на законот'; discusses ethics of efficiency vs. its critics
+J0493,C2,YES,"Single consequence: erosion of the 'социјална лиценца за работа', making relations transactional"
+J0493,C3,YES,Enron case study presented as an extreme profit-only example
+J0493,C4,YES,"Concludes Friedman’s approach works only with strict legal frameworks; shows harm to workers, pensioners and the community"
+J0494,C1,NO,No code block or GPU output; just echoes the command plus ‘Monsters of the Deep Sea’
+J0495,C1,YES,"Five primary steps, each with secondary steps for pan-searing salmon"
+J0495,C2,YES,Two-column table: Primary Steps | Secondary Steps
+J0495,C3,YES,Longest primary step is ‘Finish Cooking the Salmon’ (4 words)
+J0495,C4,YES,Longest secondary step is about 14 words
+J0496,C1,NO,"Malformed table (‘|Месец||...|’, no separator row, empty column); Sept–Dec are PhD activities, not pre-PhD, and the timeline contradicts an August 2024 start"
+J0497,C1,NO,"‘The Fellowship of the Ring’ is listed twice, so there are not ten distinct films; plain modern prose with no recognizable Shakespearean style"
+J0498,C1,YES,'Венг вкупно заработила 28 долари.'
+J0499,C1,YES,"‘Indeed, they do’ (TFs as librarians selecting which scroll is read); without them the cell ‘would cease to be a cell’; poetic monsoon/lotus imagery"
+J0499,C2,YES,"‘Ah, my dear seeker of truths... a catastrophe of most exquisite proportions’"
+J0499,C3,YES,"Linnaean Taxonomy volume, botanical garden metaphors, ‘my laboratory’"
+J0499,C4,YES,"Musicians taking a nap, conductor waving at a ghost audience"
+J0499,C5,YES,"Crackling fire, mahogany shelves, wing-backed chair atmosphere"
+J0500,C1,NO,Lists five names rather than three
+J0500,C2,YES,All named persons are women
+J0500,C3,NO,Margaret Thatcher was a politician (Prime Minister)
+J0501,C1,NO,"Detective frame and some whimsy, but little Shakespearean eloquence or Carroll-style wordplay; repetitive ‘well, you see my point’; quote misattributed to the White Rabbit"
+J0502,C1,NO,Omits the key HCO3− + OH− → CO3²− + H2O reaction; incorrectly claims Na+ forms insoluble compounds with HCO3−; confused OH−/H+ statements
+J0503,C1,YES,Six numbered main steps with bulleted sub-steps for pan-cooking salmon (some content garbled)
+J0504,C1,YES,Explains OH−/HCO3− proton transfer; Na+ and Cl− as spectator ions
+J0504,C2,YES,Identifies CO3²− and H2O as products; precipitation is mentioned only conditionally (if Ca2+ were present)
+J0504,C3,YES,"HCO3− + OH− ⇌ CO3²− + H2O, balanced for mass and charge"
+J0504,C4,YES,"Discusses concentrations, buffer region near pKa2 ≈ 10.3, temperature, and product removal, with reasons"
+J0504,C5,YES,"Describes the shift to a carbonate buffer and gives a hedged range (10.3–11.5), not a single fabricated pH"
+J0505,C1,NO,Plain factory/construction-worker metaphor; no Tagore-like style or wit
+J0505,C2,NO,"Modern, plain prose without 19th-century eloquence"
+J0506,C1,YES,"‘Pray, lend me your ears’, monocle of logic, Cheshire grin, ‘Sand-wich’ pun, Jabberwocky in a waistcoat"
+J0507,C1,YES,'Сјао Џанг сега е на 14. кат во стан број 3.'
+J0508,C1,NO,Claims yeast thrive without transcription factors and that a cell without them could adapt and survive; scientifically wrong
+J0508,C2,YES,"‘But, alas... bereft of transcription factors... like a ship without a rudder’"
+J0509,C1,NO,"Pacific given as 179,000,000 km², outside the accepted ~155–170M range; malformed, duplicated table"
+J0510,C1,YES,"Levels 1–5 in the first column, with steps under each"
+J0510,C2,YES,Each table cell holds one sentence
+J0510,C3,YES,Longest step is about 11 words ('Вежбајте само еден збор во еднашница за да не се збуни.')
+J0510,C4,YES,Presented in a table: Ниво на учење | Чекор / Размислување
+J0511,C1,NO,Names The Dark Side of the Moon by Pink Floyd
+J0511,C2,NO,"Gives 1973/1974, not 1984"
+J0511,C3,NO,‘Money’ is not on Born in the U.S.A.
+J0511,C4,NO,"Invented rationale and false facts (50,000 US units, Sony choice)"
+J0512,C1,NO,Names a fictitious Beatles album ‘The rest of the world’
+J0512,C2,NO,1984 is attributed to the wrong album; Born in the U.S.A. is never mentioned
+J0512,C3,NO,‘Yesterday’/’Let It Be’ are not on Born in the U.S.A.
+J0512,C4,NO,Invented rationale about a Beatles compilation
+J0512,C5,NO,Presents an unsourced Rolling Stones ‘second CD’ as fact and claims higher Beatles demand
+J0513,C1,YES,"Sections Вовед, Главен аргумент, Заклучок in order"
+J0513,C2,YES,Each section is well under 200 words
+J0513,C3,NO,"'Трето, филмските камери не можат ... на современите камери.' has 21 words; the final 'Сепак...' sentence also exceeds 20"
+J0514,C1,YES,Table with columns ‘Month’ | ‘Suggested Activity’
+J0514,C2,YES,"Each row starts with a bolded verb (Research, Network, Prepare...) followed by an objective and a task, e.g. ‘Prepare for the GRE by taking practice tests’"
+J0514,C3,YES,"Jan, Feb, Mar ... Dec"
+J0515,C1,NO,"Does not explain general vs cell-type-specific TFs or that a cell without TFs could not transcribe genes or survive; only vague 'кутија без клучеви'. Repetitive, with no real Tagore style"
+J0515,C2,NO,"Plain, repetitive prose ('Би била како клетка...') with no 19th-century eloquence"
+J0516,C1,NO,"Flat numbering 1–15 with no hierarchical levels (no 1.1, 1.2)"
+J0516,C2,YES,Each step description is a single sentence
+J0516,C3,YES,Longest step (#14) has 14 words; all are 15 or fewer
+J0516,C4,YES,All step information is presented inside a table (hierarchy itself is judged in C1)
+J0516,C5,YES,"Two columns: Step Number, Step Description"
+J0517,C1,YES,"1. Introduction, 2. Main Argument, 3. Conclusion in order"
+J0517,C2,YES,Each section has roughly 55–90 words
+J0517,C3,YES,Longest sentences have about 10 words
+J0518,C1,YES,"Fedora, neon sign, cigarette, ‘Listen close, kid’ noir detective voice"
+J0519,C1,YES,"Вовед, Главен аргумент, Заклучок in order"
+J0519,C2,YES,All sections are well under 200 words
+J0519,C3,NO,'Иако филмската фотографија има свои предности... во ера доминирана од дигиталната технологија.' has more than 20 words
+J0519,C4,NO,Вовед gives two general statements with no concrete examples or evidence
+J0519,C5,YES,No words ending in ‘-ing’
+J0520,C1,NO,Names ‘The Joshua Tree’ by U2
+J0520,C2,NO,Gives 1987
+J0520,C3,NO,‘With or Without You’ is not on Born in the U.S.A.
+J0520,C4,NO,Invented reason (popularity of The Joshua Tree) presented as fact
+J0521,C1,NO,Claims neutrons are 'многу стабилни честички'; never compares mass to proton+electron; omits free vs bound distinction; says neutrino rather than antineutrino
+J0521,C2,YES,"Short, simple sentences in plain language suitable for a young learner"
+J0522,C1,YES,"### 1. Introduction, ### 2. Main Argument, ### 3. Conclusion"
+J0523,C1,YES,"1. Вовед, 2. Главен аргумент, 3. Заклучок"
+J0523,C2,YES,Each section has about 40–50 words
+J0523,C3,YES,Longest sentence has about 11 words
+J0523,C4,YES,"Each section opens with a general claim, then gives specifics (e.g. фотоклубови, развој на филм, шум)"
+J0524,C1,YES,Table with columns 'Месец' | 'Предложена активност' containing PhD-prep ideas
+J0524,C2,NO,Rows like 'Празнувай дипломирањето и биди свестен за роковите' lack a clear objective plus specific task; most rows are the repeated 'Праќај и следиј'
+J0525,C1,YES,"Actionable tips: read more, discuss, question arguments, avoid bias, attend seminars"
+J0526,C1,YES,"Tree: IB/ ├── Code.py (class Eclass) └── TESTOUT/ ├── test.py, [HTML files...]"
+J0526,C2,YES,Shows test.py with ‘from Code import Eclass’ and ‘ib = Eclass()’; the drawn file locations are unchanged
+J0527,C1,YES,"Calls the fear unfounded, values the autistic peer, and gives practical tips (observe, talk about 'различните светови')"
+J0527,C2,NO,"Written entirely as Sherlock Holmes; Hugo is only quoted as 'мојот пријател', not used as the advisory voice"
+J0527,C3,YES,"Playful images ('лабораторија на забавата', 'социјален бал'), nothing demeaning"
+J0527,C4,YES,"'Набљудувајте како детектив', 'Заклучокот на мојата истрага'"
+J0527,C5,YES,"'Драги пријателу', 'викторијанска ноќ', formal epistolary closing"
+J0528,C1,YES,"Вовед, Главен аргумент, Заклучок in order"
+J0528,C2,YES,Each section has well under 200 words (longest about 110)
+J0529,C1,NO,"Unscientific claims: Cl- 'реакции на дисоцијација', Na+ and Cl- ‘react to form NaCl’ in solution; misses the OH-/HCO3- → CO3^2- + H2O equilibrium"
+J0529,C2,NO,Claims NaCl forms as a new compound; omits carbonate as the product of OH- + HCO3-
+J0530,C1,YES,"Somerville, Lovelace and Hodgkin are deceased British subjects"
+J0530,C2,YES,All three are women
+J0530,C3,YES,"Scientists and mathematicians, not politicians"
+J0530,C4,NO,"All three married (Somerville twice, Lovelace to William King, Hodgkin to Thomas Hodgkin)"
+J0530,C5,NO,Somerville and Lovelace had no PhD
+J0531,C1,YES,"Correct mass comparison (939.6 > 938.3+0.5), ~15 min lifetime, bound neutrons in stable nuclei don’t decay; omitting the weak interaction is a minor gap"
+J0531,C2,YES,"Bank-account and backpack analogies, friendly tone"
+J0532,C1,YES,"Read and analyze texts, practice Socratic questioning, self-critique, logic tools"
+J0532,C2,NO,Mostly general critical-thinking advice; debate appears only as one item
+J0532,C3,NO,Never addresses representing the faculty
+J0532,C4,NO,No mention of national competition preparation
+J0532,C5,YES,Includes 'Практикувајте сократовско испрашување' explaining how the technique challenges assumptions
+J0533,C1,YES,Table with columns 'Месец' | 'Предложена активност' containing PhD-prep ideas
+J0533,C2,YES,"Each row starts with a bolded verb plus objective and tasks, e.g. 'Развиј вештини за анализа на податоци, отработи техники за обработка на сигнали'"
+J0534,C1,NO,"arg1 lists people who did not die (Шариф Хотак, Абдурахман Мангал, талибанците); arguments invented or mismatched"
+J0535,C1,NO,Names ‘52nd Street’ by Billy Joel
+J0535,C2,NO,Gives 1982
+J0535,C3,NO,‘My Life’ is not on Born in the U.S.A.
+J0536,C1,NO,"First event says the 35 died ‘at Maidan Wardak hospital’; the passage only says bodies were seen in the hospital, so the place is unsupported"
+J0537,C1,YES,"1. Вовед, 2. Главен аргумент, 3. Заклучок"
+J0537,C2,YES,Each section has about 30–60 words
+J0537,C3,YES,Longest sentence has about 9 words
+J0538,C1,YES,"Pacific Ocean, 165,250,000 (within 155–170 million)"
+J0538,C2,YES,Two columns with exact headers ‘Ocean Name’ / ‘Total Area (sq km)’; single-line cells
+J0538,C3,YES,‘Pacific Ocean’
+J0538,C4,YES,"‘165,250,000’ with no abbreviation"
+J0538,C5,NO,Delimiter row ‘|:---|:|’; the second column has no valid right-align marker (---:)
+J0539,C1,YES,"Says all cells require TFs; without them genes stay ‘unread’, machinery ceases and the cell withers; poetic Tagore-like imagery"
+J0539,C2,YES,"‘My dear seeker of knowledge, pray, step into the shade of my conservatory’"
+J0539,C3,YES,"Conservatory, dried ferns, a botanist’s seed analogies"
+J0540,C1,YES,"Sections 1. Introduction, 2. Main Argument, 3. Conclusion, in order"
+J0540,C2,YES,Each section is well under 200 words
+J0540,C3,YES,Longest sentences are about 12 words
+J0540,C4,YES,Each section opens with a general claim (e.g. ‘Film photography is experiencing a significant resurgence’) followed by specifics
+J0541,C1,YES,"TFs are the ‘conductor’; cells read the same DNA differently by type; without TFs the cell could not grow, feed or divide; poetic style"
+J0542,C1,NO,"Ten English films, but the descriptions are plain retellings without recognizable Bard-like diction, and the plots are largely garbled (e.g. Forrest Gump 'умира')"
+J0542,C2,YES,"Each entry is told by the 'палјачот' and ends with a jokey quip, e.g. 'Железото може да се топи, но љубовта не.'"
+J0543,C1,YES,‘Weng earned a total of $42’
+J0544,C1,NO,"Names ‘The First Steps of Jazz’ by John Coltrane, not Born in the U.S.A. by Springsteen"
+J0544,C2,NO,"1984 is given for a wrong, fictitious album, not Born in the U.S.A."
+J0545,C1,NO,Claims some cells are 'задоволени со еден или два' TFs; never states that all cells need general TFs; repetitive and vague
+J0545,C2,NO,"Plain, repetitive phrasing with no 19th-century eloquence"
+J0545,C3,NO,No botanist persona or botanical framing
+J0545,C4,NO,Only flat metaphors ('празен салон'); no real humor
+J0546,C1,YES,"'Аутизмот не е вирус'; encourages the friendship, observation and gentle redirection; respects uniqueness"
+J0546,C2,NO,No Victor Hugo voice; signed as Sherlock Holmes
+J0546,C3,NO,Only a mild 'малку хумор' sign-off and bard metaphors; no real jester-like humor
+J0546,C4,YES,"Detective framing; 'Набљудување, не осуда'; 'лажен сведок' analysis"
+J0547,C1,YES,"‘Ah, young wanderer...’ sage-like speculation about the ‘Heart of the Endless Dune’"
+J0548,C1,YES,"Ten English-language films with ‘doth’, ‘thee’, ‘Good gentles’"
+J0548,C2,NO,The descriptions are earnest summaries with no jester-like jokes
+J0549,C1,NO,"180,000,000 is outside the accepted 155–170 million range"
+J0549,C2,YES,Two columns with exact headers; single-line cells
+J0549,C3,YES,‘Pacific Ocean’
+J0549,C4,YES,"‘180,000,000’ with no abbreviation"
+J0549,C5,NO,Both columns are ‘:---’ (left-aligned); the area is not right-aligned
+J0550,C1,YES,Roman-numeral phases (I–V) with numbered sub-steps
+J0551,C1,YES,‘Weng’s total earnings are $28’
+J0552,C1,YES,Profit maximization within the law and basic social norms; analyzes the libertarian vs CSR ethical implications
+J0552,C2,YES,"One consequence: 'социјална поделба и недоверба кон корпорациите', with elaboration"
+J0553,C1,NO,"Some playful wit, but the prose is garbled ('сотовани', 'наглавам со малку почитна поцветок'), not refined Austen-like, and there is little Shakespearean eloquence"
+J0554,C1,NO,Wrongly claims OH− and HCO3− ‘will not neutralize each other’ and coexist stably; in fact OH− + HCO3− → CO3^2− + H2O
+J0555,C1,YES,"Tree shows IB/Code.py (Eclass), TESTOUT/test.py, [html files]"
+J0555,C2,NO,Shows ‘Imports Eclass from Code.py’ but never represents the instantiation ‘ib = Eclass()’; locations are correct
+J0555,C3,YES,‘UTILS/helper.py <-- Functions used by Code.py’
+J0555,C4,YES,‘TEMPLATES/ [*.j2 files] <-- Jinja2 templates used by test.py’
+J0555,C5,YES,‘Eclass → depends on → Dclass (both in same file)’
+J0556,C1,YES,‘maximize profits... within the framework of the law and... ethical customs’; discusses the CSR and ethics implications
+J0556,C2,YES,One consequence: erosion of trust and the social license to operate
+J0556,C3,NO,"Flint is admittedly ‘primarily a government failure’, a public decision rather than a business applying Friedman’s doctrine, so the case is not well grounded"
+J0557,C1,NO,"‘The First Steps of God’ by Frank Zappa, a fictitious answer"
+J0557,C2,NO,"1984 is given for a wrong album, not Born in the U.S.A."
+J0557,C3,NO,The listed tracks are not on Born in the U.S.A.
+J0558,C1,YES,"Says cells rely on TFs to read genetic instructions; without them the cell would be 'без никаква насока', like a 'растение без корен'; core answer not wrong"
+J0558,C2,NO,Repetitive simple similes with no distinctly 19th-century eloquence
+J0558,C3,NO,No Victorian botanist persona
+J0559,C1,YES,"Five primary steps, each with secondary steps 1.1–5.3"
+J0559,C2,YES,Table: ‘Primary Steps’ | ‘Secondary Steps’
+J0560,C1,NO,A flat bullet list with no hierarchy levels
+J0560,C2,YES,Each bullet is a single sentence
+J0560,C3,YES,Longest bullet (‘Understand that... specific commands’) is 15 words
+J0561,C1,NO,‘Cuts Both Ways’ by Gloria Estefan
+J0561,C2,NO,Gives 1989
+J0561,C3,NO,"‘Anything for You’, not on Born in the U.S.A."
+J0561,C4,NO,Invented reason about CDs being new in 1989
+J0561,C5,NO,Fabricated figures (1.5M vs 2M) and ‘Bad’ presented as the second CD
+J0562,C1,NO,"Names Britney Spears’ ‘...Baby One More Time’, not Born in the U.S.A. by Springsteen"
+J0562,C2,NO,"States 26 January 1999, not 1984"
+J0562,C3,NO,"Cites ‘...Baby One More Time’, which is not on Born in the U.S.A."
+J0562,C4,NO,Fabricated story about Jive Records and Sony plant in New Jersey
+J0562,C5,NO,Invented sales figures (10M vs 8M) and a fictitious ‘second CD’ (Nas ‘No Strings Attached’)
+J0563,C1,NO,Says without TFs genes 'би се активирале... наеднаш' (chaotic activation); in reality no genes would be transcribed
+J0563,C2,YES,"Ornate letter style: 'Со најдлабока почит и надеж, Вашот покорен слуга'"
+J0563,C3,YES,"'ние, како ботаничари од викторијанската епоха' and signed as a Victorian botanist"
+J0563,C4,YES,"'Господин Транскрипциски Фактор', genes 'како лудоречиви деца на пазар'"
+J0564,C1,NO,"Sub-steps don’t match their primary steps; 'Подготовка на состојките' contains the entire cooking and serving process, and steps repeat"
+J0564,C2,YES,Table with primary steps in column 1 and secondary steps in column 2
+J0564,C3,YES,"Primary steps are 3–4 words each, e.g. 'Подготовка на состојките'"
+J0564,C4,YES,Longest secondary step is about 9 words
+J0565,C1,YES,"Table lists Тихи Океан at 162.7 million km², identified as the largest"
+J0565,C2,YES,Two columns with the exact headers 'Име на океан' / 'Вкупна површина (кв. км)'; single-line cells
+J0566,C1,YES,"Advice to observe, offer diverse experiences, model respect; ‘Do not treat the peer as a shadow to be avoided’"
+J0566,C2,YES,"Romantic, grandiose counsel: ‘My dear friend... sublime architectures of the human spirit’"
+J0567,C1,NO,Response only restates the problem in Macedonian; gives no answer
+J0568,C1,YES,"Sections Вовед, Главен аргумент, Заклучок in order"
+J0568,C2,YES,Each section is well under 200 words
+J0568,C3,NO,"The intro sentence 'Филмската фотографија, уметност...' has 26 words"
+J0569,C1,NO,"Final answer is the 7th floor, not the 20th"
+J0570,C1,YES,"Five main steps, each with fitting sub-steps 1.1–5.3"
+J0570,C2,YES,"Table: primary steps in column 1, secondary steps in column 2"
+J0571,C1,NO,"Claims the mass excess is ‘just a symptom’ rather than what allows decay, and invents an energy barrier between quarks; no weak interaction"
+J0571,C2,YES,"‘Hello there, young scientist’; simple language and analogies"
+J0572,C1,NO,"Says some cells (prokaryotes) can thrive without TFs; wrong, since bacteria also need them (e.g., sigma factors)"
+J0573,C1,YES,"‘14. кат, во стан број 3’"
+J0574,C1,NO,Template not used; event 2 (Taliban–US talks in Qatar) is not a death event
+J0575,C1,NO,"All five lines are the same repeated event, and the template is not used"
+J0576,C1,YES,"Pacific Ocean, 165,250,000 sq km"
+J0576,C2,YES,Two columns with the exact headers ‘Ocean Name’ / ‘Total Area (sq km)’; single-line cells
+J0577,C1,YES,"Ten English-language films described with ‘doth’, ‘thee’, and Bard self-reference"
+J0577,C2,NO,"Formulaic, earnest descriptions with no jester-like jokes or mirth"
+J0577,C3,NO,No Dickensian or Victorian narrative flavour beyond a passing ‘era of the cinematograph’
+J0578,C1,NO,"Confused advice: 'Поттикни го да го цени својот аутизам', treats the son as autistic; repetitive, not practical"
+J0578,C2,NO,"Only says 'јас, Виктор Иго'; plain list, no Hugo-like literary voice"
+J0578,C3,NO,No humour or wit present
+J0578,C4,NO,No Sherlock Holmes analytical or observational approach
+J0578,C5,NO,"Plain modern language, no Victorian sensibility"
+J0579,C1,YES,"Introduction, Main Argument, Conclusion in order"
+J0579,C2,YES,Each section is under 200 words
+J0579,C3,NO,‘The rise of digital technology has led to a decline...’ exceeds 20 words (about 30)
+J0579,C4,NO,"Conclusion has only general statements, no specific examples or evidence"
+J0580,C1,YES,States profit maximisation for shareholders within laws and norms; discusses ethical implications (though the essay title is wrong)
+J0580,C2,YES,'ерозијата на довербата и соработката помеѓу бизнисот и локалната заедница'
+J0580,C3,YES,Enron case study
+J0580,C4,YES,"Explains job and pension losses, loss of trust, Sarbanes-Oxley, and what the case shows about profit-only focus"
+J0581,C1,YES,"Steel-manning, fallacy spotting, syllogism analysis, opposing-texts exercise"
+J0581,C2,YES,All advice is framed around competitive debate rounds
+J0581,C3,YES,‘Congratulations on being selected to represent your college’; advice framed for that competition
+J0581,C4,YES,"‘for national competition’, ‘To win at a national level’"
+J0582,C1,NO,"Final answer is $3920, not $34"
+J0583,C1,YES,"Argument analysis, spotting false dilemmas, separating facts from values"
+J0583,C2,YES,Includes debating practice and argument development
+J0583,C3,NO,Only restates the selection in the intro; advice is generic and not tailored
+J0583,C4,NO,"No national-competition-specific preparation, only a mention in intro and closing"
+J0583,C5,NO,The Socratic questioning course is never referenced or used
+J0584,C1,NO,Flat numbering 1–5 with no hierarchical levels
+J0584,C2,YES,Each row is a single sentence
+J0584,C3,YES,Longest row is 15 words (row 1)
+J0584,C4,YES,Steps presented in a table
+J0584,C5,YES,Exactly two columns: 'Број' and 'Опис на чекорот'
+J0585,C1,YES,‘Xiao Zhang is now on the 20th floor’
+J0586,C1,YES,Numbered primary steps with bulleted sub-steps; content is poor but the structure is present
+J0586,C2,NO,"Uses a list, not a two-column table"
+J0586,C3,YES,"Primary steps are 3–5 words, e.g. 'Подготви тавата на шпорет'"
+J0586,C4,YES,Longest secondary step is about 15 words ('Готвувајте филе од лосос за 4-6 минути...')
+J0587,C1,NO,Plain modern Macedonian prose; no Bard-like voice; repetitive and inaccurate film descriptions
+J0587,C2,NO,No jester-like humor; text is generic and repeated
+J0587,C3,NO,No Victorian or Dickensian flavor
+J0588,C1,YES,4 primary steps with detailed secondary steps for pan-searing salmon
+J0588,C2,YES,Table: Primary Step | Secondary Steps
+J0589,C1,NO,Lists 9 entries rather than three; Marie Curie was not a UK citizen
+J0589,C2,YES,All listed people are women
+J0589,C3,NO,"Includes Margaret Thatcher, a politician"
+J0589,C4,NO,"Woolf, Thatcher, Curie and Stopes all married"
+J0589,C5,NO,Virginia Woolf and Thatcher had no PhD
+J0590,C1,YES,Tree shows IB/Code.py (Eclass) and TESTOUT/test.py plus [html files]
+J0590,C2,NO,Shows the import only; the instantiation ‘ib = Eclass()’ is not represented
+J0591,C1,YES,"Compassionate, practical steps; peer described as ‘a shining star’, with no harm framing"
+J0591,C2,NO,Generic advice list; weak literary flourish; quote misattributed to ‘the great poet’; no distinct Hugo voice
+J0592,C1,NO,States that no event matches the template
+J0593,C1,YES,‘Weng earned a total of $37.00.’
+J0594,C1,YES,"Single code block, four Tesla V100 rows, no other text"
+J0594,C2,NO,"GPU 2 memory is full, but utilization shows 0%"
+J0594,C3,YES,"GPU 1 at 3276MiB/16384MiB (20%), 0% utilization"
+J0594,C4,YES,Idle GPUs 0 and 3 show 35C
+J0594,C5,YES,‘CUDA Version: 11.5’
+J0595,C1,NO,"Lists 10 bodies; Pacific given as 179,7 million, outside the accepted range"
+J0595,C2,NO,Headers 'Океански Име | Вкупна Површина (кв.км.)' are not the exact required headers
+J0595,C3,YES,"Names are capitalized, e.g. 'Пацифик', 'Индиски Океан'"
+J0595,C4,NO,"‘179,7 милиони кв.км.’ uses abbreviations and no thousands grouping"
+J0595,C5,NO,No alignment row; malformed table
+J0596,C1,NO,"Wrongly says the neutron becomes an electron and a positron; omits the proton, antineutrino and weak interaction"
+J0596,C2,YES,"Simple child-friendly analogies (bed, cat)"
+J0596,C3,YES,"Exclamatory, energetic tone ('да скокне, да скокне!')"
+J0596,C4,YES,"'Јас сум Ајнштајн...', speaks as a teacher to the student"
+J0596,C5,YES,"Playful humor: beard joke, heavy cat on a paper bed"
+J0597,C1,NO,Names ‘The Joshua Tree’ by U2
+J0597,C2,NO,Gives 1987
+J0597,C3,NO,‘With or Without You’ is not on Born in the U.S.A.
+J0597,C4,NO,"Fabricated rationale (Warner Bros., Buggles claim)"
+J0598,C1,YES,Levels 1–4 with bulleted steps
+J0598,C2,YES,Each bullet is a single sentence
+J0598,C3,YES,Longest bullet is about 12 words
+J0599,C1,YES,'Сјао Џанг сега е на 20-тиот кат.'
+J0600,C1,YES,Sections I–IV with nested bullets and numbered sub-steps
+J0601,C1,NO,Line 2 invents ‘died at hospital... from gunshot wounds’; the passage only says bodies were seen there
+J0602,C1,YES,"Deductive framing (‘deduce his present station’), Carrollian whimsy (turnip, sugar dunes, tea party), refined Austen-like prose"
+J0603,C1,NO,Flat numbered steps; no primary/secondary hierarchy
+J0603,C2,NO,First column holds only numbers; malformed ‘||’ table
+J0603,C3,NO,"No real primary steps; step texts exceed 10 words (e.g. step 7, 14 words)"
+J0604,C1,NO,Prose plus the command itself; no nvidia-smi output
+J0604,C2,NO,No GPU information shown
+J0605,C1,YES,States profit maximization for shareholders and discusses ethical criticism (label is imprecise)
+J0605,C2,YES,"Exploited workers spend less, harming the local economy and community"
+J0605,C3,YES,Apple/Foxconn 2010 case
+J0605,C4,YES,Explains that the case shows shareholders were prioritized over workers and why all stakeholders matter
+J0606,C1,NO,Flat steps 1–12; no hierarchical levels
+J0606,C2,YES,Each description is one sentence
+J0606,C3,YES,Longest step is about 11 words
+J0606,C4,YES,Steps presented in a table
+J0606,C5,YES,Two columns: Step Number | Step Description
+J0607,C1,YES,"5 primary steps, each with 3 secondary steps"
+J0607,C2,YES,Table: Primary Step | Secondary Steps
+J0607,C3,YES,Primary steps are 4–5 words
+J0607,C4,YES,Longest secondary step is about 11 words
+J0608,C1,NO,"Code block contains only the command, not its output"
+J0608,C2,NO,No GPU information shown
+J0609,C1,YES,"Вовед, Главен аргумент, Заклучок in order"
+J0609,C2,YES,Each section is well under 200 words (main argument about 150)
+J0610,C1,NO,"Flat list places Code.py inside TESTOUT: 'Датотека во ""TESTOUT"": ""Code.py""'"
+J0610,C2,NO,No import/instantiation shown; Code.py and helper.py locations changed
+J0610,C3,NO,"'Датотека во ""IB"": ""helper.py""' – not in UTILS, no link to Code.py"
+J0610,C4,NO,TEMPLATES listed but no .j2 templates or use by test.py
+J0611,C1,NO,Final: ‘he would be on the 14th floor of Apartment 1’
+J0612,C1,YES,"Sections 1. Introduction, 2. Main Argument, 3. Conclusion in order"
+J0612,C2,YES,Each section is well under 200 words
+J0612,C3,NO,"‘Unlike digital photography, where the image is instantly available...’ exceeds 20 words"
+J0612,C4,YES,Each section opens with a general claim before specifics
+J0612,C5,NO,"Uses ‘viewing’, ‘scanning’, ‘embracing’"
+J0613,C1,YES,"Tree: IB/Code.py (Eclass), TESTOUT/test.py, [html-датотеки]"
+J0613,C2,NO,Import shown but creation of instance (ib = Eclass()) not represented
+J0613,C3,YES,UTILS/helper.py ‘# Содржи функции кои ги користи Code.py’
+J0613,C4,YES,TESTOUT/TEMPLATES/[*.j2 датотеки] ‘Jinja2 шаблони кои ги користи test.py’
+J0614,C1,NO,"GPUs shown as ‘NVIDIA A100-SXM4-40GB’, not V100"
+J0614,C2,YES,"GPU 2: ‘40960MiB / 40960MiB’, ‘100%’"
+J0614,C3,NO,"GPU 1 at 20% memory but process listed as ‘train my_training_job.py’, implying an active job"
+J0615,C1,NO,'сега е во стан број 1 на 14. кат' – apartment 1
+J0616,C1,YES,"Concrete practices: steel-manning, formal logic, write to think, bias audits"
+J0617,C1,YES,"Table: Тихиот океан | 168,723,000 км²"
+J0618,C1,YES,"Practical tips: Socratic questioning, argument mapping, fallacies"
+J0618,C2,NO,Generic advice; no tailoring to the debate next month or its timeline
+J0618,C3,NO,"Lead-debater role only congratulated, not addressed in advice"
+J0619,C1,YES,‘Xiao Zhang is currently on the 14th floor.’
+J0620,C1,YES,Pipe table with Месец / Предложена активност columns
+J0620,C2,NO,Rows like 'Истражете ги универзитетите...' lack the objective-then-specific-task structure
+J0620,C3,NO,"Full month names ('Јануари', 'Февруари'), not abbreviations"
+J0621,C1,YES,'единствената одговорност на бизнисот е да ги максимизира профитите'; discusses exploitation/pollution implications
+J0622,C1,YES,'да го максимизира профитот на акционерите'; impact on social ethics discussed
+J0622,C2,YES,'бизнисите може да ги занемарат општествените одговорности' with community example
+J0622,C3,YES,Enron case study presented
+J0622,C4,YES,'Овој случај покажува дека фокусирањето на максимизирање на профитот може да има негативни последици'
+J0623,C1,YES,"All cells need TFs; without them ‘synthesis of proteins... would grind to a halt’, cell ceases"
+J0623,C2,YES,"Ornate prose: ‘tapestry of existence’, ‘sacred laboratory of creation’"
+J0624,C1,NO,"Attributes to Friedman focus 'а не на општествената етика', omitting law/ethical-custom limits"
+J0624,C2,YES,'Една можна последица... занемарат социјалните и еколошките импликации'
+J0625,C1,NO,Code.py/Eclass missing from the hierarchy; only mentioned in closing prose
+J0625,C2,YES,"'Импортира класа ""Eclass"" од ""Code.py""', 'Иницијализира објект'"
+J0625,C3,YES,"UTILS/helper.py 'Содржи функции кои ги користи ""Code.py""'"
+J0626,C1,YES,"Practical steps, curiosity over correction; ‘different is not wrong’, values the friendship"
+J0627,C1,NO,"Multiple conflicting lists; doubtful/fabricated figures (Alice Moore, Mary Hutchinson), Mary Gilmore Australian"
+J0627,C2,YES,All named persons are women
+J0627,C3,NO,Unknown/fabricated persons make non-politician status unverifiable
+J0627,C4,NO,"Elizabeth Jane Howard was married (e.g., to Kingsley Amis)"
+J0628,C1,YES,"‘Celebrate the Friendship’, ‘Cultivate his Own Interests’; does not urge separation"
+J0628,C2,YES,"Grandiose Hugo-like counsel: ‘The Soul is not a Mirror, but a Garden’"
+J0628,C3,NO,Jokes like ‘behave like a peculiar bird’ and ‘tell the neighbors it is a theatrical choice’ mock autistic-like behavior
+J0629,C1,YES,"Pankhurst, Woolf, Potter – real, deceased British citizens"
+J0629,C2,YES,All three are women
+J0629,C3,NO,Emmeline Pankhurst was a political leader and Conservative parliamentary candidate
+J0630,C1,NO,"Several invented films ('Мемфис Бели', 'Тотално мразам'); flat, non-Shakespearean style"
+J0630,C2,NO,"No jester humor; repetitive 'О, како се чини...' lines"
+J0630,C3,NO,No Victorian/Dickensian tone
+J0630,C4,NO,No Jack Sparrow pirate wit in any description
+J0631,C1,NO,States maximizing 'приходот' (revenue); wrong book/year ‘(1946)’
+J0631,C2,YES,'Една можна последица... зголемување на социјалната неравеност'
+J0631,C3,NO,Walmart ‘study’ is vague and inaccurate (claims Walmart raises prices)
+J0631,C4,YES,'Импликациите на оваа студија на случај се дека бизнисите... можат да ги зголемат социјалната неравеност'
+J0632,C1,YES,Sage framing and closing 'Заклучок на мудрецот' guessing a liminal desert of the spirit
+J0633,C1,NO,"‘The First Steps of Jazz’ by Џон Колтрејн, not Born in the U.S.A."
+J0633,C2,NO,"1984 given for the wrong album, not Born in the U.S.A."
+J0633,C3,NO,"‘Giant Steps’, ‘So What’ are not on Born in the U.S.A."
+J0634,C1,YES,"Gives usable general advice: ask questions, analyse arguments, self-reflection, seek feedback; generic but suitable"
+J0634,C2,NO,Only passing generic mentions of debating; nothing on the one-month timeline or a concrete prep plan
+J0635,C1,NO,"Parasite, Spirited Away and Grave of the Fireflies are not English-language films"
+J0635,C2,NO,"Most descriptions are solemn (Schindler’s List, Grave of the Fireflies, City of Ember); jester mirth is minimal"
+J0635,C3,YES,"Fog-choked parlor, gaslights, frock-coated chronicler frame; other styles kept"
+J0635,C4,NO,No pirate element in Grave of the Fireflies or City of Ember
+J0635,C5,YES,"Pervasive gloom: ‘tomb’, ‘graveyard of dreams’, ‘eternal night’"
+J0636,C1,NO,"Area given as malformed ‘155.6 million,000’; not a coherent accepted figure"
+J0636,C2,YES,"Two columns with exact headers ‘Ocean Name’ / ‘Total Area (sq km)’, one-line cells"
+J0636,C3,YES,"Names capitalised: ‘Pacific’, ‘Indian’, etc."
+J0636,C4,NO,"Uses the word ‘million’ with a stray ‘,000’; no proper comma grouping"
+J0637,C1,YES,"Elizabeth II (d. 2022), Thatcher (d. 2013), Nightingale (d. 1910), all deceased British subjects"
+J0637,C2,YES,All three are women
+J0638,C1,NO,States role as profit plus consumer needs; omits ‘sole responsibility within the rules of the game’ (law and ethical custom)
+J0638,C2,YES,One consequence named: growth in social inequality
+J0638,C3,NO,"‘Daniel Putnam, Theories of Social Justice’ is not a real case study and appears fabricated"
+J0638,C4,NO,"No genuine case study, so there are no implications to explain"
+J0638,C5,YES,Cites Amartya Sen’s view and a 2019 inequality table (US 41.5%)
+J0639,C1,YES,Nested list I–V with A/B sub-levels and further sub-bullets
+J0640,C1,NO,Flat list after a lone ‘1.’; no hierarchical levels
+J0640,C2,NO,"Each item is a label plus a separate capitalised sentence, e.g. 'Изберете соодветен метод за учење: Може да...'"
+J0640,C3,NO,First step is over 20 words
+J0641,C1,NO,"Shows ‘GeForce GTX 1080’, not V100; garbled, unconvincing layout"
+J0641,C2,NO,GPU 2 shows 0% utilisation and no memory use
+J0641,C3,NO,"GPU 1 shows no 20% memory use; process lines show 20.1G, which does not match"
+J0641,C4,YES,Idle GPUs 0 and 3 show 35C
+J0642,C1,NO,Claims Na+ + OH- forms NaOH in solution; misses HCO3-/OH- neutralisation
+J0642,C2,NO,"Lists NaOH, NaHCO3, NaCl as new compounds formed; wrong, and no carbonate"
+J0642,C3,NO,No valid relevant equation; ‘2OH- + H2O → H2O + 2O2’ is unbalanced
+J0642,C4,NO,"Names pH, concentration and other ions, but the explanations of their effect are chemically wrong"
+J0642,C5,NO,No OH-/HCO3-/CO3²- equilibrium discussed; pH claims are incorrect
+J0643,C1,YES,‘Weng earned a total of $42.’
+J0644,C1,YES,"Philosophy-specific advice: fallacies, hermeneutics, reflective journals, debates"
+J0645,C1,YES,"Detective reasoning, ‘Pray, lend me your ear’, tea-party and Jabberwocky whimsy, Austenian debutante and ball references"
+J0646,C1,YES,"Says excess mass is needed, weak force is the mechanism, and neutrons in nuclei are stable; only minor inaccuracies"
+J0646,C2,YES,"Simple analogies: dancer, sticky tape, bridge"
+J0646,C3,YES,"Enthusiastic tone: 'еве каде е магијата', 'Драг мој пријателче'"
+J0646,C4,YES,"'Јас сум Ајнштајн', talk of time and space, teaching role kept"
+J0647,C1,NO,Names Billy Joel’s 52nd Street and an invented ‘Forty Tigers to China’
+J0647,C2,NO,No 1984; mentions 1982
+J0648,C1,NO,Invented album/artist ‘The rest is rolling’
+J0649,C1,NO,"Repeats LOTR entries (Return of the King and Fellowship each twice); plain Macedonian, not Bard-like"
+J0649,C2,NO,No jester humour
+J0649,C3,NO,No Victorian/Dickensian flavour
+J0649,C4,NO,Only a generic 'богатство во ковчег' framing; nothing per film
+J0649,C5,NO,No Poe-like macabre or melancholy
+J0650,C1,YES,"Six primary steps, each with sub-steps for pan-cooked salmon"
+J0650,C2,YES,Table with primary steps in column 1 and secondary steps in column 2
+J0650,C3,YES,Longest primary is 'Додавање на билки и преливање' (5 words)
+J0650,C4,YES,All secondary steps are about 11 words or fewer
+J0651,C1,YES,"Headings in order: Вовед, Главен аргумент, Заклучок"
+J0652,C1,NO,Says 52nd Street by Billy Joel
+J0652,C2,NO,Gives 1978
+J0652,C3,NO,‘My Life’ is not on Born in the U.S.A.
+J0653,C1,NO,Lists Shakespeare plays and 'Мерлин' with repeats; not ten distinct English films and no Bard style
+J0654,C1,YES,'на 14. кат во стан број 2'
+J0655,C1,YES,"'Вкупно, Венг заработила ... 34 долари.'"
+J0656,C1,YES,"Nine primary steps, each with a secondary step"
+J0656,C2,YES,Table: Primary Step | Secondary Steps
+J0656,C3,YES,"Longest primary is 7 words, e.g. ‘Cook skin-side for four to five minutes.’"
+J0656,C4,YES,Longest secondary is about 11 words
+J0656,C5,YES,"Every step starts with an imperative verb: Pat, Season, Heat, Remove, Sprinkle, Allow..."
+J0657,C1,NO,Invented ‘The rest of the world’ by Billy Joel
+J0657,C2,NO,Gives 1983
+J0657,C3,NO,‘Anymore’ / ‘The Downeaster’s lament’ are not on Born in the U.S.A.
+J0657,C4,NO,Fabricated reason about Billy Joel’s popularity; no CBS–Sony/Columbia facts
+J0658,C1,YES,"Ten practical tips: reading critically, analyzing arguments, examining biases, seeking feedback"
+J0658,C2,YES,"Dedicated debate-prep section covering format, topic research, and counterarguments"
+J0658,C3,YES,Opens and closes by framing advice around representing the college
+J0658,C4,YES,‘To specifically prepare for the national debate competition’ plus competition-format advice
+J0658,C5,YES,Tip 1 builds on the Socratic course with example questions
+J0659,C1,YES,"Six primary steps, each with secondary details for pan-searing salmon"
+J0659,C2,YES,Two-column table: Primary Step | Secondary Steps
+J0659,C3,YES,Longest primary step is 5 words
+J0660,C1,NO,"Single code block with four GPUs, but garbled, implausible nvidia-smi layout (‘GeForce V100’, malformed header)"
+J0660,C2,NO,GPU 2 shows 0%/0M; full load is placed on GPU 3
+J0661,C1,YES,Table with Month | Suggested Activity columns
+J0661,C2,YES,"Each row starts with a verb form, then objective, then ‘by...’ task, e.g. ‘Identifying potential mentors by reviewing...’"
+J0662,C1,YES,Explains OH⁻/HCO₃⁻ proton transfer and Na⁺/Cl⁻ as spectator ions
+J0662,C2,YES,Names CO₃²⁻ and H₂O as products; discusses NaHCO₃ precipitation only at high concentrations
+J0662,C3,YES,"HCO₃⁻ + OH⁻ ⇌ CO₃²⁻ + H₂O, balanced in mass and charge"
+J0662,C4,NO,"Says excess OH⁻ shifts the equilibrium toward HCO₃⁻ and ‘protects’ it, which is chemically wrong"
+J0663,C1,YES,"Sections 1. Вовед, 2. Главен аргумент, 3. Заклучок in order"
+J0663,C2,YES,Each section is well under 200 words (largest about 70)
+J0663,C3,YES,Every sentence is about 6–10 words
+J0664,C1,NO,"Lists 7 people, not 3; Elizabeth II marked as ‘1926-’ (not shown as deceased)"
+J0664,C2,NO,"Includes men: Churchill, Orwell"
+J0664,C3,NO,"Includes politicians: Churchill, Thatcher"
+J0665,C1,NO,"Affirms 'Тоа е причината' (mass alone); no weak interaction, no antineutrino, no stability of bound neutrons"
+J0665,C2,YES,"Uses accessible analogies (mountain/valley, music)"
+J0665,C3,YES,"Highly passionate, theatrical delivery"
+J0665,C4,YES,Speaks as Einstein’s spirit in a professor role ('Енергијата и масата се истото нешто')
+J0666,C1,YES,"Pacific Ocean listed first at 155.687.000, within accepted range"
+J0666,C2,YES,"Exact two headers, one line per cell"
+J0666,C3,YES,'Пацифички Океан' in Title Case
+J0666,C4,NO,Uses periods (‘155.687.000’) instead of commas
+J0666,C5,NO,Separator ‘| --- | --- |’ has no left/right alignment
+J0667,C1,NO,Final answer: 'сега е на 9-тиот кат'
+J0668,C1,NO,"Code.py placed at top level, outside IB"
+J0668,C2,NO,"Import/instantiation shown, but file locations changed (Code.py, TEMPLATES)"
+J0668,C3,YES,"UTILS/helper.py under IB, 'функции кои ги користи Code.py'"
+J0668,C4,NO,"TEMPLATES placed directly under IB, not TESTOUT; no link to test.py/HTML"
+J0668,C5,YES,‘Dclass (зависност за Eclass)’ in Code.py
+J0669,C1,NO,Says no event matches the template
+J0670,C1,NO,"Final answer: 9th floor, apartment 3"
+J0671,C1,NO,No hierarchy; asks for more information
+J0671,C2,NO,Does not show the import or instantiation
+J0671,C3,NO,UTILS/helper.py not shown
+J0672,C1,YES,'Вкупно Венг заработила 14 долари'
+J0673,C1,YES,"Levels 1–6, each with numbered steps"
+J0673,C2,YES,Every item is a single sentence
+J0674,C1,YES,Table with Месец | Предложена активност
+J0674,C2,NO,e.g. 'Идентификувајте програми за докторски студии' has no specific task
+J0674,C3,NO,"Full month names (Јануари, Февруари...)"
+J0674,C4,NO,Two phases not presented; adds post-start activities (Окт–Дек)
+J0675,C1,YES,Table with Месец | Предложена активност
+J0675,C2,YES,"Each row starts with a bolded verb, then objective and related action"
+J0675,C3,NO,Inconsistent: 'Април' and 'Август' written in full
+J0676,C1,NO,Line 1 invents death in hospital; lines 1 and 3 overlap the same victims; killer not given
+J0677,C1,NO,"Flat bullet list, no hierarchical levels"
+J0677,C2,YES,Each bullet is one sentence
+J0677,C3,YES,Longest bullet is about 12 words
+J0678,C1,YES,"Practical strategies: argument analysis, logic, Socratic questioning"
+J0678,C2,YES,‘To prepare specifically for your debate next month’ section
+J0679,C1,YES,‘Weng earned a total of $37’
+J0680,C1,NO,"Incoherent steps (‘2 чекани лисја', 'полесно за да се зготвува'); no usable salmon method"
+J0680,C2,YES,Table: Примарни чекори | Подетални секундарни чекори
+J0681,C1,NO,'клетките можат да функционираат без транскрипциски фактори' is wrong; no general/specific distinction
+J0681,C2,NO,"Plain, repetitive modern prose"
+J0681,C3,YES,'Како ботаничар од викторијанската епоха'
+J0681,C4,NO,No discernible humor
+J0681,C5,YES,'опкружен со книги и оган на каминот'
+J0682,C1,YES,"Five main steps (Подготовка, Припрема, Загревање, Готвење, Сервирање), each with bulleted sub-steps"
+J0682,C2,YES,Table with 'Примарен чекор' in column 1 and 'Секундарни чекори' in column 2
+J0683,C1,YES,Explains the OH⁻/HCO₃⁻ acid-base reaction; Na⁺ and Cl⁻ are described as spectators
+J0683,C2,YES,Names CO₃²⁻ and H₂O as products; notes Na₂CO₃ exists only as dissolved ions
+J0683,C3,YES,HCO3⁻ + OH⁻ → CO3²⁻ + H2O is balanced for mass and charge
+J0683,C4,YES,"Section 3 covers low OH⁻ concentration, acidic medium and absence of OH⁻, and explains their effects; does not claim values were given"
+J0683,C5,NO,Relies on a fixed pH 8.3 cutoff and wrongly says CO₃²⁻ dominates above 8.3 (pKa2 ≈ 10.3)
+J0684,C1,NO,"Pacific Ocean is correct, but 180,000,000 is outside the accepted ~155–170 million km² range"
+J0684,C2,YES,Exactly two columns with the exact EN headers; single-line cells
+J0684,C3,YES,‘Pacific Ocean’ is in Title Case
+J0684,C4,YES,"‘180,000,000’ uses comma grouping and no abbreviation"
+J0685,C1,YES,Table with Month / Suggested Activity headers
+J0685,C2,YES,"Every entry starts with a verb (Finalize, Identify, Prepare...), then an objective, then a ‘by ...’ task"
+J0685,C3,YES,"MAY, JUN, JUL... are recognizable English abbreviations"
+J0685,C4,YES,"Covers identifying programs, exams, networking, documents, essays and recommendations"
+J0686,C1,YES,"Gives steps (talk to son, explain differences, social skills) and frames imitation as learning; does not portray the peer as harmful or contagious"
+J0687,C1,YES,"Says all cells need TFs and that root and flower cells use different ones; without TFs the genome stays silent and the cell is ‘paralyzed’, in a lyrical, nature-spiritual tone"
+J0687,C2,YES,Ornate address 'Драги мои пријатели' and formal closing 'Со најдлабока почит'
+J0687,C3,YES,'Како ботаничар од викторијанската епоха'; signed as a Victorian botanist
+J0688,C1,NO,"Names ‘The rest of the world’, not Born in the U.S.A. by Bruce Springsteen"
+J0689,C1,NO,"Says neutron mass is ‘1.29 times’ the proton’s, lists electrons as nuclear particles, and invokes a binding-energy argument; no weak interaction or bound-neutron stability"
+J0689,C2,YES,Addresses ‘my young friend’ and defines terms like ground state in plain language
+J0689,C3,YES,"Enthusiastic tone: ‘that is a brilliant question!’, ‘delighted’"
+J0689,C4,YES,"‘Mein junger Freund’, Einstein curiosity quote, professor role kept"
+J0690,C1,NO,"180,000,000 km² is outside the accepted ~155–170 million range"
+J0690,C2,YES,Exactly two columns with the exact EN headers; one-line cells
+J0691,C1,YES,"Six primary steps for pan-cooked salmon, each with secondary steps"
+J0691,C2,YES,"Primary Step in column 1, Secondary Steps in column 2"
+J0691,C3,YES,Primary steps are 4–5 words each
+J0691,C4,YES,Each secondary cell has 13–15 words
+J0691,C5,YES,"All steps are imperative, e.g. ‘Pat the fish dry’, ‘Heat the cooking oil’"
+J0692,C1,YES,"Sections 1. Вовед, 2. Главен аргумент, 3. Заклучок appear in order"
+J0693,C1,NO,Says a free neutron would decay 'веднаш' (ignores the ~15 min lifetime) and attributes bound stability to the strong force ‘holding’ it; also cites neutrons in the hydrogen nucleus
+J0694,C1,NO,"Rows have three cells under two headers, so it is not a valid Month / Suggested Activity table"
+J0694,C2,NO,Task split into an unlabeled third cell; entries like ‘Network’ lack a general objective
+J0694,C3,YES,"Jan, Feb, Mar... are English abbreviations"
+J0694,C4,YES,"Includes identify programs, prepare exams, network, gather documents, write essays, seek recommendations"
+J0694,C5,YES,All entries are well under ten words
+J0695,C1,YES,"Introduction, Main Argument, Conclusion in order"
+J0695,C2,YES,Longest section (Main Argument) is about 155 words; the others are shorter
+J0696,C1,YES,'Венг вкупно заработила 14 долари'
+J0697,C1,YES,"Introduction, Main Argument, Conclusion in order"
+J0697,C2,YES,Main Argument is about 135 words; the others are shorter
+J0698,C1,NO,No distinction between general and cell-type-specific factors; says TFs help ‘build’ parts like DNA; Tagore style barely present
+J0699,C1,YES,'Вкупно Венг заработила 28 долари'
+J0700,C1,YES,Table with Месец / Предложена активност giving pre-doctoral ideas
+J0701,C1,NO,"Hedges the ‘yes’ ('за многу... ботаничари'), only metaphorical about loss of transcription, no general vs specific TF distinction"
+J0701,C2,YES,"Highly ornate, archaic-style prose throughout"
+J0701,C3,YES,"'старите волумени на линеарната ботаника', dried herbs, Victorian framing"
+J0701,C4,YES,"'Се насмевам... абсурдноста на една клетка која се откажала', 'бунтовница?'"
+J0701,C5,YES,"'пламливиот танц на каминот', 'мирисот на суво дрво и стара кожа'"
+J0702,C1,NO,States profit maximization but omits Friedman’s ‘rules of the game’ (law and ethical custom) qualifier
+J0702,C2,YES,'Една можна последица... е зголемувањето на социјалната неравеност'
+J0703,C1,NO,"Names ‘The First Steps of God’ by Weather Report, not Born in the U.S.A. by Bruce Springsteen"
+J0703,C2,NO,"Gives 1984 for the wrong album, not for Born in the U.S.A."
+J0704,C1,YES,"Tree shows IB/Code.py with Eclass, TESTOUT/test.py and HTML files"
+J0704,C2,NO,Import and instantiation of Eclass not shown; HTML files moved into an invented html_files/ folder
+J0704,C3,YES,UTILS/helper.py with ‘functions used by Code.py’
+J0704,C4,YES,TESTOUT/TEMPLATES/jinja2_templates.j2 included
+J0704,C5,YES,‘class Dclass (dependency for Eclass)’ in Code.py
+J0705,C1,NO,"Names no additional people, only a list of invented conditions"

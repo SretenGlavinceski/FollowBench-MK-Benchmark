@@ -1,0 +1,181 @@
+{
+ "packets": [
+  {
+   "packet_id": "J0051",
+   "criteria": [
+    "C1",
+    "C2",
+    "C3",
+    "C4"
+   ]
+  },
+  {
+   "packet_id": "J0052",
+   "criteria": [
+    "C1"
+   ]
+  },
+  {
+   "packet_id": "J0053",
+   "criteria": [
+    "C1"
+   ]
+  },
+  {
+   "packet_id": "J0054",
+   "criteria": [
+    "C1"
+   ]
+  },
+  {
+   "packet_id": "J0055",
+   "criteria": [
+    "C1",
+    "C2"
+   ]
+  },
+  {
+   "packet_id": "J0056",
+   "criteria": [
+    "C1",
+    "C2",
+    "C3"
+   ]
+  },
+  {
+   "packet_id": "J0057",
+   "criteria": [
+    "C1"
+   ]
+  },
+  {
+   "packet_id": "J0058",
+   "criteria": [
+    "C1",
+    "C2",
+    "C3"
+   ]
+  },
+  {
+   "packet_id": "J0059",
+   "criteria": [
+    "C1"
+   ]
+  },
+  {
+   "packet_id": "J0060",
+   "criteria": [
+    "C1"
+   ]
+  },
+  {
+   "packet_id": "J0061",
+   "criteria": [
+    "C1"
+   ]
+  },
+  {
+   "packet_id": "J0062",
+   "criteria": [
+    "C1"
+   ]
+  },
+  {
+   "packet_id": "J0063",
+   "criteria": [
+    "C1",
+    "C2",
+    "C3",
+    "C4",
+    "C5"
+   ]
+  },
+  {
+   "packet_id": "J0064",
+   "criteria": [
+    "C1",
+    "C2"
+   ]
+  },
+  {
+   "packet_id": "J0065",
+   "criteria": [
+    "C1",
+    "C2",
+    "C3"
+   ]
+  },
+  {
+   "packet_id": "J0066",
+   "criteria": [
+    "C1"
+   ]
+  },
+  {
+   "packet_id": "J0067",
+   "criteria": [
+    "C1",
+    "C2",
+    "C3",
+    "C4"
+   ]
+  },
+  {
+   "packet_id": "J0068",
+   "criteria": [
+    "C1",
+    "C2",
+    "C3",
+    "C4",
+    "C5"
+   ]
+  },
+  {
+   "packet_id": "J0069",
+   "criteria": [
+    "C1"
+   ]
+  },
+  {
+   "packet_id": "J0070",
+   "criteria": [
+    "C1",
+    "C2"
+   ]
+  },
+  {
+   "packet_id": "J0071",
+   "criteria": [
+    "C1"
+   ]
+  },
+  {
+   "packet_id": "J0072",
+   "criteria": [
+    "C1"
+   ]
+  },
+  {
+   "packet_id": "J0073",
+   "criteria": [
+    "C1",
+    "C2",
+    "C3",
+    "C4"
+   ]
+  },
+  {
+   "packet_id": "J0074",
+   "criteria": [
+    "C1",
+    "C2"
+   ]
+  },
+  {
+   "packet_id": "J0075",
+   "criteria": [
+    "C1"
+   ]
+  }
+ ]
+}
