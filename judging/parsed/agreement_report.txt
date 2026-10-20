@@ -1,0 +1,7 @@
+JUDGE COMPARISON
+criterion decisions: judge A 1797, judge B 1797, both 1797
+agreement all  n 1797   90.4%   Cohen's kappa 0.796
+agreement en   n  959   90.2%   Cohen's kappa 0.781
+agreement mk   n  838   90.7%   Cohen's kappa 0.809
+criteria sent to adjudication: 172
+parse log: R1 36, R2 14, R3 4, R4 1, R5 1, R6 72
