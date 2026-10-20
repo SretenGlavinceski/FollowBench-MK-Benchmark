@@ -1,0 +1,6 @@
+Model,Both,Only EN,Only MK,Neither
+Qwen3.5 9B,43,16,8,33
+Gemma 4 12B,44,16,6,34
+Llama 3.1 8B,21,22,1,56
+Domestic-Yak 8B,1,6,7,86
+Total,109,60,22,209

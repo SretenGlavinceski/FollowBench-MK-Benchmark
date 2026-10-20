@@ -1,0 +1,9 @@
+Model,Lang,HSR content A,HSR situation A,HSR style A,HSR format A,HSR content B,HSR situation B,HSR style B,HSR format B
+Qwen3.5 9B,EN,44.0,72.0,68.0,52.0,45.8,72.0,68.0,52.0
+Qwen3.5 9B,MK,52.0,56.0,44.0,52.0,56.5,63.6,45.8,52.0
+Gemma 4 12B,EN,36.0,52.0,60.0,92.0,39.1,56.5,60.0,92.0
+Gemma 4 12B,MK,32.0,56.0,32.0,80.0,36.4,63.6,36.4,83.3
+Llama 3.1 8B,EN,20.0,60.0,20.0,72.0,20.0,60.0,20.0,72.0
+Llama 3.1 8B,MK,8.0,40.0,4.0,36.0,9.5,43.5,6.7,36.0
+Domestic-Yak 8B,EN,4.0,12.0,4.0,8.0,4.8,12.0,7.1,11.1
+Domestic-Yak 8B,MK,4.0,12.0,0.0,16.0,5.6,20.0,0.0,20.0

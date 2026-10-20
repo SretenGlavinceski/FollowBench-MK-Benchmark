@@ -1,0 +1,9 @@
+Model,Lang,Judged,HSR (%),SSR (%),CSL (families)
+Qwen3.5 9B,EN,99,59.6,77.8,2.84 (19)
+Qwen3.5 9B,MK,94,54.3,71.5,2.35 (17)
+Gemma 4 12B,EN,96,62.5,78.1,2.89 (18)
+Gemma 4 12B,MK,90,55.6,71.8,2.54 (13)
+Llama 3.1 8B,EN,100,43.0,62.5,1.75 (20)
+Llama 3.1 8B,MK,84,26.2,47.9,1.50 (12)
+Domestic-Yak 8B,EN,78,9.0,27.7,0.38 (8)*
+Domestic-Yak 8B,MK,64,12.5,27.9,0.50 (6)*
